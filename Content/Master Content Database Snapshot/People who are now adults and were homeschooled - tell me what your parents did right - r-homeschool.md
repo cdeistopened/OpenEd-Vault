@@ -1,0 +1,18 @@
+---
+Status: Idea
+Type:
+  - Tool
+Source URL: https://www.reddit.com/r/homeschool/comments/1fw7umq/people_who_are_now_adults_and_were_homeschooled/
+Created time: 2024-10-06T13:47
+Created time 1: 2024-10-06T13:47
+Text: Adults who were homeschooled shared positive experiences, highlighting the importance of reading, personalized learning approaches, real-life applications of lessons, limited school hours, community involvement, and learning through travel and museums. These methods fostered a love for learning and practical skills.
+---
+Comments:
+
+- Reading! Reading to me, reading to my siblings/me all together. Reading books themselves so I could follow their example (kids learn more by watching us adults than by what we say). Having shelves filled with books I could peruse. Giving me a library card as a kid. Teach a kid to read, enjoy reading, and read well, and they can learn anything they want.
+- No calculator usage. If we got something wrong,explain the rules, and have us try again. If we still got it wrong, then they would coach us through the steps.
+- Allowing me to learn differently than my siblings. We all had different ways of learning and while we all used the same curriculum, mom helped us adjust to learn things the way that helped us most. My brother, for instance, was a hands-on learner so mom found ways to apply his lessons to the real world.
+- Both my parents found ways to apply school lessons to real life. Math and chemistry, for instance, when teaching us to cook and bake. My dad is in construction and taught us all those skills; we pretty quickly realized how important math is while building things. History and how it relates to our understanding of today’s happenings. English, Creative Writing, and Etymology are all invaluable skills in the workforce…if you have a thorough understand of Etymology it makes learning anything much easier.
+- Limited "school" hours. We had sit down school Monday-Thursday from 8:30-12pm. There were assignments and extra curricular that needed to be done outside of those hours, but that was the time we could all expect to be at the table together. It helped with predictability, but also minimized us getting bored and distracted during school time. This was particularly helpful for those of us with adhd (undiagnosed at the time).
+- Utilizing community members who had knowledge my parents didn't. When we were younger we did things with a local homeschool group, which was great for seeing friends and getting different perspectives when learning. As we got older my mom tapped into individual community members to teach us things as well. The one that stands out to me in particular was my best friend's dad teaching us about stained glass. I have so much more of an appreciation for those massive stained glass windows now than I would have if I never tried to cut glass myself.
+- Learning through travel & museums! We did a lot of (mostly domestic) traveling while I was a kid and would always learn as much about a place as we could before we traveled there. We also would do things like read a book series and then visit the places in the books. It really brought the stories and histories to life for us. I feel like it also gave the information context in the greater world. All the travel (which I understand isn't realistic for everyone) also gave us an opportunity to community with lots of different people and learn how to navigate more social situations than we otherwise would have.

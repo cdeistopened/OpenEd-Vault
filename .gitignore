@@ -1,0 +1,22 @@
+node_modules/
+.env
+.DS_Store
+*.log
+test.html
+.vercel
+
+# Video files
+*.mp4
+*.m4a
+*.mov
+*.avi
+*.mkv
+
+# Large data files
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+
+# Archived large files
+Archived Large Files/

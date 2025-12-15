@@ -1,0 +1,468 @@
+<!--
+  templateType: "email"
+  isAvailableForNewContent: true
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>OpenEd Daily Newsletter</title>
+<!--[if mso]>
+<noscript>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+</noscript>
+<![endif]-->
+<style type="text/css">
+    /* Email Client Reset */
+    #outlook a { padding: 0; }
+    .ReadMsgBody { width: 100%; }
+    .ExternalClass { width: 100%; }
+    .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; }
+    body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+    table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+    img { -ms-interpolation-mode: bicubic; }
+
+    /* Reset styles */
+    body { margin: 0; padding: 0; }
+    img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+    table { border-collapse: collapse !important; }
+    body { height: 100% !important; margin: 0; padding: 0; width: 100% !important; }
+
+    /* Email-safe CSS defaults */
+    * { 
+        box-sizing: border-box; 
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+    }
+    body { 
+        margin: 0; 
+        padding: 0; 
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        background-color: #ffffff;
+        color: #333333;
+        width: 100% !important;
+        min-width: 100% !important;
+    }
+
+    /* Container */
+    .email-container {
+        max-width: 600px !important;
+        margin: 0 auto !important;
+        background-color: #ffffff !important;
+    }
+
+    /* Table resets for email compatibility */
+    table {
+        border-collapse: collapse !important;
+        border-spacing: 0 !important;
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+    }
+
+    /* Default styles for HubSpot rich text modules */
+    .hs-richtext p, 
+    .hs-richtext div,
+    .hs-richtext span,
+    .hs_cos_wrapper p,
+    .hs_cos_wrapper div,
+    .hs_cos_wrapper span {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+        color: #333333 !important;
+        margin: 0 0 10px 0 !important;
+        padding: 0 !important;
+    }
+
+    .hs-richtext h1,
+    .hs_cos_wrapper h1,
+    h1 {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 600 !important;
+        font-size: 24px !important;
+        text-align: center !important;
+        color: #333333 !important;
+        margin: 10px 0 15px 0 !important;
+        line-height: 1.2 !important;
+        padding: 0 !important;
+    }
+
+    .hs-richtext h2,
+    .hs_cos_wrapper h2,
+    h2 {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 600 !important;
+        font-size: 20px !important;
+        color: #333333 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    /* Ensure pasted content inherits these styles */
+    [contenteditable] p,
+    [contenteditable] div,
+    [contenteditable] span {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+        font-size: 16px !important;
+        line-height: 1.6 !important;
+        color: #333333 !important;
+    }
+    
+    [contenteditable] h1 {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+        font-weight: 600 !important;
+        font-size: 24px !important;
+        text-align: center !important;
+        color: #333333 !important;
+        margin: 10px 0 15px 0 !important;
+        line-height: 1.2 !important;
+    }
+
+    /* Links */
+    a {
+        color: #03a4ea !important;
+        text-decoration: underline !important;
+    }
+
+    /* Images */
+    img {
+        border: 0 !important;
+        outline: none !important;
+        text-decoration: none !important;
+        -ms-interpolation-mode: bicubic !important;
+        max-width: 100% !important;
+        height: auto !important;
+        display: block !important;
+    }
+
+    /* Mobile responsive styles */
+    @media only screen and (max-width: 600px) {
+        .email-container {
+            width: 100% !important;
+            max-width: 100% !important;
+        }
+        .container-padding {
+            padding: 10px 15px !important;
+        }
+        .logo-img {
+            max-width: 280px !important;
+            width: 100% !important;
+            height: auto !important;
+        }
+        .section-title {
+            font-size: 22px !important;
+        }
+        .article-content h1 {
+            font-size: 20px !important;
+        }
+        .article-content p {
+            font-size: 15px !important;
+        }
+        .forward-button {
+            padding: 10px 20px !important;
+            font-size: 14px !important;
+        }
+        .footer-text {
+            font-size: 11px !important;
+        }
+        .plane-container {
+            width: 60px !important;
+            height: 60px !important;
+        }
+        .plane-img {
+            width: 60px !important;
+            height: 60px !important;
+        }
+        .caught-up-title {
+            font-size: 24px !important;
+        }
+        .icon-circle {
+            width: 50px !important;
+            height: 50px !important;
+            margin-top: -40px !important;
+        }
+        .icon-img {
+            width: 25px !important;
+            height: 25px !important;
+        }
+    }
+</style>
+{{ standard_header_includes }}
+</head>
+<body style="margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; background-color: #ffffff; color: #333333; width: 100% !important; min-width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;">
+
+<div id="preview_text" style="display:none;font-size:1px;color:{{background_color}};line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">{% text "preview_text" label="Preview Text", value="", no_wrapper=True %}</div>
+
+<!-- Main Container Table -->
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+        <td align="center" style="padding: 0;">
+            <!-- Email Container -->
+            <table role="presentation" class="email-container" cellpadding="0" cellspacing="0" border="0" width="600" style="border-collapse: collapse; max-width: 600px; margin: 0 auto; background-color: #ffffff; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                <tr>
+                    <td class="container-padding" style="padding: 15px;">
+                        
+                        <!-- Header Section -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 0px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0;">
+                                    <!-- Top Bar -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 10px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="left" style="font-size: 12px; color: #666666; padding: 5px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                <a href="{{ unsubscribe_link }}" style="color: #03a4ea; text-decoration: underline;">Customize email subscription</a>
+                                            </td>
+                                            <td align="right" style="font-size: 12px; color: #666666; padding: 5px 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                Forwarded this email? <a href="https://opened.co/resources" target="_blank" style="color: #03a4ea; text-decoration: underline;">Subscribe</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Logo -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 5px 0;">
+                                                <a href="https://opened.co/resources" target="_blank" style="display: block; text-decoration: none;">
+                                    <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/3.png" alt="Thought Tool Trend" class="logo-img" width="350" height="auto" style="max-width: 350px; width: 100%; height: auto; display: block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic;"/>
+                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Special Announcement Section -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 30px; margin-top: 10px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 15px; background-color: #f8f8f8; border: 1px solid #e0e0e0; border-bottom: 3px solid #d0d0d0;">
+                                    {% module "announcement_text" path="@hubspot/rich_text", label="Special Announcement", html="<p style='margin: 0; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #333333;'><strong>Dear subscriber,</strong> this is a placeholder for a special announcement. You can use this space to share important news, upcoming events, or exclusive content with your readers. <a href='https://opened.co/resources' target='_blank' style='color: #03a4ea; font-weight: bold; text-decoration: underline;'>Subscribe here</a>.</p>" %}
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Quick Bites Section -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 30px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0;">
+                                    <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/4.png" alt="3 Quick Bites" width="300" height="60" style="width: 300px; height: 60px; display: block; margin: 0 0 15px 0; border: 0; outline: none; text-decoration: none;"/>
+                                    
+                                    <!-- Quick Bites Content -->
+                                    {% module "quick_bites_content" path="@hubspot/rich_text", label="Quick Bites Content", html="<p style='margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #333333; word-wrap: break-word; overflow-wrap: break-word;'><span style='display: inline-block; margin-right: 8px;'>🍎</span>Education policy shifts</p><p style='margin: 0 0 8px 0; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #333333; word-wrap: break-word; overflow-wrap: break-word;'><span style='display: inline-block; margin-right: 8px;'>🍎</span>Rising enrollment in charter schools</p><p style='margin: 0; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; color: #333333; word-wrap: break-word; overflow-wrap: break-word;'><span style='display: inline-block; margin-right: 8px;'>🍎</span>New classroom assessment platform</p>" %}
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Articles Section -->
+                        
+                        <!-- Thought Article -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 40px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0;">
+                                    <!-- Divider Line -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td style="padding: 0; border-bottom: 2px solid #000000; width: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Icon -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 0;">
+                                                <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/thought.png" alt="💡" width="40" height="40" style="width: 40px; height: 40px; display: block; margin: 0 auto; border: 0; outline: none; text-decoration: none; background-color: #ffffff; border-radius: 50%; padding: 5px;"/>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Article Content -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td class="article-content" style="padding: 0 10px;">
+                                                {% module "thought_article" path="@hubspot/rich_text", label="Thought Article (Title + Content)", html="<h1 style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 24px; margin: 0 0 15px 0; text-align: center; color: #333333; line-height: 1.2;'>Education policy shifts</h1><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0; color: #333333;'>Recent shifts in education policy are emphasizing a return to foundational skills. After a decade of experimentation with new teaching methodologies, many districts are finding that traditional approaches to reading and mathematics instruction produce more consistent results. This doesn't mean abandoning innovation, but rather ensuring that new methods are built upon proven foundations.</p>" %}
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Trend Article -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 40px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0;">
+                                    <!-- Divider Line -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td style="padding: 0; border-bottom: 2px solid #000000; width: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Icon -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 0;">
+                                                <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/trend.png" alt="📈" width="40" height="40" style="width: 40px; height: 40px; display: block; margin: 0 auto; border: 0; outline: none; text-decoration: none; background-color: #ffffff; border-radius: 50%; padding: 5px;"/>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Article Content -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td class="article-content" style="padding: 0 10px;">
+                                                {% module "trend_article" path="@hubspot/rich_text", label="Trend Article (Title + Content)", html="<h1 style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 24px; margin: 0 0 15px 0; text-align: center; color: #333333; line-height: 1.2;'>Rising charter school enrollment</h1><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0; color: #333333;'>Charter school enrollment continues to grow nationwide, with many families seeking alternatives to traditional public schools. This trend reflects broader concerns about educational quality and the desire for more personalized learning approaches. However, the growth also raises questions about resource allocation and the impact on traditional public school systems.</p>" %}
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Tool Article -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 40px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0;">
+                                    <!-- Divider Line -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td style="padding: 0; border-bottom: 2px solid #000000; width: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Icon -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 0;">
+                                                <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/tool.png" alt="🔧" width="40" height="40" style="width: 40px; height: 40px; display: block; margin: 0 auto; border: 0; outline: none; text-decoration: none; background-color: #ffffff; border-radius: 50%; padding: 5px;"/>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Article Content -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td class="article-content" style="padding: 0 10px;">
+                                                {% module "tool_article" path="@hubspot/rich_text", label="Tool Article (Title + Content)", html="<h1 style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 24px; margin: 0 0 15px 0; text-align: center; color: #333333; line-height: 1.2;'>New AI tutoring platform</h1><p style='font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0; color: #333333;'>A new AI-powered tutoring platform promises personalized learning experiences for students across all grade levels. The platform uses adaptive algorithms to identify knowledge gaps and adjust instruction accordingly. Early pilot programs show promising results, with students demonstrating improved engagement and learning outcomes compared to traditional tutoring methods.</p>" %}
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Dividing Line -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 10px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td style="padding: 0; border-bottom: 2px solid #000000; width: 100%;"></td>
+                            </tr>
+                        </table>
+
+                        <!-- Caught Up Section -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin: 40px 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td align="center" style="padding: 20px 0; text-align: center;">
+                                    
+                                    <h2 class="caught-up-title" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; font-size: 32px; margin: 0 0 35px 0; color: #333333;">You're all caught up!</h2>
+                                    
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td style="padding: 0;">
+                                                <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0; color: #333333; text-align: center;">If you found this newsletter valuable, please share it with a friend or colleague.</p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Signature -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td style="padding: 0 10px;">
+                                                <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.6; margin: 0; color: #666666; text-align: left; font-style: italic;">– Charlie (the OpenEd newsletter guy)</p>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Paper Airplane -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-bottom: 15px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 0;">
+                                                <a href="mailto:?subject=Check%20out%20OpenEd%20Daily&body=I%20thought%20you%20might%20find%20this%20newsletter%20interesting%3A%0A%0ASign%20up%20at%20https%3A//opened.co/resources" style="text-decoration: none; display: inline-block;">
+                                                    <img src="https://45961901.fs1.hubspotusercontent-na1.net/hubfs/45961901/Daily%20Images/paper%20airplane.png" alt="✈️" class="plane-img" width="90" height="90" style="width: 90px; height: 90px; display: block; border: 0; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; margin: 0 auto;"/>
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Forward Button -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" style="padding: 0;">
+                                                <a href="mailto:?subject=Check%20out%20OpenEd%20Daily&body=I%20thought%20you%20might%20find%20this%20newsletter%20interesting%3A%0A%0ASign%20up%20at%20https%3A//opened.co/resources" class="forward-button" style="display: inline-block; background-color: #ffffff; color: #03a4ea; text-decoration: none !important; padding: 12px 25px; border: 2px solid #03a4ea; border-radius: 5px; font-weight: bold; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px;">Share with a Friend</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <!-- Footer -->
+                        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-top: 40px; border-top: 1px solid #e0e0e0; padding-top: 20px; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                            <tr>
+                                <td align="center" style="padding: 0; text-align: center;">
+                                    
+
+                                    <!-- Footer Links -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" class="footer-text" style="padding: 5px 0; font-size: 12px; color: #666666; line-height: 1.6; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                Update your <a href="{{ unsubscribe_link }}" style="color: #03a4ea; text-decoration: underline;">email preferences</a> or <a href="{{ unsubscribe_link }}" style="color: #03a4ea; text-decoration: underline;">unsubscribe</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="footer-text" style="padding: 5px 0; font-size: 12px; color: #666666; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                &copy; {{ year }} {{ site_settings.company_name }}
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" class="footer-text" style="padding: 5px 0; font-size: 12px; color: #999999; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                {{ site_settings.company_street_address_1 }}<br/>
+                                                {{ site_settings.company_city }}, {{ site_settings.company_state }} {{ site_settings.company_zip }}
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="padding: 15px 0 5px 0;">
+                                                <!-- Social Media Links -->
+                                                {% module "social_media" path="@hubspot/social_media_follow", label="Social Media Links" %}
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                                    <!-- Footer Note -->
+                                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; margin-top: 15px; padding-top: 15px; border-top: 1px solid #eeeeee; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                        <tr>
+                                            <td align="center" class="footer-text" style="padding: 5px 0; font-size: 11px; color: #999999; line-height: 1.4; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+                                                You received this email because you are subscribed to OpenEd Daily.
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+{{ standard_footer_includes }}
+</body>
+</html>

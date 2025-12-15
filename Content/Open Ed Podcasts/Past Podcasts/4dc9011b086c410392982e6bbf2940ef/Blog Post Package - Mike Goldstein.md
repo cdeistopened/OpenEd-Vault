@@ -1,0 +1,271 @@
+---
+Status: Posted
+Type:
+  - Podcast
+Post Date: 2025-08-25
+Source URL: https://opened.co/blog/finding-your-childs-superpower
+Parent podcast:
+  - "[[Mike Goldstein]]"
+Notes/Contributors: Ela
+Created time: 2025-08-11T22:17
+Created time 1: 2025-08-11T22:17
+---
+[https://youtu.be/W9UKiKScGe0](https://youtu.be/W9UKiKScGe0)
+
+[https://creators.spotify.com/pod/profile/the-opened-podcast/episodes/Why-School-Fails-Most-Kids--Mike-Goldstein-e36u32a](https://creators.spotify.com/pod/profile/the-opened-podcast/episodes/Why-School-Fails-Most-Kids--Mike-Goldstein-e36u32a)
+
+<iframe src="[https://creators.spotify.com/pod/profile/the-opened-podcast/embed/episodes/Why-School-Fails-Most-Kids--Mike-Goldstein-e36u32a/a-ac3tbfr](https://creators.spotify.com/pod/profile/the-opened-podcast/embed/episodes/Why-School-Fails-Most-Kids--Mike-Goldstein-e36u32a/a-ac3tbfr)" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+## SEO Title
+
+The Average Student Paradox: Why Schools Fail the Kids in the Middle
+
+1. "The Invisible Crisis: Why Average Students Get Overlooked in Today's Schools"
+2. "Finding Your Child's Superpower: Why 'Average' Students Need Specialized Attention"
+3. "Beyond A's and F's: How Schools Fail the Silent Majority of Students"
+4. "The Middle Child Syndrome of Education: Why B Students Deserve Better"
+5. "Mediocrity Trap: How Our Education System Neglects the Kids in the Middle"
+
+## Preview Text
+
+Charter school founder Mike Goldstein reveals education's blind spot: Schools have programs for struggling students and gifted kids, but the vast middle—the "average" students—get nothing. Here's why that's a crisis.
+
+## Blog Post
+
+Mike Goldstein has a theory that will make most parents uncomfortable: Your "average" kid might be the most neglected student in the entire education system.
+
+"I think parents get easy information in two ways," Goldstein tells me. He's the founder of Match Charter School in Boston, where he once built a dormitory for 42 tutors above the classrooms—but more on that later. "You get a report card and often standardized test scores on top of that. So you know how your kid more or less is doing from eight to three, and then you go usually every year to the doctor and your kid gets a checkup."
+
+Academic performance. Physical health. Check, check. But then Goldstein says something that should terrify every parent of a B student: "The rest, you're kind of on your own."
+
+### The Myth of One-Size-Fits-All Education
+
+Here's the paradox that Goldstein discovered after decades in education: We think standardized education serves the average student while failing the extremes. The reality is more nuanced.
+
+Walk into any school and you'll find specialized programs for struggling students—reading specialists, learning support, IEPs, extra tutoring. You'll also find gifted programs, AP classes, enrichment opportunities for high achievers. But that vast middle? The kids who get Bs and Cs, who don't cause problems but don't excel, who are "fine" but not thriving?
+
+They get nothing special. They're the forgotten majority.
+
+"There's a number of teens who would describe themselves: I'm not really good at anything. I'm sort of okay and there's nothing I do well enough to kind of enjoy that," Goldstein explains. "I wanna spend additional hours on it, and I feel like that's a, that's a warning sign."
+
+Think about that. These kids can't name a single thing they're genuinely good at. Not one domain where they've experienced real excellence. They float through school in a fog of mediocrity, never failing enough to get help, never succeeding enough to feel proud.
+
+### Every Kid Needs One Win
+
+This brings us to Goldstein's central insight, the one that changed how he thinks about education: Every child needs to find at least one thing they can win at.
+
+"Once you get reasonably good at something, you have a sense of pride, but it also intellectually opens up a whole new world. Like how could I go from good to great?" he explains. "It's fascinating and you can only explore that journey if you first make it to being pretty good, right?"
+
+The magic isn't in the particular skill. It doesn't matter if it's chess or cooking or coding or rock climbing. What matters is the experience of genuine competence, of earned excellence, of being actually good at something.
+
+Goldstein has seen this transformation countless times. A kid finds their thing—maybe it's music, maybe it's martial arts, maybe it's building computers—and suddenly they develop what he calls "momentum." They start to believe they're capable of excellence. That confidence bleeds into other areas of their life.
+
+But here's the tragedy: For many average students, school actively prevents this discovery. They're so busy being mediocre at seven different subjects that they never have time to be excellent at one thing.
+
+### The $30,000 Question
+
+Goldstein drops a number that should make every taxpayer furious: Boston spends $30,000 per student per year in public schools. Thirty thousand dollars. Per kid. Per year.
+
+"You start to think, ‘Wow. If those parents had $30,000 cash, and they spent $18,000 to send the kid to the Catholic school, they could still spend $12,000 to help the kid find hobbies or get them a good therapist if they have mental health issues, or whatever they… that could be really cool."
+
+The thought experiment is revealing. What if parents could direct that money toward what their specific child actually needs? Not what the system thinks the average child needs, but what their particular kid requires to thrive?
+
+### The 360-Degree Child Nobody Measures
+
+"How's my kid doing overall?" It's such a simple question, yet Goldstein argues that no one is answering it. Schools measure academic performance. Doctors measure physical health. But who's measuring whether your child has friends? Whether they have a sense of purpose? Whether they have something they love doing?
+
+"It's hard for parents to figure out," Goldstein admits. "You're essentially gathering intelligence through dinner table conversations, going on walks, and trading notes with your spouse or other key people in the kid's life. All the while, you're trying to answer that fundamental question: does this kid have a sense of purpose?"
+
+He envisions a service that doesn't yet exist: a holistic evaluation of your child's overall thriving. Not just grades and test scores, but social skills, emotional health, interests, passions, relationships. A true 360-degree view of whether your kid is flourishing or just floating.
+
+### The Dorm Above the School
+
+This brings us back to that dorm. When Goldstein realized his students needed intensive one-on-one tutoring, he didn't do what most schools would do—hire a few part-timers and call it a day. He built a dormitory on the top floor of his school and recruited 42 recent college graduates to live there.
+
+"These 40, 22 year olds will come downstairs and then all they'll do all day is tutor our students," he explains. "And that was how we built enough capacity for our little school."
+
+It's a perfect metaphor for Goldstein's approach to education: When the standard solution isn't enough, invent something radical. When average isn't working, refuse to accept average.
+
+The lesson isn't that every school should build a dorm. It's that we need to stop accepting mediocrity as inevitable for the kids in the middle. They deserve the same creativity, the same resources, the same attention we lavish on the extremes.
+
+Because here's what Goldstein knows that most educators won't admit: Being average isn't natural. It's what happens when kids never find their thing, never experience excellence, never discover what they could be genuinely good at.
+
+"You gotta get momentum," Goldstein insists. One win. One domain of genuine competence. One thing they can point to and say, "I'm good at this."
+
+For the forgotten middle, that might be everything.
+
+_Mike Goldstein founded Match Charter School in Boston and served as Chief Academic Officer at Bridge International Academies. Learn more at [mikegoldsteineducation.com](https://www.mikegoldsteineducation.com/)._
+
+  
+
+# TRANSCRIPT
+
+_OpenEd Podcast Episode - Ela Richmond_
+
+---
+
+## Timestamped Outline
+
+**00:00** - The Charter School Experiment Begins
+
+**02:15** - The Dorm Solution: 42 Tutors Living at School
+
+**05:30** - Why One-on-One Beats Classroom Teaching
+
+**08:45** - The Scale Problem: When Good Ideas Go Bad
+
+**12:20** - The Advisory Period Disaster
+
+**15:30** - Why Choice Beats Top-Down Reform
+
+**18:45** - The Parent's Dilemma: How to Assess Your Kid
+
+**22:15** - The 360-Degree Evaluation Problem
+
+**25:30** - The Harvard Flourishing Assessment
+
+**28:45** - The $30,000 Question: What If Parents Had Control?
+
+---
+
+## 00:00 The Charter School Experiment Begins
+
+**Ela:** Welcome back to the OpenEd Podcast. I'm your sometimes host Ella, and I'm joined by Mike Goldstein today. Mike, can you tell me how you even got started in this whole world of education?
+
+**Mike:** I was a grad student studying education policy at Harvard. I thought I would help mayors and governors do big stuff, and instead I found myself opening a tiny little charter school that was my grad school project. I graduated in 1998 with my little master's degree, applied that year to the Massachusetts Department of Education Charter School. They said no. Rejected. There were 50 teams that applied, eight were approved, and my application was number nine. They were probably right to reject me—I didn't really know what I was doing. I applied again the following year, they approved it, and the school opened in September of 2000.
+
+**Ela:** Was this at the very beginning of alternative education? What was happening in the education world as you were opening this charter school?
+
+**Mike:** Charter schools took off in roughly the early nineties, so by now in Massachusetts there were a handful. We might have been the seventh charter school in Boston, and the second high school. The other thing happening was No Child Left Behind was passed right around that time. Ted Kennedy from Massachusetts combined with President George Bush and they passed this law around standardized tests and accountability for schools.
+
+**Ela:** What was your vision with the charter school?
+
+**Mike:** I thought that for a lot of kids, high school was boring. In suburban public schools, there was a cohort where maybe it was a little boring but still worked pretty well. A lot of those kids went to college. I was one of those kids. Then there was a lower track where those kids actually didn't do very well. But in high poverty areas like downtown Boston—Dorchester, Roxbury, Mattapan, Hyde Park—these were very poor kids. If you went to their high schools, even the high track wasn't necessarily going to college that frequently. Everybody was sort of in trouble. The idea was, let's start a school that's hopefully less boring but helps kids become the first in their family to go on to graduate from college.
+
+---
+
+## 02:15 The Dorm Solution: 42 Tutors Living at School
+
+**Ela:** What happened next that deepened you into the education space?
+
+**Mike:** I got lucky and hired a great principal who'd been a teacher for 33 years. Imagine me—the nerdy grad student with the spreadsheets, doesn't really know what he's doing, thinks he's smart—and then this Massachusetts Teacher of the Year who connected with every kid, dealt with every challenge, was tight with every parent. Parents loved this guy. He would call them all day and all night on his phone and check in with them. We had a good school going because of this guy named Charlie.
+
+We were trying different things. We were trying to integrate project-based learning, but that wasn't really going that well. What did start to go well was giving kids a lot of one-on-one tutoring. We started to change the school. It was always heavy on building relationships and getting kids to try really hard. From a curriculum point of view, we started dialing back on project-based learning and dialing up on math and English one-on-one tutoring to help these ninth and tenth graders catch up on stuff they'd nominally been taught in grades 3-8. What's a fraction? How do you add them? What's an adverb? There was a lot of filling in what they didn't know when they arrived at age 14. That was really much better done with tutors one-on-one than with a classroom of 20 kids.
+
+**Ela:** So you found that every student has very different gaps, and one-on-one support allows for more comprehensive education.
+
+**Mike:** There's a mix of that, but even where kids have the same gap—let's say fractions—some don't even know what a fraction is, some can multiply fractions but can't subtract them because you gotta change the denominator. What most schools do is divide them into rough groups and the teacher helps them. That part is okay, but the mechanism of helping when somebody is confused is usually the teacher has to stop talking and get the kid to try to blurt out what's in their head. Even when they're missing the same thing, the path to get them caught up is often different. You might respond differently to tutoring than me. It's easier for our tutor to help us one at a time instead of concurrently. That's the advantage of one-on-one instruction versus even a small group of five kids who roughly have the same academic shortcoming.
+
+**Ela:** Everybody's perspective is different. I assume people would object that we don't have enough teachers anyway. How do you recommend people do this? Nowadays we have AI and different ways to scale one-on-one, but it's fascinating sitting between personalized education versus a standardized approach that needs to optimize for scale. I assume most teachers in a public school agree that one-on-one is best, but they say they can't do it. How did you solve for that?
+
+**Mike:** Remember the first problem I had to solve: we have a small number of kids and they all benefit when they get one-on-one. I just need to invent a way for us to have a lot more capacity, but it's only for one tiny school. When we bought the building, it was a three-story building. The original plan was to rent out the top floor to help pay the mortgage. When we realized we needed tons and tons of tutors, we came up with this crazy plan. We would build it out as a dorm. Imagine like a college dorm. We'd build 14 triples for three kids with bunk beds. We'd recruit 42 full-time tutors, Teach for America style. They're gonna come to us for one year, they won't have to pay for housing, they're gonna live in a triple on the top floor of the school. Every day at 8:00 AM these 42 22-year-olds will come downstairs and all they'll do all day is tutor our students.
+
+**Ela:** That's definitely great entrepreneurship. You're not thinking about the problem the same way—"we need more teachers"—it's like, "well, actually there's this subset of the population that would love an opportunity to live in this area or take a gap year or see if teaching is right for them." What was that like building that out?
+
+**Mike:** There's a Harvard case study about this particular thing. I was like, "Hey, I have this crazy idea, but here's why I think legally it would work, here's why financially it could work." Luckily we had really good people on the board, including some donors who put money against it. We were able to raise charitable money to pay for the build-out of this empty floor. We recruited and the first year we got maybe 250 people to apply for these 40 full-time tutoring slots. These were all recent college grads. Today I'm having dinner with one of these people—Laura was one of our first 40 tutors. She had just graduated from Princeton, didn't know if she wanted to be a teacher, liked the idea of a year of public service, didn't mind eating macaroni and cheese for a year. She was super capable and went on to have a great career in education. A lot of people like that were just so passionate and wanted to give. What they liked about the job: "I think I'm good with one or two kids at a time. I don't know if I'm good with 25 kids at a time." It became an on-ramp for a lot of people to get into education, and other people were like, "This is my year, I did it, I loved it, now I'm going to med school."
+
+---
+
+## 08:45 The Scale Problem: When Good Ideas Go Bad
+
+**Ela:** Moving us forward, what questions have been the pillars of your career in education? What have you been trying to understand and solve for?
+
+**Mike:** I've been lucky that a lot of times what I've been first curious about is: if we measure whatever we're doing, how can we measure and know for sure if it's really helping kids or not? The arc of my career has been joined often by economists who love to run randomized control trials. These are social scientists really good at answering this question. In a charter school, if we have 50 new kids, there might have been 500 kids who applied and we randomly drew them out of the hat. A Harvard MIT economist can come in, take all those names and say, "We'll track how all these kids do over the next 5, 10, 15 years. The ones randomly assigned to your little school versus everybody else who ended up at any other place." The question of impact and causal impact at a very nerdy level—I've really loved working on that.
+
+A second question is scale. What I often see, and I bet this will resonate with a lot of the OpenEd listeners, is various educators figure out something that works in a very boutique way. They're very passionate about it, create a little program, and because they're so passionate and skilled for those kids, it works really well. Then it attracts attention and gets scaled. But the way often scaling happens is you take an idea, then somebody who's a boss-level person—a state department of education or school superintendent—they'll say, "Hey, this is working here. Now everybody should do X." When you interview and observe people that are actual teachers or school leaders and X has been imposed on them, you say, "How's that going?" Almost always their answer is some version of "they're half-assing it." "Well, the big thing this year is we're supposed to teach phonics. So we're doing it." My question might be, "Are you fascinated by it? Are you obsessed with it? How are you checking if it's working? Are you in the classrooms all the time to see if the kids are responding?" They're like, "Nah, it's just this year's thing to do."
+
+The arc of my career, I've come to be like a cheerful cautionary. People try to scale up stuff because you get farther and farther from the adults really genuinely caring about the quality. Kids are on the receiving end of interventions that some adult thought would be good, but they've been diluted so much that from the kid's point of view, it's like, "What are we even doing?"
+
+---
+
+## 12:20 The Advisory Period Disaster
+
+**Mike:** Here's an example from our dinner table. There's this idea in high schools: "We need to have more connectivity between adults and kids. Let's create small group advisory." This word "advisory" caught traction. Every teacher, here's your seven kids, you're gonna meet with them every morning for 15 minutes. In a couple schools where they really pioneered this, they became like a little family. Those seven kids and the teacher—it was great. But when you see it scaled, it's like the math teacher's like, "All right, principal told me to do something dumb called advisory. Hey kids, here's what's gonna happen. If I'm forced to, I'll nominally teach you a curriculum, but I don't care if you really do your homework for other classes. I'll just go through the motions. When we're not really held accountable for advisory, look, I'd rather just get ready for my period one geometry class. You guys, I'm sure you have stuff to do or chat you want to do with your friends or prep for a quiz. You do you, I'll do me during advisory period."
+
+That's a classic where the people who created this advisory protocol are like, "Oh my God, we're building so much social cohesion in a school." Whereas my kids would be like, "Yeah, that's the dumb first 15 minutes we could easily cut that from the schedule."
+
+**Ela:** I have a personal anecdote of this. In high school, I had this teacher that thought it'd be awesome to do a Shark Tank style thing where everybody has to think up a business and present it. While it has worked in other schools and classrooms, for my classroom, I don't feel like I got anything out of it. I was reflecting on it recently because I thought about that from the perspective of now—a person that appreciates entrepreneurship—how would I give that experience to another kid? What are the variables that actually made it not go correctly? One of them is what did he do in the lead-up? He decided we were gonna make this a lesson, put us into groups, made this our priority. But I think most of teaching is part art, part science. The science is what they put in the books and what they say is the lesson plan, but the art part is: are your students motivated? Are they bought in? What is all their prior knowledge? How are they thinking about how this impacts them personally? Even things like if you're doing this in a classroom with self-directed learners used to entrepreneurship, it'll obviously take a lot better than if you're doing it in a classroom with people unfamiliar with it. I was really good at school, so something like that created stress and anxiety because I was like, "I don't know if this is right or not." What is your thought about idealism versus trying to actually make it work on the day-to-day level?
+
+**Mike:** That's a great question. I think I've always anchored first on direct observation of what's happening. To use your Shark Tank analogy, let's say you and I would jump in and audit on Zoom 10 classes around the country that had some kind of shark tank thing going on, and we just eyeballed it. We'd probably rate a few of those classes as an eight out of 10 because we could see the engagement and the kids are following, or we chatted with a couple kids and they're like, "This class is really awesome." We'd probably see a couple at the other end where for various reasons it's just an unhappy two or three out of 10 type class. It could be the teaching is bad, inauthentic, or reasonable but the kids really don't like it. It could be what you were saying—the teacher's operating up here but the kids are missing so much prior knowledge that the teacher would be doing a good job for a more skilled entrepreneurship student but a very bad job for a beginner.
+
+The tribe I tend to professionally associate with are people like me that are almost like first journalists. I need to see it and see what's going on at the teacher level, curriculum level, school level, reform level, policy level. It's all like, "Let's go look downstream from that." That's how you form basic hypotheses of "I think it's working, I think it's failing." Downstream, then you can go to the economist and measure something. But there's a much earlier phase.
+
+A challenge with idealists in education is they find it very disturbing usually to look at the real work because often you know it's not going that well. It doesn't matter what your particular idealistic view is or the pet thing that you love—schooling is really hard. The fight I often get into, and I think the easy way that I cut through bullshit versus real, is I'm quickly talking to professional people in education and saying, "Just describe when you were in the classrooms last week, what you saw." Certain people will jump in and other people evade a little bit and say something that's not what I saw last Thursday. I'll be like, "No, literally what was the day, where were you, who did you see?" You realize a lot of people in this space are doing some version of telling teachers and school leaders what to do by creating curriculum or training or interventions or policy. They're not willing to hold themselves accountable. They literally won't look. Most people who create curriculum do it in an office room. A lot of these people aren't actually in the schools watching lessons not go well. Or if they don't go well, they're like, "Oh yeah, the teacher sucked." If you're a playwright and you write a bad play, bad scene, you could say the actors failed and maybe occasionally that's true. But a lot of times it's like, "No, you should be accountable. Why don't you try to write a new scene?" We need more of that in education. Just eyeball what's going on, reasonable person, and then decide what you need to change.
+
+---
+
+## 15:30 Why Choice Beats Top-Down Reform
+
+**Ela:** Given all of that, it seems like you're saying there is no perfect way. As much as we would love to find the perfect thing for every single school to do and for every single student to flourish, there is no perfect way. Do you think that scale is possible with that? When you're saying it's best for a teacher to be like a journalist, to be like a researcher, to see their lesson as something they can improve upon, that really reminded me of something Michael Horn said about Clay Christensen—he took his class multiple times, multiple years, and over the years he saw Clay would get into an argument with the students, see areas where they made a point he didn't realize, and then he would change his lesson because of it. But that happens in one classroom, not 100 simultaneously. Do you think that scale is possible for this approach or no?
+
+**Mike:** I would put it this way: I think choice is the mechanism that maximizes quality overall, and I don't think it's a perfect system. It's just better than all the other more top-down type systems. I think there's a lot of skilled teachers out there that are craftsmen, craftswomen. They care deeply about excellence and they have different paths for that, different definitions of that. Some of them are better than others at either leaning into systems that the school is providing—"Hey, we can give you some coaching"—and some people take advantage of that. Some people are held back by the systems that the school puts in. They were doing well with their hand-chosen curriculum, and then the district gets a new one and now they're not playing to their strength. Teacher who loved teaching Shakespeare, and then the district's like, "We don't think it's relevant anymore, we're gonna teach these other books." That teacher might lose all of her mojo.
+
+I want to maximize choices at the kid and parent level, the individual teacher level, the institutional level, rather than imagining scaled systems that are top-down delivery of "Hey, here's the syllabus we're all gonna use because we figured out that it's optimized for everybody." They each have their obvious perils, but I lean more towards lots of people making their own choices and therefore increasing authenticity one by one, adding up to 70 million kids versus including some bad decisions along the way, but always at the little level instead of "Hey, I'm in charge of California's education system, so I'm gonna impose this on millions of kids and it doesn't really work in real life."
+
+---
+
+## 18:45 The Parent's Dilemma: How to Assess Your Kid
+
+**Ela:** We've talked a lot about where the teacher comes in. What about the role of the parent in traditional public school, private school, charter? Where's the role of the parent in that?
+
+**Mike:** In some cities, poor parents have been given a lot more options and therefore they can operate more like middle and upper middle class families. There's always been a lot of choice. A lot of times families exercise choice by "We're gonna move to the following school district." That's the way we exercise choice. Sometimes, particularly at the high school level, a kid might have a whole bunch of different types of schools—public, private, charter—and they have some agency and choices there. The number one thing a parent gets to do is pick, hopefully. Sometimes this is very constrained for parents. Where is your kid going to school? Or with older kids, if my kid's not doing well in school A, can I get them over to school B? That's the first and primary mechanism of how parents interact with schools.
+
+I wrote a book a long time ago about parent-teacher communication. One thing we did in our little charter school was all of the teachers would proactively call up all the parents. I would call up your mom and dad if I was a teacher and say, "Hey, little Ella, she's having some strengths over here, she's struggling over here. I want you to praise her for this. She had a great moment in blah blah blah." There was a lot of proactive communication, not to the parent council, not an email blast of "here's what the whole school is doing." It'd be just about Ella, just about the kid. I think that can be very valuable, but often schools resist that type of one-to-one. They're just like, "Well, they can read the report card." Private schools are much more likely to really try to be authentically having back and forth conversations with parents. I think that's often a strength of private schools. Traditional public schools rarely want to do that, certainly past the elementary school level. The middle school teacher will say, "Well, I got 130 kids. I don't want to have 130 conversations." The private school would say, "Yeah, well you have to, because that's what parents are paying for. They want to feel like their kid is known." That's a legitimate goal.
+
+Obviously parenting—you're either lucky. I honestly feel we're pretty lucky. We have two kids, you mentioned Ella, you were good at school. Our two kids are pretty good at school. Not like school comes easy, doesn't mean they don't have to work hard, doesn't mean they don't have challenges. It just means I think schools—I wish they were much better with the parents that have kids for whom school is not coming easily. It's just an uphill march every day. It could be social, academic, emotional, a whole bunch of things. I feel like often there's tension between school saying, "Hey, we are what we are. You gotta get your kid to suck it up," and the kid's just not thriving and the parent wants help and accommodation from the school. That's why choice is important because you're probably not gonna be able to negotiate your way to change the school very much. That's why I'm skeptical of the parent council and the school board and all that stuff. I think better to have the right to exit and just find a new place that fits your kiddo. That's why I would love to see a lot more models pop up, a lot more choices for families just to try for that group of kids where school is just not coming easily.
+
+**Ela:** Do you think the barrier to entry should be lower? I'll use my family as an example. There's four of us total. All of my siblings did a different type of education. It wasn't intentional, but my younger brother ended up going to four or five schools between eighth grade and finishing high school because he was chasing different things and there were different priorities in his mind. First he went to a couple schools for football, then he moved cities and decided that wasn't his priority anymore, so he went to a school that was entirely different and had different things it was known for. My parents are very relaxed about that. They knew he was doing well, we've all been good at school, they knew he would thrive in most places, but most parents have hesitancy or fear of putting their kids in so many different situations. Most parents would look at that and think, "He went to a lot of schools." How many times should you be trying to rinse and repeat? As a parent, I can imagine there's hesitancy to say, "This school's not working, we're gonna try another one. This school's not working too, we're gonna try another one." That commitment to continuing to try and figure out how to solve this problem—is it really the school? Is it extra support on the side? How do you figure that out as a parent?
+
+**Mike:** Most kids, if they're gonna switch schools, switch once. That's the most common pattern. If they leave the local public school district and switch to a private, that's usually a one-time change. Maybe they're going to a different place for high school because the K-8 runs out of years. There's a lot of one-time changes. I think if we focus on the kids that either for opportunities—sounds like your brother is an unusual one—usually the multiple switchers are because they're not thriving in school A nor school B nor school C. But I still think it's the right move to fight for your kid. It's not a huge number of total cases, but keep trying until you find something. You're trying to have the best childhood you possibly can, and I'm sure you're working the problem at both ends as a parent as best you can.
+
+I don't know that we're always giving parents very good tools. I feel like the clinical precision of people who work with kids that aren't doing well in school is not equal to the clinical precision we expect of pediatricians. If you see a pediatrician and she says, "Ella, I think there's an issue with your gallbladder," and then you go to another one, they're very likely gonna make the same diagnosis. They're directionally pretty aligned. If somebody sees a kid who's struggling, they could see five different experts in air quotes and have five different stories to tell about what your kid needs. "Oh, you need therapy, you need medication, you're ADHD, you're on the spectrum, you need this, you need that." They're all over the place diagnostically and on possible fixes or accommodations. That's not good. Our sector is not really that strong in precision.
+
+What parents usually have to do, which I think is very hard, is try to use their social networks to find people that are unusually good at helping that type of problem, and it shouldn't be that hard. If you told me today, "Oh, you have an issue with a valve in your heart, you're gonna do heart surgery," you would be able to navigate the health system and probably find a really good surgeon. It's just more findable. I think it's much harder to find the kind of expertise people need as parents to help their kids. So you see a revolving door, not just sometimes of schools for strugglers, but of therapists, tutors, coaches, mentors. That's also a kind of more hidden revolving door too. But I do think parents should have the right, and we should just make it easier. Should always be rooting for the kid to find something where they feel like they're thriving.
+
+---
+
+## 22:15 The 360-Degree Evaluation Problem
+
+**Ela:** What would be your approach from a tactical perspective? If your student was struggling with school, something just was not clicking, what would be your first step? We're talking to the kid, asking exactly what's not working?
+
+**Mike:** I think it's different with little kids and big kids, so I'll use a 15-year-old as an example. I think you start with a 15-year-old by trying to understand their story from their perspective. First thing is, can I get them talking? Genuinely, a lot of times kids open up, but not always. They're trying to size you up too. "Why are we talking?" But you're trying to do that, trying to hear what's going on. You might have a lot of background knowledge from mom who's told you her version of the story or from the school, their version of the story. You're able to interview them well, and I think the first thing you're trying to do is understand the movie that's playing in that kid's head. If the kid's not doing well but they have a view of what's been happening to them and why it is, you gotta know that in order to begin a conversation about different approaches.
+
+The second thing is you're almost shopping for what's an area where you think we can work together on a productive change? Some kids are very open to the idea of changing the school they're currently attending, but some kids are like, "I got my people here. There's no way I wanna change schools. I'm not thriving here, but I don't wanna change. I fear change." It's okay for the moment, let's assume that door is closed. Can we work on something else? Do you have a sport? Do you have a hobby? Do you have an art? Do you have a part-time job? What is it you want? With a kid who's older, you're just patrolling for where can we get an early win in your life and together put that up on the board where you have some earned pride. It's something that you're authentically like, "Yeah, I actually would want to get physically fit. I don't know how to navigate the world of personal trainers and I can't do any of the school sports. I'm not good at basketball and volleyball. What else is there?" You're like, "Oh, well there's this fitness thing, there's a rock climbing thing, there's a martial arts thing, there's different paths." The kid might perk up and say, "Oh, how would I even get going? I don't want my friends to know about that, they'll make fun of me." There's a lot of things you gotta get through, but you're trying to put one win on the board. If you can do that, a kid and parent level up. It's like, "Okay, maybe I'll reopen one of those doors that I wasn't willing to open before because I have a sense of momentum." You gotta get momentum.
+
+**Ela:** I love that. I'm deeply convicted by the idea that in a great childhood, a child learns what they can win at. Good adults usually have had moments where they've built self-esteem because they've found what they can win at. There are games that everybody gets to play because of the traditional aspect of them, but if your kid is not winning at those games, you have to find untraditional ways that they can win because it's so important for a thriving adult to have found those things and to dive into them deeper and for that to be normal. It's like, "Yes, you can win at this. Go run, go do it, it's awesome."
+
+**Mike:** I so agree with you, and one of the things I've been thinking about lately is you see these education savings accounts and some of those monies are spent on extracurriculars and helping kids find that earned victory, something they are good at. Once you get reasonably good at something, you have a sense of pride, but you also intellectually open up a whole new thing. "How could I go from good to great?" It's fascinating and you can only explore that if you make it to being pretty good. The idea of climbing the ladder of expertise, all these great things like the social connection that you start to feel if you happen to be good—if you're good enough at music that you can be in a band, that can be a huge unlock. Then you have your little tribe of people and you're doing stuff together. Those things all require maybe not excellence in something, but goodness in something. I think there's a number of teens who would describe themselves, "I'm not really good at anything. I'm sort of okay and there's nothing I do well enough to enjoy that I wanna spend additional hours on it." I feel like that's a warning sign. I do think education savings accounts could be used to help kids find more of "Oh, I stumbled into this thing and now I love it and I'm good at it."
+
+---
+
+## 25:30 The Harvard Flourishing Assessment
+
+**Ela:** I want to spend the last part of this interview chatting about a question that you surfaced at the very beginning of us talking, which was this question of everybody's focused on the kids that are not doing very well, then there's this other subset of kids that are doing very, very well, but then you had mentioned that there's a really large population of kids that are just doing average. They're not doing great, but they're not doing terribly. I think this segues pretty well because I would bet that most of these kids are in that population of people that have not found the things they're great at, but they're also not being pushed to find the things they're great at. I would love you to frame this problem and question that you're asking for parents that are curious about it.
+
+**Mike:** Parents get easy information in two ways, and then the stuff you're asking about doesn't quite get called. The easy information you get as a parent is if your kid goes to any type of formal school, you get a report card and often standardized test scores on top of that. So you know how your kid more or less is doing from 8 to 3. Then you go usually every year to the doctor and your kid gets a checkup and hopefully most of the time it's just "Yep, another good year, everything's in good shape" or "Okay, I noticed this and maybe the spine curvature is a little, I want to do a screen for scoliosis." You get pretty good information in those two ways—academic, physical.
+
+The rest, you're kind of on your own as a parent. You're patrolling it through dinner table and going on walks and trading notes maybe with the spouse or other key people in the kid's life and the kid. "Does this kid have a sense of purpose? Do they have friends and are those good friends? What are their social skills? Are they nice and polite people? Do they have things that they love, activities? Do they have hobbies? Do they do any pleasure reading or is that gone or was it never there? How much bad time is there?" Which could either be aimless—I think there's a healthy version of boredom, but I don't think five hours a day of scrolling can be called healthy bored.
+
+What's hard for a parent is you're not getting information the way you get it from a doctor who says "Everything is normal except for X, so that makes you reassured" or the school which is at least telling you how is this kiddo doing relative to other kids. "Oh, you're a B student, okay, I get that. You're a D student, yikes, what's going on?" You understand where they are relative to others. I think it's hard for parents to figure out how's my kid doing overall. They're awash with information and observation, but it's hard to have an external perspective and often because you're so close to the situation, it's the classic "you can't see the forest for the trees." You're right next to the tree. As a parent, you are one of the trees. You're all these little trees right next to each other and nobody's zooming out.
+
+I do think a really valuable service that could emerge—I would love to see it emerge—we haven't talked yet about the barriers to starting new services that would serve families well, but I'm hoping as the education savings accounts mature a little bit, a 360-degree evaluation of your kid is a service that I think a lot of parents would love. "I want a pragmatic person or a person that's aligned with my values and practical to somehow let me know how is this going?" A lot of times what could be beneficial is for a kid who's struggling, they might be good at some things, but the parent is just getting hit over the head that they're not doing well in school. So it sort of poisons the parent-kid relationship. Whereas a more holistic evaluation might say, "Your kid is really good at getting their chores done, they're so helpful, they're unusually helpful to grandma, or I noticed this and that. If you look at the whole kid, there's a lot of good things, but they find school boring. So the main job that they have, they're always gonna be at a deficit, but it just makes them seem to their parents like they're struggling as a kid or from the kid's point of view, it's like 'Oh, my parents are always disappointed.'" Whereas if you look at how we think of adults a lot of times and school's over, you look at them across a whole bunch of domains and you can be forgiving of an area where they're bad because they have so many other good appealing qualities. A lot of people have a lot of good appealing qualities and a couple things where they're weak. But the problem from a child's point of view is school is your job usually, that is what a parent is taught in our society, and what if you're just not good at school? You might be good at four other domains of life and you're not good at school and you're always kind of presented as a failure. That's not good.
+
+**Ela:** Just for the sake of thinking through this together, my question when you were saying "I would love to see a 360 evaluation of a kid"—my question is against what? For businesses, there's the ENPS survey where it's rating-wise. I wonder if that would just be as simple as that would be effective. Scale of one to 10, how are you feeling about these 30 things in your life, you ask your kid occasionally. The things that they're really not feeling great about, you're just like, "Okay, maybe that's an interesting temp check." That would be enough. What do you think about that?
+
+**Mike:** I think it might be. I'll tell you a little story. This guy named Marty West, a great scholar and he's the dean of the Harvard Graduate School of Education. A couple months ago he was like, "Oh Mike, I know you've been curious lately about teenage flourishing." He's like, "Do you know who the smartest guy at Harvard is?" I'm like, "Oh my gosh, Marty knows a lot of people at Harvard. Harvard has a lot of smart people, a lot of dumb people too, but a lot of smart people." He's like, "The smartest person at Harvard is a guy named Tyler who runs this tiny little center, it's called the Center for Human Flourishing." I've never heard of this place. It's across from a little ice cream shop in Harvard Square. They've got this office and the Center for Human Flourishing Studies human flourishing, not surprising. The way they do that is some version of what you said. It's these holistic scale of one to 10 rating type questions that they use first with adults to ask "How are you doing overall?" But they have a teenage version of it. I do think that is a very valuable tool for some families. It could be good. I think for others I feel like they need more of a qualitative, "Well, what are we really talking about? I need something deeper than a scale of one to 10." Sometimes I think there's concrete metrics that could be really valuable, like your Fitbit watch can give you your sleep score. I think for kids who don't move around very much, it'd be really great if they could start setting a goal of getting 8,000 steps a day and tracking that.
+
+I think both the "what's really going on, big picture" and "how to measure it" might be more expansive potentially of what families would ultimately find very valuable. In the end, sometimes what you're seeking is reassurance, sometimes what you're seeking is diagnosis, and sometimes what you're seeking is behavior change. Depending on your purpose of what exactly your goal is as a parent—I'm a parent, so at different moments in time you're seeking different things. I could imagine a lot of different people in that space of helping parents get some perspective, and I'm hopeful that a lot more services can be offered to families to help kids get where they need to get.
+
+---
+
+## 28:45 The $30,000 Question: What If Parents Had Control?
+
+**Mike:** Overall big picture, I'd love to see some distribution of—in a school district like Boston where I am, I mean they spend a lot in a school district that I don't think many parents are very happy with and usually exit at the first chance they get. They spend like $30,000 per kid per year on the public school system here. So you start to think, "Wow, if those parents had $30,000 of actual cash per year and they spent $18,000 to send the kid to the Catholic school and they could spend $12,000 to help the kid find hobbies or if the kid has mental health issue, get them a good therapist or whatever, whatever you need"—that could be really cool. I hope we move more in that direction. There is a lot of, in some places, a lot of public money being spent. It'd be great to have the parents just have more control of that cash. I think even though I will stipulate not every family spends that perfectly, and I would also stipulate sometimes the lack of oversight can be problematic, on average I just think a lot more kids would end up thriving.
+
+**Ela:** Wow, that is an awesome note to end this. Thank you so much for coming on the podcast for all of your thoughts. Where can people find you if they want to learn more about you and read more of your stuff and find you?
+
+**Mike:** I have a website called [mikegoldsteineducation.com](http://mikegoldsteineducation.com/), which is very nerdy. I don't know if it's perfect for the parent audience, but you can certainly find me and a lot of stuff I've written and a lot of the stuff that I've learned.
+
+**Ela:** Love it. Well, thank you so much again, and I hope that everybody gets to check you out.
+
+**Mike:** Alright, thank you.

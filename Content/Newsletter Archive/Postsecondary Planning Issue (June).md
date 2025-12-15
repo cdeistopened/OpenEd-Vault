@@ -1,0 +1,70 @@
+---
+Tools: "- Microsoft 365- HubSpot- Microsoft Teams- Notion AI"
+Tweetables]: • https://www.newsweek.com/gen-z-alpha-embrace-trade-schools-more-college-2076083• http://k12dive.com/news/career-and-college-preparation-high-school-career-technical-education/747613/• https://www.edsurge.com/news/2025-05-09-dual-enrollment-numbers-are-rising-colleges-want-them-to-keep-growing#:~:text=The%20number%20of%20dually%20enrolled,percent%20from%202021%20to%202023.• https://hechingerreport.org/college-uncovered-the-old-college-try/• https://tuscaloosathread.com/alabama-slashes-early-college-tuition/• https://hechingerreport.org/these-districts-are-bucking-the-national-math-slump/• https://www.eschoolnews.com/digital-learning/2025/05/14/video-game-design-boosts-students-literacy-skills/• https://calmatters.org/education/k-12-education/2025/05/middle-school-california/• https://www.thedp.com/article/2025/04/philadelphia-high-schools-inaugural-participants-the-academy-at-penn
+Breakdown: "- Thought:- Importance of understanding postsecondary plans for teens.- The impact of planning on career choices and postsecondary success.- The role of parents and other influencers in teens' decision-making.- Tool:- Nationwide survey results from over 3,000 7th-12th graders.- Highlights of the survey:- Decrease in interest in college among teens.- Rise in popularity of non-degree pathways.- Parental skepticism towards non-degree options.- Influence of location on postsecondary choices.- Information on Launchpad Jobs for high school graduates entering the workforce.- Trend:- Growing momentum for non-degree pathways and emphasis on transferable skills.- Expansion of Innovation Career Pathways in Massachusetts to 20 new schools.- Legislative efforts in South Carolina to promote work-based learning.- Increase in youth apprenticeships in Wisconsin.- Implementation of mandatory computer science courses in 32 states.- Fourth Segment: Events and Resources:- Invitation to upcoming webinars and events focused on youth career readiness.- Summary of recent panel presentations and webinars.- Links to additional industry news and research relevant to career and college pathways."
+Created time: 2025-09-29T12:46
+Weekly?: false
+URL: https://pivoted.asa.org/p/postsecondary-planning-issue-june
+Best of: false
+Meta Description: Postsecondary planning shifts as teens show decreased interest in college and increased engagement with nondegree pathways. Learn about the latest trends and insights from our nationwide survey.
+Best Quotes: "1. \"We know that how young people plan, when they start planning, and who informs them along the way are factors that can have a profound impact on their eventual career choices and chances of postsecondary success.\"2. \"Teens’ interest in college is down, while nondegree pathways are becoming more popular.\"3. \"I invite you to learn about the Launchpad Jobs that offer the most promising career paths for workers without degrees.\"4. \"It’s really little surprise to me that more kids are considering nondegree pathways; we have seen so much nationwide momentum around the proliferation of high-quality pathways and a much deeper focus on transferrable skills.\"5. \"Each month, I invite you to watch the latest episode of 'Youth Career Readiness: The One-Question Podcast' — my collaboration with author Michael Horn.\""
+keep: false
+Orgs mentioned: ASA, Getting Smart, Newsweek, K12 Dive, EdSurge, The Hechinger Report, Tuscaloosa Thread, eSchool News, Cal Matters, The Daily Pennsylvanian
+Status: Not started
+Text: https://www.gettingsmart.com/2025/04/09/the-transcript-trap-why-our-students-need-credentials-not-just-grades/https://finance.yahoo.com/news/survey-american-student-assistance-reveals-130000120.html?guccounter=1https://www.mass.gov/news/healey-driscoll-administration-expands-innovation-career-pathways-to-20-new-high-schoolshttps://www.wspa.com/news/state-news/gov-mcmaster-signs-bill-to-let-students-participate-in-work-based-learning/https://dailyreporter.com/2025/05/16/milwaukee-youth-apprenticeship-skilled-trades/https://www.k12dive.com/news/significant-momentum-computer-science-curriculum-ai/748103/https://www.youtube.com/watch?v=OCf45kHskGAhttps://www.newsweek.com/gen-z-alpha-embrace-trade-schools-more-college-2076083http://k12dive.com/news/career-and-college-preparation-high-school-career-technical-education/747613/https://www.edsurge.com/news/2025-05-09-dual-enrollment-numbers-are-rising-colleges-want-them-to-keep-growing#:~:text=The%20number%20of%20dually%20enrolled,percent%20from%202021%20to%202023.https://hechingerreport.org/college-uncovered-the-old-college-try/https://tuscaloosathread.com/alabama-slashes-early-college-tuition/https://hechingerreport.org/these-districts-are-bucking-the-national-math-slump/https://www.eschoolnews.com/digital-learning/2025/05/14/video-game-design-boosts-students-literacy-skills/https://calmatters.org/education/k-12-education/2025/05/middle-school-california/https://www.thedp.com/article/2025/04/philadelphia-high-schools-inaugural-participants-the-academy-at-pennhttps://horizons.jff.org/https://asa.zoom.us/webinar/register/WN_wYpSVljtTq2DW7fq7yif9A#/registrationhttps://yourcapsnetwork.org/events/2025-summer-huddle/https://national-summit.unchartedlearning.org/2025/https://www.bplevents.org/https://www.linkedin.com/pulse/building-bridge-investing-future-career-connected-learning-meeran-nlqve/?trackingId=l%2FQSubUWRaW2HVRxaM%2F1Yw%3D%3D
+---
+[![](https://substackcdn.com/image/fetch/$s_!NlqY!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb48e7f29-45bc-408d-a34e-f1a79f5556e1_650x650.jpeg)](https://substackcdn.com/image/fetch/$s_!NlqY!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb48e7f29-45bc-408d-a34e-f1a79f5556e1_650x650.jpeg)
+
+==Dear Readers,==
+
+==The school summer holidays are nearly upon us, and the post-school future may be the furthest thing from many kids’ minds. Yet, ASA is continually interested in learning about the postsecondary plans teens are making, who is influencing those decisions, and how teens are thinking about their futures. We know that how young people plan, when they start planning, and who informs them along the way are factors that can have a profound impact on their eventual career choices and chances of postsecondary success. These factors are all of increasing importance at a time when,== _==Getting Smart==_ ==reminds us, some 65% of jobs will change significantly every 5-7 years and the value of credentials is evolving rapidly.== ==**(**====**[Read the story](https://www.gettingsmart.com/2025/04/09/the-transcript-trap-why-our-students-need-credentials-not-just-grades/)**====**.)**==
+
+==To that end, we recently published the results of a new nationwide survey in which we asked more than 3,000 7th-12th-graders about their postsecondary ambitions. Among the most interesting highlights? Teens’ interest in college is down, while nondegree pathways are becoming more popular. Parents are among teens’ biggest influencers, but they remain skeptical of nondegree options. And, we uncovered some interesting findings about how location and other factors may influence postsecondary choices.== ==**(**====**[Read about the research](https://finance.yahoo.com/news/survey-american-student-assistance-reveals-130000120.html?guccounter=1)**====**.)**== ==In addition, for young people who want or need to join the workforce straight out of high school, I invite you to learn about the Launchpad Jobs that offer the most promising career paths for workers without degrees.== ==**(**====**[Join us for our upcoming webinar on this topic](https://asa.zoom.us/webinar/register/WN_wYpSVljtTq2DW7fq7yif9A#/registration)**====**.)**==
+
+==It’s really little surprise to me that more kids are considering nondegree pathways; we have seen so much nationwide momentum around the proliferation of high-quality pathways and a much deeper focus on transferrable skills. In Massachusetts, for example, Innovation Career Pathways have been expanded to 20 new schools, meaning even more students will be able to explore careers, participate in work-based learning, and take technical and advanced courses.== ==**(**====**[Read the story](https://www.mass.gov/news/healey-driscoll-administration-expands-innovation-career-pathways-to-20-new-high-schools)**====**.)**== ==A law has been signed in South Carolina encouraging more students to participate in work-based learning.== ==**(**====**[Read the story.](https://www.wspa.com/news/state-news/gov-mcmaster-signs-bill-to-let-students-participate-in-work-based-learning/)**====**)**== ==The state of Wisconsin saw a 14% increase in youth apprenticeships in 2024-2025.== ==**(**====**[Read the story](https://dailyreporter.com/2025/05/16/milwaukee-youth-apprenticeship-skilled-trades/)**====**.)**== ==And, some 32 states now require high schools to offer at least one computer science course, speaking to the urgent need for all young people to possess a strong tech skillset before they leave school.== ==**(**====**[Read the story](https://www.k12dive.com/news/significant-momentum-computer-science-curriculum-ai/748103/)**====**.)**==
+
+==Each month, I invite you to watch the latest episode of “Youth Career Readiness: The One-Question Podcast” — my collaboration with author Michael Horn. This month, we interviewed legendary guitarist Stevie Van Zandt, best known for playing guitar in Bruce Springsteen’s E Street Band. He explains how developing a craft can change the course of a young person’s life.== ==**(**====**[Watch the episode](https://www.youtube.com/watch?v=OCf45kHskGA)**====**.)**== ==You can also explore our past interviews, with well-known guests like Lou Holtz, Yo-Yo Ma, Common, John Pankow, Tanya Wright, and others.== ==**(**====**[Explore the One Question library](https://www.asa.org/the-one-question-podcast/)**====**. Scroll down to the “Episodes” section of the page.)**==
+
+==I wish you a relaxing summer holiday period. With our minds fresh and rested, we can continue in our mission of helping more kids realize a bright and successful future!==
+
+==Sincerely,==
+
+==Jean==
+
+==P.S. - If you’d like to reach me directly, I’d love to hear from you. Email me at== ==press@asa.org==
+
+==**ADDITIONAL INDUSTRY NEWS & RESEARCH**==
+
+==**[Gen Z, Alpha Embrace Trade Schools More as They Sour on College](https://www.newsweek.com/gen-z-alpha-embrace-trade-schools-more-college-2076083)**== ==(==_==Newsweek==_==, May 22, 2025)==
+
+==**[What’s Needed to Strengthen Career and College Pathway Commitments?](http://k12dive.com/news/career-and-college-preparation-high-school-career-technical-education/747613/)**== ==(==_==K12 Dive==_==, May 12, 2025)==
+
+==**[Dual Enrollment Numbers are Rising. Colleges Want Them to Keep Growing](https://www.edsurge.com/news/2025-05-09-dual-enrollment-numbers-are-rising-colleges-want-them-to-keep-growing#:~:text=The%20number%20of%20dually%20enrolled,percent%20from%202021%20to%202023.)**== ==(==_==EdSurge==_==, May 9, 2025)==
+
+==**[College Uncovered: The Old College Try](https://hechingerreport.org/college-uncovered-the-old-college-try/)**== ==(==_==The Hechinger Report==_==, May 15, 2025)==
+
+==**[University of Alabama Practically Eliminates Tuition Costs for Dual Enrollment](https://tuscaloosathread.com/alabama-slashes-early-college-tuition/)**== ==(==_==Tuscaloosa Thread==_==, May 15, 2025)==
+
+==**[These School Districts are Bucking the National Math Slump](https://hechingerreport.org/these-districts-are-bucking-the-national-math-slump/)**== ==(==_==The Hechinger Report==_==, April 28, 2025)==
+
+==**[Video Game Design Boosts Students’ Literacy Skills](https://www.eschoolnews.com/digital-learning/2025/05/14/video-game-design-boosts-students-literacy-skills/)**== ==(==_==eSchool News==_==, May 14, 2025)==
+
+==**[Can Middle Schoolers Handle College? This San Jose School is Finding Out](https://calmatters.org/education/k-12-education/2025/05/middle-school-california/)**== ==(==_==Cal Matters==_==, May 14, 2025)==
+
+==**[Phila. High Schools to Work with Penn Career, College Readiness Programs for Underserved Communities](https://www.thedp.com/article/2025/04/philadelphia-high-schools-inaugural-participants-the-academy-at-penn)**== ==(==_==The Daily Pennsylvanian==_==, April 7, 2025)==
+
+==**EVENTS**==
+
+==Finally, below is a list of upcoming events, and recaps of recent panel presentations and webinars, that elevate critical conversations in the youth career readiness space.==
+
+==**REGISTER TO ATTEND**==
+
+- ==Horizons Summit== ==**(New Orleans, June 10-11, 2025 -**== ==**[Learn more](https://horizons.jff.org/)**====**)**==
+- ==WEBINAR - Launchpad Jobs: Achieving Career and Economic Success Without a Degree== ==**(June 25, 2025, 12:00 PM ET -**== ==**[Learn more](https://asa.zoom.us/webinar/register/WN_wYpSVljtTq2DW7fq7yif9A#/registration)**====**)**==
+- ==The CAPS Network Summer Huddle== ==**(Kansas City, June 23-25, 2025 -**== ==**[Learn more](https://yourcapsnetwork.org/events/2025-summer-huddle-resonance/)**====**)**==
+- ==Uncharted Learning National Summit== ==**(Chicago, July 8-10 -**== ==**[Learn more](https://national-summit.unchartedlearning.org/2025/)**====**)**==
+- ==Big Picture Learning - Big Bang Conference 2025== ==**(Providence, RI, July 21-25 -**== ==**[Learn more](https://www.bplevents.org/)**====**)**==
+
+==**EVENT RECAPS**==
+
+- ==Building the Bridge: Investing in the Future of Career-Connected Learning== ==**(**====**[Read the recap](https://www.linkedin.com/pulse/building-bridge-investing-future-career-connected-learning-meeran-nlqve/?trackingId=l%2FQSubUWRaW2HVRxaM%2F1Yw%3D%3D)**====**)**==

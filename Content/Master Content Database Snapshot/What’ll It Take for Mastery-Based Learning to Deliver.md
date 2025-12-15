@@ -1,0 +1,59 @@
+---
+Status: Idea
+Type:
+  - Trend
+Source URL: https://www.aei.org/op-eds/whatll-it-take-for-mastery-based-learning-to-deliver/
+Created time: 2025-08-27T16:11
+Created time 1: 2025-08-27T16:11
+Text: Mastery learning allows students to progress at their own pace based on content mastery rather than time spent learning. It emphasizes data-driven teaching, where assessments are aligned with specific learning objectives to identify gaps in knowledge. While mastery learning differs from personalized learning, both approaches can complement each other. Challenges include unclear state standards and the need for precise learning objectives. Educators are encouraged to define clear mastery thresholds and adapt existing resources to support mastery-based systems.
+---
+[![](https://www.aei.org/wp-content/uploads/2024/06/abramsaeideas060324.jpg)](https://www.aei.org/wp-content/uploads/2024/06/abramsaeideas060324.jpg)
+
+==[Facebook](https://www.aei.org/#facebook)====[Twitter](https://www.aei.org/#twitter)====[LinkedIn](https://www.aei.org/#linkedin)==
+
+_==As regular readers know, I’ve long held both that American education is overdue for a==_ _==[rethink](https://www.aei.org/research-products/book/the-great-school-rethink/)==_ _==AND that most “reform” is==_ _==[oversold](https://eric.ed.gov/?id=ED426168)====. Finding the sweet spot, as Michael Horn, Julie Squire, and I note in our new book,==_ ==[School Rethink 2.0](https://www.aei.org/research-products/book/school-rethink-2-0-putting-reinvention-into-practice/)==_==, requires focusing on rubber-meets-road change.==_ ==Rethink 2.0== _==offers accounts from leaders doing that work, and I’m delighted to speak with one of them today.==_ _==Scott Ellis is the founder and CEO of MasteryTrack, which provides consulting and prototype software to support the implementation of mastery learning. Ellis previously served as CEO of The Learning Accelerator and COO of the New Teacher Center. Here’s what he had to say.==_==  
+==_==—Rick==_
+
+==**Rick:**== ==A lot of parents and educators may be familiar with the phrase “mastery learning” but not have a clear idea what it means in practice. What is it exactly?==
+
+==**Scott:**== ==Mastery learning is an approach that empowers students to move forward in their learning at their own pace as they master content. This contrasts with the traditional structure of the education system that is based on time and focuses on== _==how long==_ ==a student has been learning something or a teacher has been teaching it. In mastery learning, we don’t care about either of these things. Instead, we care exclusively about== _==what the student knows==_==. For us, learning is the number of learning objectives mastered. I sometimes use this simple summary:== _==Stop measuring teaching. Start measuring learning!==_
+
+==**Rick:**== ==How did you come to found MasteryTrack, anyway?==
+
+==**Scott:**== ==My journey began in 2012 when I was the founding CEO of The Learning Accelerator, a nonprofit organization with a mission to accelerate the implementation of high-quality== ==[blended learning](https://teachingcommons.stanford.edu/explore-teaching-guides/blended-teaching-guide/getting-started-blended-teaching/one-central-question)== ==across the United States. Over the next three years, we cultivated the ecosystem for this work. But mastery-based progression was the most challenging part of blended learning to implement. I decided that the missing piece was data about student learning: Educators didn’t have a dashboard that showed where each of their students was in the learning process. I wanted to create this tool, so I stepped down and started MasteryTrack in 2015. My goal was both to develop that dashboard and demonstrate how to implement mastery learning in the classroom. Over the next few years, I engaged a software team to build the platform, and tens of thousands of students used it across dozens of subjects. The product was successful and fulfilled my initial vision, but the mastery-learning revolution clearly hasn’t arrived. So, I decided to launch what I am calling “MasteryTrack 2.0” to cultivate the widespread implementation of mastery learning.==
+
+==**Rick:**== ==So, what does mastery learning mean for teachers and teaching?==
+
+==**Scott:**== ==Mastery learning recognizes that, in the 21st century, teaching is a data-driven profession. The teaching and learning process should start with insights from the mastery dashboard: What does every student know at a given moment? What do they need to learn next? Using this information, a teacher can decide how to allocate their most precious resource—instructional time—to help cultivate as much learning as possible. Instead of teaching every student the same content at the same time, leaving some students behind and others bored, the instructor can provide different types of support based on what each student knows.==
+
+==**Rick:**== ==How does a focus on mastery change assessment?==
+
+==**Scott:**== ==It helps us think more clearly about assessments and their role. There are three distinct parts of the education process: learning, practice, and demonstration of mastery. Although assessments can be helpful during the practice stage, as they indicate whether a student is progressing toward a learning objective, the most important application of assessments is during the demonstration of mastery stage. Has the student met the mastery threshold? If so, they are ready to start learning something new. If not, they need to be given a clear idea of why they did not succeed and must return to the current objective. For assessments to play this role, they must be aligned with a learning objective and constructed in a way that allows them to determine whether the mastery threshold has been met.==
+
+==**Rick:**== ==Do today’s assessments provide the tools to make this work?==
+
+==**Scott:**== ==Unfortunately, no. Current assessments often intermingle data about many learning objectives. When my son was in elementary school, he took a test with five questions for each of the 10 topics covered. He got 45 out of 50 correct. Great! The class moved on. But when I checked the details, I saw that he missed all five questions for one of the topics. He had a clear learning gap that was uncovered but not highlighted by the existing assessment. These assessments are also rarely precise enough, although this is often because the learning objectives themselves are not specific, clear, and demonstrable. For example, a multistep word problem can involve many different skills: multiplication, filtering relevant information, and converting from words to numbers. These are each different learning objectives and require precise assessments to determine what the student knows.==
+
+==**Rick:**== ==How does all this relate to “personalized learning?”==
+
+==**Scott:**== ==Mastery learning is distinct from personalized learning, but the two can complement each other. Personalization enables students to learn and teachers to teach in different ways. For example, teachers could use sports-related concepts for some students, nature for others, and cooking for those interested in that topic. Or they could use computers to instruct some students and group learning for others, depending on what works best for each learner. This enables teachers to capitalize on a student’s interests. By contrast, mastery learning focuses on allowing students to move forward in their learning as they master content, regardless of the pace of their peers. In short, the mastery-learning structure clarifies what each student knows and, therefore, what they need to learn next, while personalization provides different ways to help the learning happen.==
+
+==**Rick:**== ==In practice, what’s most surprised you about mastery learning?==
+
+==**Scott:**== ==I have been struck by how much knowledge can vary in the same classroom, how it differs by subject area, and how this is often not fully revealed by traditional assessments. When a student struggles, we get clear information about what they know and don’t know. But when a student succeeds, we can’t capture the full extent of their skills and knowledge. I have seen teachers spend months teaching students content only to discover—once they adopted mastery learning—that the students knew not only the content they were covering but also the content planned for the future. The teachers are always horrified to learn that they have been wasting time. I have also been surprised by the other side of the story, the heartbreaking examples of students who are left behind because they haven’t yet mastered a topic, but can’t get the support they need, “because the class needs to move on.”==
+
+==**Rick:**== ==What are some of the practical challenges that can crop up with mastery learning?==
+
+==**Scott:**== ==Many existing state standards do not enable mastery learning because they are not specific, clear, or demonstrable. We need to be clear about what we want students to know and be able to do. We also need clear mastery thresholds for each objective—how do we know when a student has successfully learned what we intended and is ready to move on?==
+
+==**Rick**====: How can educators navigate these challenges?==
+
+==**Scott:**== ==Educators already have a wealth of awareness about what their students know, but it is often imprecise or implicit. It needs to be precise and explicit. Additionally, since so many classrooms don’t have clear learning objectives and mastery thresholds, existing learning and practice resources are not aligned with any objectives appropriate for a mastery-based system. Educators often don’t need to create new resources to address this issue; they just need to retrofit existing resources so specific resources can teach specific learning objectives. This is straightforward, but it takes work for the early adopters. For example, a school I worked with was trying to implement mastery learning in Spanish classes. Teachers had an abundance of resources, but it took time to tailor these resources to mastery-learning objectives.==
+
+==**Rick:**== ==How does mastery learning change the job of a school principal?==
+
+==**Scott:**== ==Like the teacher, the principal also becomes a data-driven professional. While the teacher’s goal is to maximize learning for the students in their class, the principal’s goal is to establish an environment where this happens for every student in the school. For the principal, the school’s performance should be defined by the amount of learning occurring. Principals will also face the contrast between the mastery-learning approach, which is based on student learning, versus the current system, which is based on time. As long as key structures, such as college admissions and state requirements, are driven by time rather than student learning, principals will need to figure out how to enable mastery learning while still meeting the requirements of the existing system.==
+
+==**Rick:**== ==If you had one piece of advice for educators intrigued by mastery learning, what would it be?==
+
+==**Scott:**== ==The first step is to get started. Begin by defining learning objectives that are specific, clear, and demonstrable, and determine a clear mastery threshold for each learning objective. Ideally, educators can use the learning objectives designed by others instead of needing to create their own. The more the entire education system moves toward common learning standards, the better—this will allow for better learning and practice resources for students and teachers and will make everything better, faster, and cheaper. Once the learning objectives and mastery thresholds are in place, data about student learning can start to drive the entire system.==

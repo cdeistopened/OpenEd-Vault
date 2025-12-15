@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="100px" viewBox="0 0 200 100" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10,50 C30,10 60,90 100,30 C140,0 170,70 190,40" stroke="#03a4ea" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+</svg>

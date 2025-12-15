@@ -1,0 +1,57 @@
+## Content Strategy and Performance Review
+
+- **New York Times Video Performance**
+    - Achieved better than normal engagement, with almost **4,000 views** on TikTok.
+    - Generated significant comments, indicating successful audience engagement.
+    - Facebook Reels for this content did not gain traction, prompting a different approach focusing on a grammar debate (home-school hyphen), which also yielded limited comments (13).
+    - Andrew Muto noted that Facebook can be monetized effectively, with Meta encouraging cross-posting from Instagram.
+- **Whale Vomit Video Performance**
+    - Demonstrates a strong format for engaging content.
+    - Andrew Muto suggested adding more information within the video or description to extend watch time, such as explaining _why_ whale vomit is valuable.
+    - Megan Hennessy has resources for creating similar "random facts" content.
+- **Content Format Exploration**
+    - **"Hot Take" Format:** Polarizing topics drive engagement and comments, which is crucial for algorithm performance.
+        - Examples include challenging major news publications or discussing controversial social topics (e.g., children at weddings).
+        - The goal is to create polarity without damaging the brand.
+    - **"Is it Reimbursable?" Meme:** A potential new series idea based on real-world reimbursement questions from parents.
+        - Examples of items parents tried to get reimbursed for include stocks, Pokemon cards (as inventory for an entrepreneurship course), recreational ski passes, shake weights, and family trampolines.
+        - This format aims for broad applicability to encourage audience participation.
+    - **"What Kind of Kids Are You Raising?" Video:** A template-based video format designed to unveil different types of learners or schooling approaches.
+        - The initial hook should tightly connect to the subsequent content to minimize audience "bump."
+        - This format could be adapted for topics like "best math curriculums for different learners."
+    - **"Hammock" Video Concept:** The initial concept of contrasting work with leisure did not align with the visual of working from a hammock.
+        - The revised approach will focus on highlighting the **perks of being a homeschool parent**, such as flexibility and freedom, which better matches the visual content.
+- **Content Creation Efficiency and Scale**
+    - The goal is to produce content at scale, aiming for **two videos per day** on platforms like TikTok and YouTube Shorts.
+    - Template-based videos (like the Canva list) are estimated to take **10-15 minutes per iteration** once the template is set.
+    - Pointing videos are estimated to take around **90 seconds** to record.
+    - It is important to identify formats that allow for rapid content generation.
+    - Andrew Muto emphasized the importance of testing different elements (e.g., background images vs. no background) to understand what drives performance.
+- **Audience Engagement and Socialization**
+    - A key concern for homeschool families is **socialization** for their children.
+    - This topic presents an opportunity for "spicy" content that addresses common misconceptions and highlights how My Tech High provides social opportunities (e.g., 50 different clubs, neighborhood parties).
+    - Teachers running clubs are willing to provide snippets about their clubs, which could be incorporated into content.
+- **Creative Challenges**
+    - Charlie Deist identified "shiny object syndrome" and "overthinking" as personal challenges in content creation.
+
+## Next Steps
+
+- **Charlie Deist** will:
+    - [ ] Finish the Canva list template for the "What kind of kids are you raising?" video.
+    - [ ] Test the Canva list video.
+    - [ ] Check Instagram edits for a typing effect feature.
+    - [ ] Adjust the "hammock" video concept to focus on the perks of homeschooling, aligning with the visual content.
+    - [ ] Generate **50 ideas** for polarizing video topics, not necessarily based on news articles.
+    - [ ] Experiment with different backgrounds (office, green screen, no background) for pointing videos to test performance.
+- **Megan Hennessy** will:
+    - [ ] Create a paragraph explaining more about the "whale vomit" topic for the video description.
+    - [ ] Shoot ideas for "whale vomit" style videos.
+    - [ ] Ruminate on the socialization of homeschool kids and come up with pointing video ideas.
+    - [ ] Provide snippets from teachers about different clubs.
+- **General Next Steps:**
+    - Make more New York Times style videos, experimenting with both polarizing topics and "five tips" formats.
+    - Focus on formats that can be scaled efficiently, such as pointing videos and "whale vomit" style content.
+    - Ensure the first three seconds of videos tightly connect to the main content.
+    - Add on-screen captioning to all videos.
+    - Consider adding a "read more" prompt with an arrow for longer descriptions.
+    - Prioritize content creation efficiency to achieve a target of **two videos per day**.
