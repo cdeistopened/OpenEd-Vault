@@ -57,6 +57,8 @@ Clip 7 | Dr. Amy (18:12.566): "We have to learn how to regulate our nervous syst
 - 37:14 — Real-World Proof
 - 40:33 — Working Memory Research
 
+SEO Headers: Optimized for semantic search. Use "How-To" headers that pair the guest's expertise with the selected anchor (e.g., "How to Master [Skill] During Your Morning Commute").
+
 ---
 
 ## FILE 2 EXAMPLE: Polished Transcript & Blog Post

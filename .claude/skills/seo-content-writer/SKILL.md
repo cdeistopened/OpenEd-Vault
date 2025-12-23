@@ -1,353 +1,619 @@
 # SEO Content Writer
 
-Write SEO-optimized hub pages and blog content for OpenEd (homeschool education company) using data-driven keyword analysis, proprietary sources, and strategic internal linking.
+Write SEO-optimized content that ranks AND reads like a human wrote it. Use this skill AFTER completing research with `seo-research` skill.
 
 ## When to Use This Skill
 
-Use this skill when creating:
-- Hub pages (e.g., "What is Montessori Education?", "Classical Homeschooling Guide")
-- Deep-dive articles (2000-3000+ words)
-- SEO-focused blog posts targeting specific keywords
+Use when:
+- Writing hub pages, deep-dive articles, SEO blog posts
+- Refreshing declining content
+- Creating content from a research brief
 
 DO NOT use for:
-- OpenEd Daily/Weekly newsletters (use newsletter skills instead)
-- Social media content (use social-content-creation skill)
-- Podcast production assets (use podcast-production skill)
+- Research/planning phase (use `seo-research` first)
+- OpenEd Daily/Weekly newsletters (use newsletter skills)
+- Social media content (use `social-content-creation`)
+- Podcast assets (use `podcast-production`)
 
-## Pre-Writing Checklist
+---
 
-Before writing, gather:
+## The Writing Process
 
-1. **Primary Keyword & Intent**
-   - What exact phrase are you targeting? (e.g., "homeschool art curriculum")
-   - What is the search intent? (informational, navigational, transactional)
-   - What's the competition level? (determines target word count)
-
-2. **Proprietary Sources**
-   - Podcast transcripts from `/Content/Open Ed Podcasts/`
-   - Slack #recommendations quotes (check Notion or source files)
-   - Existing OpenEd Daily content that covers the topic
-   - Community stories and real parent experiences
-
-3. **Internal Link Opportunities**
-   - Check `seomachine/context/blog-index.csv` for related articles
-   - Use grep to find relevant URLs: `grep -i "keyword" seomachine/context/blog-index.csv`
-   - Target 3-5+ internal links minimum
-
-4. **OpenEd Features to Highlight**
-   - Review `seomachine/context/features.md` for relevant features
-   - Identify where to naturally mention OpenEd offerings
-   - Plan CTA placement (typically at end, sometimes mid-article for long content)
-
-5. **Target Word Count**
-   - Hub pages targeting competitive keywords: 2500-3500+ words
-   - Deep dives on niche topics: 2000-2500 words
-   - Standard blog posts: 1500-2000 words
-
-## Article Structure Template
-
-### H1: Primary Keyword Title
-- Include exact primary keyword
-- Keep under 60 characters for SEO
-- Make it compelling, not just keyword-stuffed
-- Examples:
-  - "Homeschool Art Curriculum: A Complete Guide for Creative Learning"
-  - "What Is Charlotte Mason Education? Philosophy, Methods & Resources"
-
-### Hook/Introduction (150-200 words)
-- Include primary keyword in first 100 words
-- Start with a relatable scenario, surprising fact, or common pain point
-- Preview what the article will cover
-- Establish credibility (OpenEd community, expert interviews, etc.)
-
-### Body: 4-7 H2 Sections
-Structure sections using keyword variations and semantic keywords:
-
-**H2 Ideas:**
-- "What Is [Topic]?" - foundational definition section
-- "How [Topic] Works" - process/implementation section
-- "[Topic] vs. [Alternative]" - comparison section
-- "Benefits of [Topic]" - value proposition section
-- "How to Get Started with [Topic]" - action-oriented section
-- "Common Challenges with [Topic]" - problem-solving section
-- "Resources for [Topic]" - tools/materials section
-
-**Within Each Section:**
-- Use H3 subheadings to break up long sections
-- Include 1-2 internal links where relevant
-- Weave in proprietary insights (podcast quotes, community stories)
-- Aim for 300-500 words per major section
-
-### FAQ Section (For Featured Snippets)
-- Include 3-5 commonly asked questions
-- Use H3 for each question
-- Answer in 40-60 words (optimal for featured snippet)
-- Target question-based keywords (e.g., "How do I start homeschool art curriculum?")
-
-### Call-to-Action
-- Link to OpenEd info session or relevant feature
-- Keep it natural, not salesy
-- Example: "Want to explore more homeschool approaches like this? Join our community at OpenEd to connect with experienced homeschool families and discover what works for your children."
-
-### Meta Elements (Add at End of Document)
 ```
----
-META TITLE: [50-60 chars with primary keyword]
-META DESCRIPTION: [150-160 chars with primary keyword and value prop]
-PRIMARY KEYWORD: [exact phrase]
-SECONDARY KEYWORDS: [3-5 related phrases]
-INTERNAL LINKS: [list of URLs from blog-index.csv]
-EXTERNAL LINKS: [2-3 authority sources]
----
+BRIEF → DRAFT → HUMANIZE → OPTIMIZE → ANALYZE → PUBLISH
 ```
 
-## SEO Requirements Checklist
+1. **Brief** - Review research brief from `seo-research`
+2. **Draft** - Write following content type template
+3. **Humanize** - Remove AI tells, inject voice
+4. **Optimize** - SEO elements, internal links
+5. **Analyze** - Run post-writing analysis tools
+6. **Publish** - Final review and publish
 
-### Keyword Optimization
+---
+
+## Phase 1: Pre-Writing Setup
+
+### Review Research Brief
+
+Before writing, you should have from `seo-research`:
+- Primary keyword and search volume
+- Secondary keywords
+- Competitive analysis (what's ranking, word counts)
+- Content gaps to fill
+- Proprietary sources (podcast quotes, community insights)
+- Internal linking opportunities
+- Proposed outline
+
+### Gather Proprietary Sources
+
+**Query NotebookLM for topic insights:**
+
+```bash
+cd ~/.claude/skills/notebooklm && python3 scripts/run.py ask_question.py --question "What have podcast guests said about [TOPIC]? What unique insights exist?" --notebook-id opened-podcasts-and-blog-posts
+```
+
+**Find internal link opportunities:**
+
+```bash
+grep -i "keyword" "/Users/charliedeist/Library/Mobile Documents/com~apple~CloudDocs/Root Docs/OpenEd Vault/Content/Misc. Utilities/seomachine/context/blog-index.csv"
+```
+
+---
+
+## Phase 2: Draft by Content Type
+
+### Pillar Guide (2500-3500 words)
+
+```
+H1: [Primary Keyword]: Complete Guide for [Audience]
+
+Introduction (150-200 words)
+- Hook with story, stat, or pain point
+- Primary keyword in first 100 words
+- Preview what article covers
+- Establish OpenEd credibility
+
+H2: What Is [Topic]? (300-400 words)
+- Clear definition (featured snippet opportunity)
+- Context and background
+- Why it matters for homeschool families
+
+H2: [Core Concept 1] (400-500 words)
+- H3 subsections as needed
+- Include proprietary insight or podcast quote
+- 1-2 internal links
+
+H2: [Core Concept 2] (400-500 words)
+- H3 subsections as needed
+- Specific examples with details
+- 1-2 internal links
+
+H2: [Core Concept 3] (400-500 words)
+- H3 subsections as needed
+- Practical application
+
+H2: How to Get Started (300-400 words)
+- Step-by-step guidance
+- Resources and tools
+- Link to OpenEd if relevant
+
+H2: Common Challenges (200-300 words)
+- Real problems families face
+- Solutions from community experience
+
+H2: FAQ (200-300 words)
+- 3-5 questions from "People Also Ask"
+- 40-60 word answers (featured snippet length)
+
+Conclusion (100-150 words)
+- Key takeaways
+- Encouragement
+- Natural CTA to OpenEd
+```
+
+### How-To Tutorial (2000-2500 words)
+
+```
+H1: How to [Achieve Outcome]: [Benefit]
+
+Introduction (100-150 words)
+- What they'll achieve
+- Time estimate
+- Prerequisites
+
+H2: Why This Approach Works (200-300 words)
+- Context for the method
+- Why it's effective
+
+H2: Step 1: [Action] (250-350 words)
+- Clear instruction
+- Tips and warnings
+- Example
+
+H2: Step 2: [Action] (250-350 words)
+...
+
+H2: Step N: [Action] (250-350 words)
+
+H2: Tips for Success (200-300 words)
+- Pro tips from experience
+- Common mistakes to avoid
+
+H2: FAQ (150-200 words)
+
+Conclusion (100-150 words)
+```
+
+### Comparison (2000-3000 words)
+
+```
+H1: [Option A] vs [Option B]: Which Is Right for Your Family?
+
+Introduction (150-200 words)
+- The decision they're facing
+- Quick verdict preview
+
+H2: Quick Comparison (use table)
+| Aspect | Option A | Option B |
+|--------|----------|----------|
+
+H2: What Is [Option A]? (300-400 words)
+- Definition and philosophy
+- Key characteristics
+- Best for...
+
+H2: What Is [Option B]? (300-400 words)
+- Definition and philosophy
+- Key characteristics
+- Best for...
+
+H2: Key Differences (400-500 words)
+- H3 for each major difference
+- Specific examples
+
+H2: How to Choose (200-300 words)
+- Decision framework
+- Questions to ask yourself
+
+H2: Can You Combine Them? (150-200 words)
+- Hybrid approaches
+
+H2: FAQ (150-200 words)
+
+Conclusion (100-150 words)
+- Clear recommendation by scenario
+```
+
+### Listicle (1500-2500 words)
+
+```
+H1: [Number] Best [Things] for [Audience/Goal]
+
+Introduction (100-150 words)
+- Why this list matters
+- How items were selected
+
+H2: Quick Overview (table or bullet list)
+- All items at a glance
+
+H2: 1. [Item Name] (150-250 words)
+- What it is
+- Why it's included
+- Best for...
+- Honest limitations
+
+H2: 2. [Item Name] (150-250 words)
+...
+
+H2: How to Choose (150-200 words)
+- Decision criteria
+
+H2: FAQ (100-150 words)
+
+Conclusion (100 words)
+```
+
+---
+
+## Phase 3: Humanize the Draft
+
+This is the most critical phase. AI-generated content fails in predictable ways. Fix them ruthlessly.
+
+### AI-ism Detection: Word Level
+
+**Kill these words immediately:**
+
+| Kill | Replace With |
+|------|--------------|
+| delve, dive into, dig into | explore, examine, look at |
+| comprehensive, robust | thorough, complete |
+| utilize | use |
+| leverage (as verb) | use, apply |
+| crucial, vital, essential | important, key |
+| unlock, unleash, supercharge | enable, improve |
+| game-changer, revolutionary | significant, notable |
+| landscape, navigate | environment, work through |
+| tapestry, multifaceted, myriad | varied, many, diverse |
+| foster, facilitate, enhance | support, help, improve |
+| realm, paradigm, synergy | area, approach, combination |
+| embark, journey (for processes) | start, begin, process |
+| plethora, bevy | many, several |
+| nuanced, intricate, seamless | subtle, complex, smooth |
+| cutting-edge | modern, current |
+
+### AI-ism Detection: Phrase Level
+
+**These scream "AI wrote this" - remove or rewrite:**
+
+- "In today's fast-paced world..."
+- "In today's digital age..."
+- "It's important to note that..."
+- "When it comes to..."
+- "In order to..." → just "to"
+- "Whether you're a... or a..."
+- "Let's dive in" / "Let's explore"
+- "Without further ado"
+- "At the end of the day"
+- "It goes without saying"
+- "In conclusion" (especially at the end)
+- "This comprehensive guide will..."
+- "Are you looking for..." (fake questions)
+- "Look no further"
+- "The best part? ..."
+- "Here's the thing..."
+- "Let's be honest..."
+
+### AI-ism Detection: Structure Level
+
+**Patterns that reveal AI authorship:**
+
+| Pattern | Problem | Fix |
+|---------|---------|-----|
+| **Triple Pattern** | Everything in threes | Vary - use 2, 4, 5 items |
+| **Perfect Parallelism** | Every bullet same length/structure | Mix it up |
+| **Hedge Stack** | "While X, it's important to consider Y, but also Z" | Commit to a position |
+| **Fake Objectivity** | "Some experts say... others believe..." | Take a stance |
+| **Summary Sandwich** | Intro summarizes, body covers, conclusion summarizes again | Add new value in conclusion |
+| **Empty Transitions** | "Now that we've covered X, let's move on to Y" | Cut or make meaningful |
+
+### AI-ism Detection: Voice Level
+
+**The hardest to fix - but most important:**
+
+| AI Tell | Human Version |
+|---------|---------------|
+| **No Opinions** | Real experts have takes. State yours. |
+| **No Mistakes Mentioned** | Admit what you got wrong, what's hard |
+| **Generic Examples** | Use specific names, numbers, stories |
+| **Distance from Subject** | Write FROM experience, not ABOUT the topic |
+| **Uniform Certainty** | Hedge where uncertain, commit where sure |
+
+### Voice Injection Techniques
+
+**Add these to make content sound human:**
+
+**1. Personal experience with specifics:**
+> "When we talked to homeschool mom Jennifer about this, she mentioned spending two years trying curriculum after curriculum before realizing her son just needed more hands-on projects."
+
+**2. Opinion with reasoning:**
+> "Honestly, most Charlotte Mason guides overcomplicate things. The core is simpler than people make it: living books, nature study, short lessons. That's it."
+
+**3. Admission of limitations:**
+> "This approach won't work for every family. If your kids thrive with structure and workbooks, Charlotte Mason's open-ended nature might frustrate everyone."
+
+**4. Specific examples from real sources:**
+> "As homeschool dad Mike Goldstein told us on the OpenEd podcast, 'The best curriculum is the one you'll actually use consistently.'"
+
+**5. Uncertainty where honest:**
+> "We're not 100% sure why nature study works so well for retention. Best guess: the multisensory experience creates stronger memory encoding. But we've seen it work across dozens of families."
+
+**6. Tangents and asides:**
+> "This is the part where most guides tell you to 'trust the process.' (Useless advice.) Here's what that actually means in practice..."
+
+### Rhythm Variation
+
+AI writes in monotonous rhythm. Fix it:
+
+- **Vary sentence length.** Short punch. Then longer explanatory sentences that build out the context and nuance.
+- **Use fragments.** For emphasis. Or drama.
+- **Start with "And" or "But"** when natural.
+- **Include parenthetical asides** (the kind you'd say to a friend).
+- **Ask questions.** Then answer them. Or don't.
+- **One-word paragraphs.**
+
+Really.
+
+### The Detection Checklist
+
+Before moving on, verify:
+
+- [ ] No AI words (delve, comprehensive, crucial, leverage, landscape)
+- [ ] No AI phrases (in today's world, it's important to note, let's dive in)
+- [ ] Not everything in threes
+- [ ] At least one personal opinion stated directly
+- [ ] At least one specific number from real experience
+- [ ] At least one admission of limitation or uncertainty
+- [ ] Sentence lengths vary (some under 5 words, some over 20)
+- [ ] Would I say this out loud to a smart friend?
+- [ ] Does it sound like a specific person, or a committee?
+
+### The Read-Aloud Test
+
+Read your draft out loud. If you stumble, readers will too. If it sounds like a textbook, rewrite it. If you'd be embarrassed to read it to a colleague, it's not ready.
+
+---
+
+## Phase 4: Optimize for SEO
+
+### Keyword Placement Checklist
+
 - [ ] Primary keyword in H1
 - [ ] Primary keyword in first 100 words
-- [ ] Primary keyword in 2-3 H2 headings (use variations)
+- [ ] Primary keyword in 2-3 H2 headings (variations OK)
 - [ ] Primary keyword in meta title
 - [ ] Primary keyword in meta description
-- [ ] Keyword density: 1-2% (natural placement, not stuffed)
-- [ ] Secondary keywords dispersed throughout
+- [ ] Keyword density: 1-2% (check with analysis tool)
 
-### Internal Linking
-- [ ] 3-5+ internal links to related OpenEd content
-- [ ] Used `blog-index.csv` to find relevant URLs
-- [ ] Anchor text includes keywords naturally
-- [ ] Links placed contextually, not in a "related posts" dump
+### Internal Linking (3-5+ minimum)
 
-### External Linking
-- [ ] 2-3+ links to authoritative sources
-- [ ] Links support claims and add credibility
-- [ ] Prefer .edu, .gov, established publications
+**Find related OpenEd content:**
+
+```bash
+grep -i "keyword" "/Users/charliedeist/Library/Mobile Documents/com~apple~CloudDocs/Root Docs/OpenEd Vault/Content/Misc. Utilities/seomachine/context/blog-index.csv"
+```
+
+**Linking priorities:**
+1. Blog posts (highest value)
+2. Podcast episodes
+3. Daily newsletters
+
+**Anchor text rules:**
+- Use descriptive text, not "click here"
+- Include keywords naturally
+- Vary anchor text across links
+
+### External Linking (2-3 minimum)
+
+- Link to authoritative sources (.edu, .gov, established publications)
+- Support claims with data sources
+- Link to tools or resources mentioned
 
 ### Meta Elements
-- [ ] Meta title: 50-60 characters
-- [ ] Meta description: 150-160 characters
-- [ ] Meta title includes primary keyword
-- [ ] Meta description includes primary keyword + compelling hook
 
-### Content Quality
-- [ ] No AI-isms (see CLAUDE.md for forbidden phrases)
-- [ ] Uses regular hyphens for breaks - like this - not em dashes
-- [ ] Includes proprietary insights (not generic web content)
-- [ ] Natural, conversational tone (OpenEd voice)
-- [ ] Readability: 8th-10th grade level target
+**Meta Title (50-60 characters):**
+- Include primary keyword
+- Make it compelling, not just keyword-stuffed
+- Example: "Charlotte Mason Homeschool: A Complete Guide for Beginners"
 
-## Finding Internal Links
+**Meta Description (150-160 characters):**
+- Include primary keyword
+- Clear value proposition
+- Include soft CTA
+- Example: "Learn how Charlotte Mason's philosophy of living books, nature study, and short lessons can transform your homeschool. Practical guide with real family examples."
 
-To discover relevant internal link opportunities:
+### Featured Snippet Optimization
 
-**Method 1: Grep the Blog Index**
+**For definition snippets:**
+- Put definition in first paragraph of relevant section
+- Format: "[Topic] is [definition in 40-50 words]"
+
+**For list snippets:**
+- Use H2 for the question
+- Follow immediately with numbered/bulleted list
+- Keep items concise (one line each)
+
+**For FAQ snippets:**
+- H3 for each question (exact question format)
+- Answer in 40-60 words
+- Direct, complete answer first
+
+---
+
+## Phase 5: Post-Writing Analysis
+
+Run these tools AFTER drafting to check quality.
+
+### Keyword Density Check
+
 ```bash
-grep -i "montessori" /Users/charliedeist/Library/Mobile\ Documents/com~apple~CloudDocs/Root\ Docs/OpenEd\ Vault/seomachine/context/blog-index.csv
-```
+cd "/Users/charliedeist/Library/Mobile Documents/com~apple~CloudDocs/Root Docs/OpenEd Vault/Content/Misc. Utilities/seomachine" && python3 -c "
+from data_sources.modules.keyword_analyzer import analyze_keywords
 
-**Method 2: Read the Blog Index**
-```bash
-# Use Read tool to view blog-index.csv
-# Search for related topics manually
-```
+content = '''PASTE YOUR ARTICLE CONTENT HERE'''
 
-**Method 3: Use Glob to Find Related Content**
-```bash
-# Find podcast transcripts on topic
-# Find existing Daily/Weekly newsletters
-# Find other hub pages
-```
-
-**Internal Link Best Practices:**
-- Use descriptive anchor text (not "click here")
-- Link early in the article when contextually relevant
-- Prioritize hub pages and cornerstone content
-- Link to related pedagogical approaches (e.g., Montessori article links to Classical, Unschooling)
-
-## Post-Writing Analysis Tools
-
-After drafting the article, run these Python analysis tools to verify SEO quality:
-
-### 1. Keyword Density Check
-```python
-python3 -c "
-from seomachine.data_sources.modules.keyword_analyzer import analyze_keywords
-with open('path/to/article.md', 'r') as f:
-    content = f.read()
-result = analyze_keywords(content, 'primary keyword', ['secondary', 'keyword', 'list'])
-print(f'Primary Keyword Density: {result[\"primary_keyword\"][\"density\"]}%')
-print(f'Primary Keyword Count: {result[\"primary_keyword\"][\"count\"]}')
+result = analyze_keywords(content, 'primary keyword', ['secondary', 'keywords'])
+print(f\"Primary Keyword Density: {result['primary_keyword']['density']}%\")
+print(f\"Primary Keyword Count: {result['primary_keyword']['count']}\")
+print()
+print('Secondary Keywords:')
 for kw, data in result['secondary_keywords'].items():
-    print(f'{kw}: {data[\"density\"]}% ({data[\"count\"]} occurrences)')
+    print(f\"  {kw}: {data['density']}% ({data['count']} occurrences)\")
 "
 ```
 
 **Targets:**
 - Primary keyword: 1-2% density
 - Secondary keywords: 0.5-1% each
-- Total keyword mentions should feel natural, not repetitive
+- If >2%, remove some instances
+- If <1%, add more naturally
 
-### 2. Readability Analysis
-```python
-python3 -c "
-from seomachine.data_sources.modules.readability_scorer import analyze_readability
-with open('path/to/article.md', 'r') as f:
-    content = f.read()
+### Readability Analysis
+
+```bash
+cd "/Users/charliedeist/Library/Mobile Documents/com~apple~CloudDocs/Root Docs/OpenEd Vault/Content/Misc. Utilities/seomachine" && python3 -c "
+from data_sources.modules.readability_scorer import analyze_readability
+
+content = '''PASTE YOUR ARTICLE CONTENT HERE'''
+
 result = analyze_readability(content)
-print(f'Flesch-Kincaid Grade Level: {result[\"flesch_kincaid_grade\"]}')
-print(f'Flesch Reading Ease: {result[\"flesch_reading_ease\"]}')
-print(f'Average Sentence Length: {result[\"avg_sentence_length\"]} words')
-print(f'Average Word Length: {result[\"avg_word_length\"]} characters')
+print(f\"Flesch-Kincaid Grade Level: {result['flesch_kincaid_grade']}\")
+print(f\"Flesch Reading Ease: {result['flesch_reading_ease']}\")
+print(f\"Average Sentence Length: {result['avg_sentence_length']} words\")
 "
 ```
 
 **Targets:**
-- Grade level: 8-10 (accessible but not dumbed down)
-- Reading ease: 60-70 (standard readability)
+- Grade level: 8-10 (if higher, simplify)
+- Reading ease: 60-70 (higher = easier)
 - Sentence length: 15-20 words average
-- Avoid overly complex sentences (flag anything >30 words)
 
-### 3. Content Scrubbing (AI Watermark Removal)
-```python
-python3 -c "
-from seomachine.data_sources.modules.content_scrubber import scrub_file
-scrub_file('path/to/article.md', verbose=True)
+### Content Scrubbing (AI Watermark Removal)
+
+```bash
+cd "/Users/charliedeist/Library/Mobile Documents/com~apple~CloudDocs/Root Docs/OpenEd Vault/Content/Misc. Utilities/seomachine" && python3 -c "
+from data_sources.modules.content_scrubber import scrub_file
+# Replace with path to your article
+scrub_file('path/to/your/article.md', verbose=True)
 "
 ```
 
-**This tool automatically:**
-- Removes em dashes (—) and replaces with hyphen + spaces
-- Flags AI-isms from CLAUDE.md forbidden list
-- Removes excessive formatting
-- Cleans up spacing inconsistencies
+This removes:
+- Em dashes (replaces with hyphen + spaces)
+- Invisible Unicode watermarks
+- Spacing inconsistencies
 
-### 4. Manual Review After Tools
-After running automated checks:
-- Read the article aloud - does it sound natural?
-- Check that keywords appear in context, not shoehorned
-- Verify internal links open correctly and are relevant
-- Confirm meta title/description are compelling, not just keyword stuffed
+---
 
-## Quality Checklist (Pre-Publish)
+## Phase 6: Final Review
 
-### Content
-- [ ] Article delivers on the promise in the H1/intro
-- [ ] Includes proprietary OpenEd insights (not generic advice)
-- [ ] No AI-isms or forbidden phrases (see CLAUDE.md)
-- [ ] Uses regular hyphens for parenthetical breaks - like this
-- [ ] Natural, conversational OpenEd voice throughout
-- [ ] Real examples from community, podcasts, or parent stories
+### SEO Checklist
 
-### SEO Technical
-- [ ] Primary keyword density 1-2%
-- [ ] Keyword in H1, first 100 words, 2-3 H2s, meta elements
-- [ ] 3-5+ internal links from blog-index.csv
-- [ ] 2-3+ external authority links
-- [ ] Meta title 50-60 chars
-- [ ] Meta description 150-160 chars
-- [ ] FAQ section for featured snippet opportunity
+**Keyword Optimization:**
+- [ ] Primary keyword in H1
+- [ ] Primary keyword in first 100 words
+- [ ] Primary keyword in 2-3 H2 headings
+- [ ] Primary keyword in meta title and description
+- [ ] Keyword density: 1-2%
 
-### Structure
-- [ ] Clear H1, H2, H3 hierarchy
-- [ ] Sections are 300-500 words each (not too long)
-- [ ] Article flows logically from intro to conclusion
-- [ ] CTA placed naturally at end (and mid-article for long content)
+**Internal Linking:**
+- [ ] 3-5+ internal links to related OpenEd content
+- [ ] Anchor text includes keywords naturally
+- [ ] Links placed contextually
 
-### Readability
-- [ ] Flesch-Kincaid grade level: 8-10
-- [ ] Average sentence length: 15-20 words
-- [ ] No paragraphs longer than 4-5 sentences
-- [ ] Scanned for complex jargon (define or simplify)
+**External Linking:**
+- [ ] 2-3+ links to authoritative sources
+- [ ] Links support claims
 
-### Final Polish
-- [ ] Ran content_scrubber.py to remove AI watermarks
-- [ ] Proofread for typos and grammar
-- [ ] Checked links are functional
-- [ ] Verified OpenEd features mentioned are accurate (check features.md)
+**Meta Elements:**
+- [ ] Meta title: 50-60 characters
+- [ ] Meta description: 150-160 characters
+- [ ] Both include primary keyword
 
-## Example Workflow
+**Content Quality:**
+- [ ] No AI-isms (see kill lists above)
+- [ ] Uses regular hyphens for breaks - like this - not em dashes
+- [ ] Includes proprietary insights (podcast quotes, community stories)
+- [ ] Natural, conversational voice
+- [ ] Readability: 8th-10th grade level
 
-Here's how to use this skill step-by-step:
+**Structure:**
+- [ ] Clear H1 > H2 > H3 hierarchy
+- [ ] Sections are 300-500 words each
+- [ ] FAQ section for featured snippets
+- [ ] CTA at end
 
-**Step 1: Gather Requirements**
-```
-Target keyword: "homeschool art curriculum"
-Search intent: Informational (parents researching options)
-Competition: Medium (aim for 2500 words)
-```
+### Humanity Checklist
 
-**Step 2: Find Internal Links**
-```bash
-grep -i "art\|curriculum\|homeschool" seomachine/context/blog-index.csv
-```
+- [ ] At least 3 specific examples with names/numbers
+- [ ] At least 1 opinion stated directly
+- [ ] At least 1 limitation acknowledged
+- [ ] Sentence lengths vary
+- [ ] Passes read-aloud test
+- [ ] Sounds like a person, not a committee
 
-**Step 3: Gather Sources**
-- Read podcast transcripts on creativity, arts education
-- Check Slack #recommendations for art curriculum suggestions
-- Review existing Daily newsletters on creative learning
+---
 
-**Step 4: Draft Article**
-- Use structure template above
-- Weave in proprietary insights from sources
-- Include 3-5 internal links naturally
-- Add 2-3 external links to art education authorities
+## Reference: E-E-A-T Examples
 
-**Step 5: Run Analysis Tools**
-```bash
-# Keyword density
-python3 -c "..." # (use script above)
+Study these writers for voice and quality benchmarks:
 
-# Readability
-python3 -c "..." # (use script above)
+**Marketing/Business:**
+- Paul Graham (essays)
+- Wait But Why
+- Stratechery (Ben Thompson)
+- James Clear
+- Backlinko (Brian Dean)
+- Lenny's Newsletter
+- Derek Sivers
 
-# Scrub content
-python3 -c "..." # (use script above)
-```
+**Finance/Economics:**
+- Matt Levine (Money Stuff)
+- Morgan Housel (Psychology of Money)
 
-**Step 6: Revise Based on Data**
-- If keyword density >2%, remove some instances
-- If grade level >10, simplify complex sentences
-- If scrubber flags AI-isms, rewrite those sections
+**Technical/Education:**
+- Julia Evans (technical writing)
+- Dan Luu
+- First Round Review
 
-**Step 7: Final Quality Check**
-- Run through Quality Checklist
-- Read aloud for flow
-- Verify all links work
-- Check meta elements are filled in
+**Healthcare/Science:**
+- Dr. Peter Attia
+- Dr. Siddhartha Mukherjee
 
-**Step 8: Publish**
-- Add meta title/description to CMS
-- Upload article
-- Monitor rankings and traffic
+The goal: content that reads like these writers - not like AI trained on generic web content.
 
-## Common Pitfalls to Avoid
+---
 
-1. **Keyword Stuffing**: Don't force the keyword into every paragraph. Use variations and synonyms.
+## Before/After Examples
 
-2. **Generic Content**: Every OpenEd article should include proprietary insights. If it reads like a generic web article, dig deeper into podcast transcripts and community stories.
+### Generic → Specific
 
-3. **Weak Internal Linking**: Don't just link to the homepage or info session. Link to related hub pages, blog posts, and resources.
+**Before:**
+> "Many homeschool families find Charlotte Mason's approach helpful for developing a love of learning."
 
-4. **Boring Meta Descriptions**: The meta description is your search result sales pitch. Make it compelling, not just "Learn about [keyword]."
+**After:**
+> "When Sarah started homeschooling her three kids in 2021, she burned through four different curricula in the first year. Nothing stuck. Then she discovered Charlotte Mason's approach - specifically, the idea of 'short lessons' (15-20 minutes max per subject). Her 8-year-old, who used to melt down during 45-minute math blocks, now finishes his work before lunch and asks for more."
 
-5. **Ignoring Search Intent**: If the keyword is "best homeschool art curriculum," users want recommendations, not a philosophical essay on art education.
+### Robotic → Human
 
-6. **Forgetting the CTA**: Every article should guide readers toward OpenEd - info session, community, or relevant feature.
+**Before:**
+> "It's important to note that when it comes to nature study, consistency is crucial. Furthermore, the benefits of outdoor learning are well-documented. Additionally, children who engage regularly with nature demonstrate improved focus and creativity."
 
-7. **AI Voice Leakage**: Run the scrubber and manually check for forbidden phrases. AI-isms kill credibility.
+**After:**
+> "Here's what nobody tells you about nature study: it feels weird at first. You're standing in your backyard, staring at a tree, wondering if this is actually 'educational.' Then your kid notices the woodpecker holes. Then they want to know what made them. Then you're both Googling pileated woodpeckers at the kitchen table. That's when you realize - this is working."
 
-## Reference Files
+### Vague → Actionable
 
-- **Blog Index**: `seomachine/context/blog-index.csv` - all published OpenEd articles for internal linking
-- **OpenEd Features**: `seomachine/context/features.md` - feature descriptions for CTAs
-- **SEO Checklist**: `.claude/skills/seo-content-writer/references/seo-checklist.md` - condensed optimization checklist
-- **Writing Rules**: `CLAUDE.md` - forbidden AI-isms and style guidelines
+**Before:**
+> "Consider incorporating living books into your curriculum for a more engaging educational experience."
+
+**After:**
+> "Replace one textbook this week. Just one. Instead of that dry science textbook about ecosystems, try 'The Burgess Bird Book for Children' (free on Project Gutenberg). Read one chapter together. Watch what happens when your kid starts noticing the birds in your yard and can name them."
+
+---
+
+## Common Pitfalls
+
+1. **Keyword Stuffing** - Use variations and synonyms
+2. **Generic Content** - Every article needs proprietary OpenEd insights
+3. **Weak Internal Linking** - Link to specific pages, not just homepage
+4. **Boring Meta Descriptions** - This is your SERP sales pitch
+5. **Ignoring Search Intent** - Match content to what searchers want
+6. **No CTA** - Guide readers toward OpenEd
+7. **AI Voice Leakage** - Run scrubber and check kill lists
+8. **No Specifics** - Add names, numbers, concrete examples
+9. **No Opinion** - Take a stance, don't hedge everything
+
+---
 
 ## Tool Locations
 
-Python analysis modules are in `seomachine/data_sources/modules/`:
-- `keyword_analyzer.py` - keyword density and distribution
-- `readability_scorer.py` - Flesch-Kincaid scoring
-- `content_scrubber.py` - AI watermark removal
+Python modules in `Content/Misc. Utilities/seomachine/data_sources/modules/`:
 
-Run these after drafting to validate SEO quality before publishing.
+| Module | Purpose |
+|--------|---------|
+| `google_analytics.py` | GA4 traffic data |
+| `dataforseo.py` | Keyword research, SERP analysis |
+| `keyword_analyzer.py` | Keyword density analysis |
+| `readability_scorer.py` | Flesch-Kincaid scoring |
+| `content_scrubber.py` | AI watermark removal |
+| `seo_quality_rater.py` | Overall SEO score |
+
+---
+
+## After Publishing
+
+1. Add article URL to `blog-index.csv`
+2. Run content database sync to include in future searches
+3. Monitor rankings in 2 weeks
+4. Check GA4 for traffic trends after 30 days

@@ -9,6 +9,23 @@ Creates Monday-Thursday daily newsletters (500-800 words) that challenge standar
 
 **Not for:** Friday Weekly digests (use `weekly-newsletter-workflow`), social media only, or blog posts.
 
+## Session Startup
+
+At the start of each newsletter session, sync the content database:
+
+```bash
+cd "Content/Misc. Utilities/seomachine" && python3 -c "
+from dotenv import load_dotenv
+load_dotenv('data_sources/config/.env')
+from data_sources.modules.webflow import sync_content_database
+sync_content_database()
+"
+```
+
+This pulls latest content from Webflow to `Content/Master Content Database/` for internal linking and context.
+
+---
+
 ## Workflow
 
 ### Phase 1: Content Curation
@@ -140,6 +157,13 @@ Apply voice from:
 - **Bold** for key quotes/stats
 - Hyperlinks throughout (not just at ends)
 - `---` between sections
+
+**Internal Linking:**
+When mentioning topics covered in existing OpenEd content, link to them. Search the content index:
+```bash
+grep -i "keyword" "Content/Misc. Utilities/seomachine/context/content-index.csv"
+```
+Priority: Blog Posts > Podcasts > other Daily newsletters. Aim for 2-3 internal links per newsletter where natural.
 
 **Complete structure:**
 ```markdown

@@ -7,9 +7,13 @@
 
 Greetings Eddies!
 
-Isaac Morehouse went on The Minimalists Podcast a while back and dropped so many quotable moments that we're still working through the clips. This one involves a whiteboard, a 16-year-old, and a decision most parents would never let their kid make.
+I drafted today's Daily last week, praising the New York Times for its honest reporting in a magazine article: "America's Children Are Unwell. Are Schools Part of the Problem?"
 
-We're also covering a New York Times piece that asks a question OpenEd readers have been asking for years. The data is staggering. Preschoolers getting expelled. Kindergartners losing recess. And that's before you get to the part about autism diagnoses going from 1 in 2,500 to 1 in 31.
+Then - yesterday - they published a guest essay titled "The Home-Schooled Kids Are Not All Right."
+
+Three weeks apart. Two very different takes. The Times is arguing with itself.
+
+We're working on a longer response, gathering testimonies from our community about what open education actually looks like. In the meantime, we're running with our original plan: Isaac Morehouse, a whiteboard, and a conversation with his 16-year-old that every parent should see. Plus a whiteboard company that makes it easy to have that conversation anywhere.
 
 Let's dive in.
 

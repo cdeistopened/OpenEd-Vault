@@ -293,80 +293,97 @@ Per the Triple Word Score system:
 
 #### Phase 4 Output Format:
 
-Create file: `clips/{video_id}/{video_id}_Clip_Assets.md`
+Create file: `clips/{video_id}/{video_id}_CLIP_PACKAGE.md`
 
 ```markdown
-# {Video Title} - Clip Assets
+# {Video Title} - Clip Package
 
-## CLIP 1: "{Descriptive Name}"
-
-### Video Details
-- **File:** `clip_01_{name}.mp4`
-- **Duration:** XX seconds
-- **Core Message:** [1 sentence]
-- **Speaker:** [Name]
+## Source Video
+- **URL:** [YouTube URL]
+- **Title:** [Video title]
+- **Duration:** [Total length]
+- **Downloaded File:** `{video_id}.mp4`
 
 ---
 
-### On-Screen Text Options (Choose 1)
+## Context
 
-**Option 1:** Your kid's Minecraft addiction is genius
-- **Category:** Polarizing Statement
-- **Recommended for:** All platforms
-
-**Option 2:** Schools got this wrong
-- **Category:** Direct Challenge
-- **Recommended for:** TikTok, Reels
-
-**Option 3:** What COVID revealed about learning
-- **Category:** Curiosity Gap
-- **Recommended for:** YouTube Shorts
-
-**RECOMMENDED:** Option 1 (strongest hook, broadest appeal)
+[2-3 sentences explaining the backstory needed to understand the clip. Who is the speaker? What's their situation? What happened before/after the moments in the clip? This context ensures on-screen text and captions are coherent with the actual story.]
 
 ---
 
-### Platform Captions
+## Editing Instructions
 
-#### Instagram / TikTok / YouTube Shorts
-[Same caption for all three]
+**SEQUENCE (Rearranged from original - NOT linear):**
 
-Your kid's Minecraft addiction might be smarter than school 🎮
+| Order | Timestamp | Speaker | Line |
+|-------|-----------|---------|------|
+| 1 | MM:SS-MM:SS | [Name] | "[Verbatim quote]" |
+| 2 | MM:SS-MM:SS | [Name] | "[Verbatim quote]" |
+| 3 | MM:SS-MM:SS | [Name] | "[Verbatim quote]" |
 
-The conveyor belt wasn't doing the heavy lifting. COVID proved it.
+**OPTIONAL EXTENSION:**
 
-#Education #Homeschool #Parenting #AlternativeEducation #OpenEducation
-
----
-
-#### Facebook
-[Slightly different - longer, conversational, NO hashtags]
-
-Your kid's Minecraft addiction might be smarter than school.
-
-COVID forced families home—and something unexpected happened. Parents realized their kids weren't falling behind. They were thriving. The conveyor belt education system wasn't doing the heavy lifting after all.
-
-What did you discover during COVID about how your kids actually learn?
+| Order | Timestamp | Speaker | Line |
+|-------|-----------|---------|------|
+| 4 | MM:SS-MM:SS | [Name] | "[Verbatim quote]" |
 
 ---
 
-### Algorithm Optimization
+## On-Screen Text Hook Options
 
-**Topic Keywords (spoken in first 10 seconds):**
-education, school, learning, COVID, kids, homeschool
-
-**Hashtag Set (10-12 total):**
-- Broad: #Education #Parenting
-- Mid: #Homeschool #AlternativeEducation #LearningDifferences
-- Specific: #Homeschooling #Unschooling #OpenEducation
-- Niche: #HomeschoolLife #HomeschoolMom
-- Platform: #Shorts (YouTube only)
+1. **[Hook text]** - [Category]
+2. **[Hook text]** - [Category]
+3. **[Hook text]** - [Category]
+4. **[Hook text]** - [Category]
+5. **[Hook text]** - [Category]
+6. **[Hook text]** - [Category]
+7. **[Hook text]** - [Category]
+8. **[Hook text]** - [Category]
+9. **[Hook text]** - [Category]
+10. **[Hook text]** - [Category]
 
 ---
 
-## CLIP 2: "{Descriptive Name}"
-[Repeat structure...]
+## Platform Captions
+
+### TikTok / Instagram Reels / YouTube Shorts
+[Caption text]
+
+[Hashtags: 3-5]
+
+---
+
+### Facebook
+[Longer caption, conversational, NO hashtags]
+
+---
+
+### LinkedIn
+[Professional tone caption]
+
+[Hashtags: 3-5]
 ```
+
+#### On-Screen Text Hook Categories
+
+- **Story Setup** - Provides context that makes the clip make sense (e.g., "Homeschooler tries public school")
+- **Polarizing** - Bold statement that divides opinion (e.g., "Most schools are awful")
+- **Contrast** - Juxtaposition that creates tension (e.g., "First in class. Zero joy.")
+- **Curiosity Gap** - Teases without revealing (e.g., "#1 out of 1,200 students")
+- **Story Tease** - Hints at narrative arc (e.g., "She went back to homeschool after this")
+- **Pattern Interrupt** - Subverts expectations (e.g., "This isn't anti-public school")
+
+#### Context-Caption Coherence
+
+**Critical:** On-screen text and captions must be coherent with the actual story in the transcript. Before writing hooks:
+
+1. Understand the full context (who, what, when, why)
+2. Identify what viewers need to know for the clip to make sense
+3. Choose hooks that accurately represent the story
+4. Avoid hooks that would confuse viewers when they hear the audio
+
+**Example:** If the clip shows someone criticizing public school, but they were actually a homeschooler who tried public school once, hooks like "Homeschooler tries public school" or "She tried public school for one year" provide necessary context that makes the story coherent.
 
 ---
 
@@ -480,6 +497,15 @@ Before delivering clips:
 ---
 
 ## Version History
+
+- **v1.1** (2025-12-20): Streamlined output format
+  - Removed "Target Length" and "Concept" sections from output
+  - Removed "Why This Edit Works" section
+  - Added "Context" section for backstory coherence
+  - Simplified on-screen text hooks to numbered list with categories only
+  - Added "Story Setup" hook category for context-providing hooks
+  - Added "Context-Caption Coherence" guidance
+  - Updated output template to match streamlined format
 
 - **v1.0** (2025-12-02): Initial skill creation
   - 4-phase workflow: Download → Analyze → Cut → Caption

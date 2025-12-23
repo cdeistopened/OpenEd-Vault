@@ -27,6 +27,23 @@ Transform a raw podcast transcript into polished, multi-platform content assets 
 
 ---
 
+## Session Startup
+
+At the start of each podcast production session, sync the content database:
+
+```bash
+cd "Content/Misc. Utilities/seomachine" && python3 -c "
+from dotenv import load_dotenv
+load_dotenv('data_sources/config/.env')
+from data_sources.modules.webflow import sync_content_database
+sync_content_database()
+"
+```
+
+This pulls latest content from Webflow to `Content/Master Content Database/` for internal linking and context.
+
+---
+
 ## THE FOUR CHECKPOINTS
 
 ### Checkpoint 1: Comprehensive Analysis (90-120 min)

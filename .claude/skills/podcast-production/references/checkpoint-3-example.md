@@ -51,6 +51,8 @@ A single document containing:
 3. Resources section (with clickable links)
 4. Chapters section (formatted timestamps)
 
+YouTube Description: Opening hook sentence (using exact keyword phrase in first 100 chars) + full description + resources + chapters. Ensure the description anchors the technical solution in a daily routine to maximize semantic search relevance.
+
 **Example:**
 
 Parents worry about smartphones destroying their kids' mental health. But research shows something very different is actually causing anxiety and depression in teens.

@@ -1,0 +1,65 @@
+---
+title: "🐴 Textbooks vs. Chromebooks"
+url: https://opened.co/newsletter/textbooks-vs-chromebooks
+slug: textbooks-vs-chromebooks
+type: daily
+date: 2025-07-29
+meta_description: ""
+summary: ""
+webflow_id: 688cbb70b8f0a9007e86eb85
+last_synced: 2025-12-17 21:56
+---
+
+# 🐴 Textbooks vs. Chromebooks
+
+**URL:** [https://opened.co/newsletter/textbooks-vs-chromebooks](https://opened.co/newsletter/textbooks-vs-chromebooks)
+**Type:** daily
+**Published:** 2025-07-29
+
+## Content
+
+The OpenEd Daily is back from Summer break! (We were going to start up again next week, but there's just too much happening to sit around twiddling our thumbs.)
+
+For starters... you asked, and we delivered. The [***Open Education audiobook is finally here***](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCvl3qgz0W7lCdLW6lZ3nqVjdGBL4-WRNkW7DR9GD78JPPLW68mGT55t3ZhHW6SYY0r4KhrgxW4Ss0pR8f24B4W7dlrd_7_4MwDVjdj3K7fcbD-W5_JPQC2b8-qwW4H3yNd1fvHC6W3LBkg62hPcX9W8X_rsd5QGLdHW5Pvf0x4hdQJWW3yg1257TtV4tW7vGwgd4clZZ7W64Czh33WJKgPVS7D8x51F3-6N8X4jV04K6-vW5TX1kh5ZzJ2TW2f_xFJ26JWSWW5bvyxS4-vtb6W5gSs0363HrvbW7Wzwqk1fBFCbW14zpP79bb70SW5nqGfZ29jy1hf87604M04), narrated by Matt Bowman! Find it on [**Audible**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCvl3qgz0W7lCdLW6lZ3nkN5DHxQ-M_VRFF4DYXzRr0CzN8rHPBnDvYtPW8RYGNb77TtXQW2xy_hL4sLgnLVw3JSx8HxFW0W3HJqt09lYjhlW2GPlHn1-L53SW2WFl-M7bVg3rW4JR4KY4ygrZ8W20xw6F55DVQHW7-wXm65VNqbhW7PG3hY4JMvL0W8_778B3NkSHbW4b4dpt40jc3fW3mjxPL4HGTgrN8yyBvBZlkJ7W8R2-9Y88NttzW92PMxr5TfhM_W7HVBBW6G1ScnW5-sW351-9r8nW1h2pB_8MmpWgN2yw95YsjzkpVLc38M3Hprmgf887vHs04)** **and all major platforms.
+
+Stay tuned for more exciting announcements this week, and if you like what you hear, forward this email to a friend!
+
+Happy listening,
+
+– Charlie (the OpenEd newsletter guy)
+
+‍
+
+**THOUGHT: **"Replacing textbooks with Chromebooks was a mistake"
+**TREND: **Stove Lady reminds us that newer ≠ better
+**TOOL:** The affordable printer that runs like a tank
+
+# "Replacing textbooks with
+Chromebooks was a mistake"
+
+We shared [this hot take from Daniel Buck](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCvY3qgz0W8wLKSR6lZ3kYN8bpxnY46GJYW3BFLBj3j-CwDW46cqYJ6SCDj-W8S8N5Q97G-c3Vdwd1280wM9NW8g0fX01CY9g1W7GVrw34GHC4gW6n48Tz5S7wdXW6R24ml1j0F6RW8nxRjN3q7RZnW59Txp92MW1-6W29nRb27tWhqPW7wSMNQ3_mkY-W3ggmgz2M9f8jW2qrLv12fYcpRW9fLQgg1jVpkbW87b3bd8x5VvKW8zy1G980BWfMW1wGNnS3xtDRWW27VW3l1NLKcsW7RgKg845Qf6mW4DpPS37482fSW8sgSZ85XC2lSW5xgCgw6ZxjtKW1Fdg-17kwPDyW8jF0tM7v84VQW5_cqdG75HjGcW9dFDM_65Fk-cdjXWvR04) ("the youngest old man in ed reform") on Facebook with a simple question: ["Agree or Disagree?"](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCt89kX3zW50lwYY6lZ3kGW8nd83W4W1PHvW18DWBh6m4HRnW7PpnMt8cjNvvW2RjCRY8LyN1jV-q5WP6dllyRW1-fpGv3pGngqW6HLV8D8WzVyQW4LXLQD97vk6pW21HFtX4wX2pNN2q8KhcnhKtvW2Tw4yT4Yf0WrW96NrTP5P4RKQN91YYR6C7s6KW1JHD4J5D-6DVW5Hpd0Z271XB_W3JXwdm5JMkrRW1YYH0n2RqFyGW4WQtqM3ZRc2yW3Vvd-s3y_qXdW2DTc9w3LFFVyW8d-j8H956T4WW8SgMqz2R_q9nW4vxW2m3nkXChW4fK02y181wlxW5PQJWB2G_7XbW7SWlzR51tXd2W2C3fwr6h5Js7N1WtSG1QSjWZW7-4gr88Lg14SW43NPBZ5qCYnJW1fVQF85dThylW7H5-Kn47QmKFW6Sm6d58r0tmVVLmmhd8s0zNpW44hQrD878B57VkkBzt8BYkkyW69zqmT6FnvsHW8c4nWV4P_VCfN8YMdfkswHd_W7vh1118cnqWvW13GC2j767Px_W3SKCPP869cfyW57kdn842NxHjN6Z64GM_-DgnW8hHJl25SkkW1W6_KsBc1yxb_5W8SQ90-2Ts4kBW8fvl1148r4ZgVbggM829ZSDGVhB6Ks16QzZYW4Sq4Xd8FSBBKW2X-XXz2Y2YXHW2vJN_w1CkZYKW1ZClpw7L40tMVRkcP461YrlqW8NssLs8svlhtW9grG_H7RSWLpW5SVt4_29K1-jW8th1Qz6t9Xp1N4gTD8fsHZgmW8nWg5V6_3sYpW84RKgG7q_L50VXvsxb8Mt7RjW2YcfHp2R5vQqf8dQq2-04)
+
+Dozens of comments flooded our feed:
+
+- "In total agreement"
+- "Go back to paper, pencil and imagination!"
+- "Kids can't learn without digital crutches"
+
+But a few parents pushed back—one noted how digital tools helped her dyslexic kids who found copying problems "a million times more tedious than doing the math." Another pointed out that textbooks become outdated while digital content stays current.
+
+**Our take:** Laptops aren't digital babysitters, but when they're used to remove barriers for struggling learners, it gets more complicated than just "tech-good" or "tech-bad."
+
+# Stove Lady
+
+[Meet the woman who restores 80-year-old kitchen appliances](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCvY3qgz0W8wLKSR6lZ3l9W3ZnMfl6Ks3c1V3qQ7k1rkn69W7XLCfb5-0tp0W6cV2cC131ZznW8TMTJP4f0_GCW8W4xTW3_m2QGW35vF2Q1QlBQJW3XqjNq4-8HGZW8_qmxT4m4_v7VzSg-R1crL-8W4VhktH9f8r_nW6FW96w96zXSvW3tB4Qg4RLVnPN8xr1rz9kb97W4N3sSC6XnMGfW3qBXGn8n6x06MMyB7s2lxhlW62TkpQ6s6x4KW3zJSzg5G3446W6Gb1ww6vpffKW6MRylH7N0kfsW959Yct7-W4gzW5Dqb0X5v2LSqW30Jwhx4lj4lrW8kzLdH2CwbpSW11NvtM1vL8R0W4RYkxr67hqt_W7y38CW6Y98Zff9lfSBP04)
+that put our modern-day"smart ovens" to shame. Her vintage stoves can bake pies and make ice cream in the same machine. And because they're made of metal, not plastic, they're never broken beyond repair. But seriously, why do modern appliances seem to fall apart so much faster? It may not have had Google Maps, but your grandma's rotary phone worked for 40 years; your iPhone needs replacement every 2 years.
+
+Whatever the reason, *we think the world needs more people like the Stove Lady*.
+
+# EcoTank printer FTW
+
+Cassie Shepherd ([@HomeCenteredLearning](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCvF3qgz0W7Y8-PT6lZ3lPW25JpHs3DZ7FMW75Bhj46h0XNTW6YL04Z3PFGmtW6h5vGx2YdMVnW3wJ8Q622SvxWW479dfQ6zzvlBW2LDYjy7_h_g8W3DXR3C19vW36W4Z-DKr76SW48W1nvHV49hwMXSW2Xv99X2JJlg3W8z07pY8sRpdjW7176bt823MS_W4l_hpY5G1Y_HW86TzG636NKm3W9kM1pd21vf0NW6xYDjN9lKz_QVt_m4S3wbg6MN3cZ7XVpj6fmN5y7lJXS055yW8pm_sm6f7xf9W4thgLQ7B09WtN4yKV6t2PFW6W2-D3nK2dRXZLW58GttD5CYxGyW88dj_C9gf0Ymf1VgxGg04)) offers a welcome solution to the digital/analog debate applied to home-based education. [Her list of (mostly analog) must-have curriculum supplies](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCwd3qgz0W95jsWP6lZ3l3W7jcTK499ld92W9jHjHt7BwTvwVvH-1X21VqcDW7l3Bdx89wbkRW8kdj-V3dZr90VD5n047_FwBjW1R7TLW89Qbs3W14n9F_8TdLWXW7_F79_1S9fzcW41-Gvp7J0VbfVR6MjX2tY-0JW6P0HWb1pnBfjMVr0s-nbGdjW3sKF7t4WDXnrW8tjV-W4Qc7LXW4fP-4R1XrCqWW75Nxq31JRvqvW8M-Vsk95Dbm9W1-z-yQ2RN7PWW8pd3CL8V9T7gW2dMFsT2cxW6QW5LhS6_3r3C5CW4MwQbZ7gmRV8W6HBpn12vwHZTW9frWkC9blB46W5Fkp4M1gRdJMW42PSzj1Hkl2wN35CBpcRWwVqN9d_mkjkFYKkW6R9QlT2jLkLGf11Dv_F04) centers around home-printing of digital materials: spiral binders, paper cutters, laminators for reusable materials, [and a reliable "EcoTank" printer](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCwdcjszMW95l6Qj6lZ3lPW6m5P945L_Mw6W7B1Ns93JMMqFW5JkVTL2p3XkVW6nrYd48L4DZSW1mzzkN8JvyXVW4QBKW-8ZkhBKW3XXhl98CKgB2W8Q_B4X5gDg14W8yKln_8_b9Q7W46L9bJ7QghjJW6MMhwz8tkvjnW5dZ5kG7NYS_MW7GNRpQ1xj1-hW64PPdD8MbvBrW6sddY35xzmsfW4fVcPl4j1rtFW6M5hkG4NFK2fW4hBfg071YDxkW3L86wM3zX5bxW8VCF4V6ZH8LrW1X8Xgf6J1-dyW9lX0Nx3MBq2nW2BtZFT3JJDTxW5QxjKm31ryVmW3x0cL862BRzsW7vL6bK5jQN6cW7h8nd32ZyTbkW61q47N84d3VYW1jPRvq5Zh6VdW9kVbgK7my6kzN4qhljnNNnhMW48PkCf5XYl3mW2Ycz1K8hw25BN1_nBypfmLPGW5d8J-Q1vjqzmV8BNw-7wVvGNW4TvMST1YsbxGW7N_b_Z4xrp5dW4Gb8-y6Np2vlW3K-h707SNLrmW1JWqtS8970R2V_VkzM4YwxSbW4tmd6W7VM5gJMdTHJRVHbDbVHnGJr6LsFR_N3lcSDjbP7TWW6RDZJ68NWlNBW6H24wP7K1N0HW4YwPwx127YWKW84sr2Z4XJ7rZW89lVJy62K3y_W4MSz568jXmF3W2QHX8-4-CjJ7N8WW9BVkfCWgN8x2xstpqdYGW86F19d8FQhYdW4lxRk05sp4FzW4Dtxyw744btQW1PsfHS70Sty3VKmd854z-hzdW3PXTx28mzGLZW33m64s6XQTVCN7CGZCWNF9JNW48Dtq25MPHBtW1YgL9k5pmyVRVbbDKC4MrdtPN1VzLnv87X13TC21B4f03GRW4Mn8sz8dXtBgW3YF0FP74HyKwW2TWkw56BC-qWV8rPz58fMtpSVsddhv1JK21fW15SWs-163lpMW15JJX38wKBtKW2dRfqX2B2kdxW28T8Mp6NTjVxW6SgNY911-3N1W4vp6rv64vGwQW4L293T8F0FMsW7pJ4_48LccFSW7n2Qn817TDs6W6fmsCl1BjlMGVhZxWk5jJJ-tW20q9BR8MC8SxW6l9JGb2DfMpQN2WF7l3rnH4fW1g1KlT2_wBz-N7cMKzp3q9j_W4S_C3l90Bnt9V9RQY98yS3dWN3Ncj3nSDlqqW85Y2pG3TdKg9W8s_krC3zZ9Krf33NcY004) with cheap ink.
+
+**"A few years ago I tracked how many pages I printed with $60 of ink and it was over 9,000,"** she notes.
+
+She also prints the first page on cardstock for durability (#lifehack), laminates flashcards and games for siblings to reuse, and bind materials herself. When she's done with a curriculum, she uncoils it, tosses the paper, and saves the binding materials for the next project. Money saved on workbooks can go towards real-world learning experiences... or [a printer that's built like a tank](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCwdcjszMW95l6Qj6lZ3pVN8rC71F-58hvW8229m096DS2JW1bwZzR6Nl9N_W4y91nQ1HwR_bVb7MsV8D5pqjW2_DZy72NGSY2W46Q3zb7q3GVnW1lxY7r8CC-1TN34pxYLBF-XmW7Ptt1s2XZSLZW26lsL541z12FW49gbF_3GlPf7W7W_PS-43bSDDW8bfVp61sB6zRW3Nj8Df5XKXd0W1SGtLM5tQN3tW8nHGX45G78s1W1s1hLc7JDbMcN5_H-nzSynK4N4YjqmHnTCSfVfD-pk3Hlh3_W2nJW0d4_trnqW8r4HgK6DQQWjW9jJ-6782ng-4V1ZvVH20JvlmW1jq9Hh3lxzWnVfrvtR4LJ1qSW8xr6sJ7h8_pTW90cLsg2XzrJlW6qDTwj4rMSc6W3w3QBV2FFP2HW5dqQ1G8DfHz2W85lp2X2yzMM7N5zgYVWwJCSfW3d3dsQ3F0N5kN5mgRGV2DrQKW6GZFdS4shXj7VqDlLW3R9k45W21FxQk45qqDpVc51hb2FRXj-W1rYvMn4_sLKnW2972pc7WV7LJN6Wzf6hwkFRYW3QQbkj89BRV1W4vQZjj7LD7qDVR5zkB4z-m4fVz1zSG6hPJklV64BN23TQBMxN3SJlTlDkFTVW65_w1c54cPSBMBn3jldgN4yW3MtPSS62ZpMGW752n6R79M2y5V6vLrN24ZGvFVX4B8G5G_w1wW3Yv7c78lb_cGW1371yt28TJxjVX9nT21skJDrVHNwvy5zbpFTW8l_Mf68f9dLTW6Bb3nt4LMpYkW6hpkdm5wv-k_N2sjYTDx5d1zW7_49Dt2hzsDqW16BDBl25Gmh-W1ssWJf19z3k6W4pR-n331Y5ZLW9fV4mB80Vz3zVWwsKm57tzv_N4l4Ss2v0ZFYW7FyzfH3s_GR7W7NtK339186vvVwFRJj2jMkS1N6bwbDCX6G0DW295BBd6fWpxzW4PTLmt2cMqbdN264Y_ym_q4HW8ymqPK4fXMWYW2q40MC2r9367W6HJ-tg3jHMfFW6mk4ys8v09WjW1JJFHn8XqGKDW1g5Bfr2rlFhRW65r9kv6CzpJJW6K5vHL1VrdXLW46kQJx51wZgGN2Y0X24vXh7FVFFqXj5QyDGQW2LfL-Y42dyMFN6WkWQHgrZdTW78Mpy65jw62fW2__ZBg4qF_l8W1j7kXD8MdP26N5vf6s97JmQNf6KpmlW04). Read all of her recommendations [here](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/MVXtDLjxHSlVxXgwm77GpD8W3S9mTt5zy8XKN7dHCwd3qgz0W95jsWP6lZ3pjW2zKKKc263Xk9W1xnNLv8VvNwyW1mcM7N4GC_lSVLCXGT4Qv_FPN88Qk2tfmX0pW24WGn83c4rrKW7g2PlV4SPCFbW7b1mwL9gHyq0W3l-tr457HXzVN3ZHk8Cn84K2W7zDDGf2Srts7N7zRNbrWHvFSW5T5bbX2x-NG6W4cBg7T4x4XjQW6w1nl53hslpwW1tVS-X8hh24lW7wvxbx4FKLxRW7mdrkf7qPZ2-W4R7BPp5stnbtW8GCgtB7yj34NW3HG_377rqRw3W6Y11Sp6T7JYmW6YZcQH6VR6zqW8fG9bQ1zfscdW85NtcG7JdxSMW54HWfk33qwPHW5jc1B-968DmTW33nqxX8Zghv9W8Tmvf-1TrzyVW19p3zH4Bf0yZf5fB-5b04).

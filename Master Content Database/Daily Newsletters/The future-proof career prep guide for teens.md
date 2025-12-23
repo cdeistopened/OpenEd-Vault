@@ -1,0 +1,112 @@
+---
+title: "The future-proof career prep guide for teens"
+url: https://opened.co/newsletter/the-future-proof-career-prep-guide-for-teens
+slug: the-future-proof-career-prep-guide-for-teens
+type: daily
+date: 2025-08-02
+meta_description: ""
+summary: "Homeschool news: NYT article response, 7 future-proof career prep strategies, plus tools and trends for families choosing educational alternatives."
+webflow_id: 68961d9d5f32e835fdc1c047
+last_synced: 2025-12-17 21:56
+---
+
+# The future-proof career prep guide for teens
+
+**URL:** [https://opened.co/newsletter/the-future-proof-career-prep-guide-for-teens](https://opened.co/newsletter/the-future-proof-career-prep-guide-for-teens)
+**Type:** daily
+**Published:** 2025-08-02
+
+## Summary
+Homeschool news: NYT article response, 7 future-proof career prep strategies, plus tools and trends for families choosing educational alternatives.
+
+## Content
+
+**Welcome back to the OpenEd Weekly, and what a week it's been!**
+
+We've been busy issuing [corrections to the New York Times](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3lYM-W8wLKSR6lZ3pXF4mbXmZjhx_W7wxrM_6CKhyJW6WYm7P4j0kd6W1S6DJ36XGcysW61-3wk88bLt-Vxm5Qf4ts8ntW52951z48sw0nW5gXMK350PV14W94KhYs8VyrXZW4Ztz4H7V3fPPVSx9bp7rvbfcW5qD43f7B3W1xW4Vl4Lc1tS_v6W2qB-qx9bR1YgW91hNDq6tZjrCW65ld7p896gGXW314-F31XZ1NpW6brgPp3Gg_FbW69sQtM8XpH0LW2CWXDz1hX6v-V7yXvR8ww7-kN6-cZft8x2hYW3bBqFh5vrS5GW3yyZd58YQCgHW8XPb-l89K0PTN5pMz_0CPZvzV-588_43nYcyW8kDzTk4hyD1lf2bSnH004), preparing to launch in a new state (stay tuned), and compiling [the best career prep advice and resources](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0Y3lYM-W7Y8-PT6lZ3mKN5z7H7cLTh3PW3mhZW422YtyWW53NG9M7RKGDjN8gHJTj2VG5jW4wyYf118Dz33W7l_6Jz5nbmzxW23Tw5v3phNZRW7Tnk1r1yPRm7W5zThPL7GMxwbW6ByrqN2WDPMLW8FZSFr2Dsrx_N8yx7dNbn9VwW7nq_SL3GzSZJW6bzNdY3NN17zW3wMfzh7kprWRN3xKC_Bgs9YkN1-k8S4RvYH3W4ctjY18stgWZW4TYFK14QzGW7W8KTx0s5WV94xW6tw-569hgQ_nW5gG01L7SkZGjW2TWhFD1ktFQNV4qSwy2CVBYDN2KRRjHCDhRvW2P-l_J67KW0lf3Sx8R804) for homeschoolers facing an uncertain job market.
+
+Without further ado...
+
+– Charlie (the OpenEd newsletter guy)
+
+‍
+
+## The OpenEd Weekly
+
+## DEEP DIVE: Setting the Record Straight
+
+ICYMI, [The New York Times just published an interesting piece about the "home-school" movement](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0Y3lYM-W7Y8-PT6lZ3pWW4qVCv44phyN4W7xmFDx6MhWhZW3bScxk9dvSK6W3MQxZR6v79KPW37x96t9jSrl6W74p9x58CRbsvW4B2Vgr1lCVzQW2G1R3669x-lyW2mrVm64TmRmTVVxrZ66KkqV7W1fWJgb5C-JzGW8jTd0l4k9XwJW2HY1by2tfjpGW3bQTMy89_4sTMxYsfs-_3x1N6PCg-QQYptFW3QVx9s2bKxMHW627bT_6nZxzbW4TGbcG2flK3gVXYHBp2yp4kpW33QvYH9jzhK5VqcKPJ6GDc8GW1Z8r6S89W-kGW93dNPH4KQnN9W7mpzxd8W2l-0N6HKqccvxHT2dGrG9q04).
+
+We took a red pen to the newspaper of record on more than just their punctuation. (Who puts a hyphen in homeschool?? Seriously.)
+
+**Tl;dr: **the author goes to a homeschool convention to paint a picture of a movement that represents the fracturing of shared American values – values once embodied (apparently) by the traditional school system.
+
+The problem with this political framing is that it conceals the real story about what's happening with education outside traditional classrooms. A vibrant, diverse, and forward-facing ecosystem is emerging, made up of as many approaches to education as there are families pursuing them.
+
+[**Read our response**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3lYM-W8wLKSR6lZ3m1W6FNy872y-0PdW8Szb9l5gTCy9W5XmNbP3YqSvhW1gsXrF3WGfsYW1HBl2h1VTBplW8zb90x5DT6jcW1pyF3z2323qxW4TjVk02YQ8hRV5LS-n8svhVBN5n7WxHyVx3vW124j_53zZ9ZKW1mplZ38R58JQVKqzx04DD-H6W7-jdL52BQ6DYW20qSc63XvpFSN8JqFwrl9XFBW2d0zn094mVLBW22Ckjp5VBrdFW2y2Q9_5KLz6cW4jGb-Z36YNsbW1cN98H6cNr1yW4XYZ_66Ltn2BW84Cc0Z73KwnJW7CY9q06MmKHvW6Nwm0X2BrBWnW8_Fl70398hPNN5rsd3JlYbbjW2gP7dv5h2w4Zf8rYRYH04)
+
+(**Plus**: [vote in the Great Hyphenation Debate on Facebook: "homeschool" or "home-school"?](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvq_s5kvg8W50kH_H6lZ3ncW1nsn7W4pkpFxW7Pg1D46_fGDjW5L550Z7t7JNlW15_5BC5nR88XW1ZPtmP42czX-W3xspwh8C4FLNW2D8yXq5cV3wkW8ysS3v9lGMQFW6b9Nzy3P7lgHW5LvRkD6f2bDVVmJd3M38nvD6Vj8Dn_2CfgxGW3lbNgN2rTJt1W8_k57b99L0RXVGhfsw7kPmt7W4pzK3d2__zFLW5lPS5z3R8lqXN3QQF76w6F-8W6yDW9r2TdbsTW8Csx_65XVhLwW6wT5-45_by98W8jyytH1M5LS4W74JljX7RFgZNW4LVD5D6sgHcGW1dY6hZ3zwhJCW922t3y1Sg-D7W4jx62c9b5v0cVgv8FH8r0xkBVSMWrH6zJ0c8W379Gp93fSvHWVtyv893X4DP8W7g6DC46L8rQ0f3ph-fv04))
+
+## RESOURCE: Future-Proof Career Prep
+
+**The old career prep playbook is broken.**
+
+[Our newest resource features 7 experts ](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0Y3lYM-W7Y8-PT6lZ3ksVG2MFm1bLJGbW5vVKk34MnDl3W41hWct2rPmY3W8nSPPT2Kwj6kN6SbL3NXbL7LW52sD7Z3SxjzSW5vm1zj312DpbW2XW9Wm4WHXLMVWGPK35z90nQW64Lpgs7Gg7wNW6wVrRh759b86W1DcK632YvySFW2-krpl6CYrbyW945fxn968sRCW3kBpCc4TM2hFW7xgfMm6mrhjJN1-YYQhhMzFkW8WZlPd76Y971W45LMRf4Rh04ZW4gLpGF2wwtY_W8hwMd9447QQjW7T8NH7417lqJW1Cz2g83gcgRWW7C990H4WzBRQW4tYPpD7NS1QGN2ts4ZszFVL0f8zSwX604)who each offer a different approach to preparing kids for the modern world.
+
+Each expert addresses a different type of kid with different interests and abilities. Some approaches will resonate with your family; others won't. That's the point. Instead of generic advice that tries to work for everyone and helps no one, you get seven specific paths you can actually follow.
+
+[**Read the guide**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0Y3lYM-W7Y8-PT6lZ3nQW9l1jzs6C9h1pW3SC0bd64XnGtN8MmgvM6xjp-W8s67Lf3xjP8XW8r-mfG2FnDW9W2ShJ5j2RWqcSW73Xmbn4YMlCXW4fVlc02KgTZLW1tcmZH17Xr1xW6wNRKm2r6LMFW1QTC9B22M0vqW1FnFQN2Kn_9zW93mkbK6F1xxyW723Vzs5C2-gQW3CvpPR8PNdc0W5k3s2H4V1B_-V_DJFw1wjTMrM3tKD4J3RZDVGyZSt2fTchZW2MD4PT7fxCgKW4Ckqk34t1cT-W6q5VMk8pQkrcVDJWHV13D3DGVLSp7X51dctBW8fmhk-6s5HlGW14GL-86cxXbwf1Hm9-x04)
+
+## PODCAST: When Kids Skip School and Still Make Student Council
+
+[Darryll Stinson](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0l3lYM-W6N1vHY6lZ3q2W7JtcYj2K2YJmW3zDxtn50f4sQW53YLnT6bx-7GW540Rwm1ssyM6W6ZCZT22-599TW8BdfMM293DvrW4j-_j74C-G8xW89cK3w66y8ZwW1_gdjZ66MQf7W84nRlF6nBDlCW2Jr26m5xBSrfW8qnB223cxX0MW81MZSJ4g_9LmW4GklmB7D38vkW1XFLyR2vdBrZW1Nt30V61QJvsW84lFp68TK8mCW5ghM8L93CZJzW2Wc-9T2d7-zYW94bpdt7lgrpcW58St-h299fH8N4LmtjnD53SGf6DPKfP04) has always been a disruptor by nature. As a transformation speaker whose [TEDx talk](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1x3lYM-W95jsWP6lZ3lzW7Dn2QL22fw4vW835PCM7HV6KlMyKsXFk2c2cW6cc2XB2mSJ8rW413nC083ZwTPW7-QN4n365trHW1vB4bH2dKV_XW7XKkFH9jRw3qW1WrpwQ4J8xH9W9cZCcC6cG_tXW4FNTCP8jmg4pW4kkDPs9fl1DhW6spdbc2pHbJxW2r2bYf5dBj98TKT7C1HsmZdVmljV939V0--W2tBN5524Z1HxW3cRcT88hs92LW7TLxNM7yV1F8W5bdrDP4Sd3TgW7LdLsJ7G_RtGW3RQkwt5HtW9MW7VRbsX7jLh-5W2Cy5W96cY71DW6wPwrC43dHzXVDsv1X2csswgVwxw6N67HwQzW3YRg-V1Mptk2W4xqGX190rn6dW7bpw3k1lBbmNf4SP-p204) has been viewed over 2 million times, he coaches high performers on how to break free from systems that don't serve them. But when it came to his children's education, he was just like everyone else—following rules without question.
+
+Then his friend Matt Bowman suggested something radical:
+
+*"Just pull them out of school for a couple weeks and take them on some learning adventures."*
+
+So he tried it. His kids missed some school, but they gained far more valuable experience from traveling and shadowing their dad's work trips. Back at school, they still got good grades. Heck, they even made student council. But they never looked at school the same way again.
+
+[**Listen to the podcast**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0F3lYM-W7lCdLW6lZ3mXW36hD6t7ytf2ZN21pPbb5YYQFW3Mw1Jp5zmRDKW1crLbq64WDPTW4fZ-Fk7g-9W_W7pXQRL6x-k_3W5ZGfL_3-7_sXW6w892k4lV1JBW2K-T_n4RSlRlW7n2jQJ1DwZ1wW2300dg13JV-_W1_K0KC5Znqs_W4zK3K84XRtMCW60NHcz2qb4HpW1_Y8Ml38yrffF3XT7zZl4t1W7y9y4F730j0sW7ttwbl5tpxqGW5YR0kj8zsCH_W7NH2ZL5LDP1hN17pK9KNghthW8Jj6_W5Xb3V2W1BkQGB40lR3FW8jSz4x73fqR1f3Kd_kq04)
+
+## Tools of the Week
+
+### EcoTank Printer
+
+Cassie Shepherd ([@HomeCenteredLearning](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0Y3qgz0W7Y8-PT6lZ3m9W2MdlT-96vD6LVRL02841sJLzW8Jf3wn50CS--W5bBlzx9j43t6W8FdbtX2VCCHRN7tKvF7BpWWMW4jgYzk3QsDRzW8CtKfY69PmPvW80X-q34n9z3dW5TD7bL40qmH6W70Yvgh6x1C4WW7RKR9_8TmFq0W2bGgm-44Tpn7W2Fj8GF2ZZC-BW3m7SPk1HHHPxW3qRk3s4mDDHSW8N9PXH23JWcrN5qDB6yKMK7qW6s2jq57vN-ccN960pJSb4rxCW5LBk0f8v3nxlW4GybnR6PHLWvN87XdYtNWHQ3W1_WPWk50F9TrVJKP9y31qBJfW7-B5m_7p5Ft4f8CLYl404)) shares [the printer](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1xcjszMW95l6Qj6lZ3nFN56BcyC5FSckW2SsV985C5hjCW2nKTTn5HWVXYVmnTFV9ctWWVW47k6Qk16J024W4yrK617StqzxW8-vcgy1QWHJCW2WDlFy7c7lNYW1lNDnt1QMrjlW7zvK1_8kthXRW5G63Wq8SyZHBW7FxgT976XYSkW27q1Gq3s5P5RW1vH2Pv3rzW5TW6Bv6P_2_18-NW2gb34P8Gnr3VVWZyGH565XgnW436nvf7vf6vGW5sdzt58s9XKZW2YgcLm8KG2FQW5p5Xpw4DJblWW4W8dln95jpCKW6bCRjX2_8L5QN4nJt9L5xXVhW1WYQmJ8wncGHW1h27y-8N1szyN8cMfZ9m1YYJW2nV6Wf76HTF9W8gN48B4ll_8BW1byDYK7zYSN8W8Gw0qy3ZNcR1N28bkJqbScpnN5MvbvcGllNkW8wvRxB876WY3N3wM2D07ccd9W2jRPMx2DlYMJW1vYjM24BLXRhW8hT0G677_1_SVBXFT113RYzVW6RrCtL65K4ldW7Ydlw12FJ94DW1gQ0Tp3KbTLVV8J3-y5TF01gW7Rtkqs6Yr046W6LMYBc1DZFwCW1rTQpM4cZZQXW8-SQdq2j_mPrVdVt6J6XsYLmW1lCG9W4TBZMzW4WkYCq5-s2X1W5NPfZ_8YJxRvW1pNYZX1DKqC9W7dT0yD81Tn7VW80sJqB8cBYs5N4ydFtvT7rpfW56Wxng3l-sk1W4Z26D35h0lPgVYXFnS3sm2b7W17W8kL3ldH8_VzZrvF9g6Mh9W3MzjSf27vPHFVTMY306BNBgyW80bZhl5KSgVPML5PdwPqYD1V8r10G5kVTc4W6_hQrC4WmpbNN5fLs1mgyXF_N4BCS5cQtYL4W27shzr2JM3k6W8b8Vr13n1bfsN7gB0X87BGY4W5TTMvp797_G_W7fyJYL7nYZcTW4b-VRz1gMxZWW3ZsXpL7sGWZnW2bQ2Yz7XkSxfW52kvfC8cPG62W15Sz9z36RF5wW37Bh3154w8kHVqYRps4yhh3TW4vzh8M55Br15W8MDR_T7bMzP3VxTmXP25qlYTW41M9rp96VzGRW24-23f2NGVhpW8VtCC75Kf6myW2KkFZD1jMY1SW72zLk57tlzcpW6n411v6spPTkW6fBwTV4ZsscyW4Dxj4R28JbJdW13g22W6dkq9tW7lc1Xj3r8--bW6PJY7D3dr_LJf8fnsCW04) she used to print over 9,000 pages with just $60 in ink. Unlike many modern appliances, the EcoTank is built like a tank and doesn't fall apart after 18 months of use. Here's [her full list of (mostly analog) must-have curriculum supplies.](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1x3qgz0W95jsWP6lZ3kNW4t9Kz98vGR2tW435GBX94cLRZW3mLDdw1QQ6KvW708gTC5QtJDTN42xgmRNJk6FW3T2B0p2vFFC7VJXhsl6tY6bpN4ScSpR1hg5sW5tJ6dV5TFrjMW5yPZ3V68hQh9W3rzHfs2L5T8cW83gYHj7vlvNfN6dTc60m4R1BW2mVdMG3g7wJ_W9k6lcs1-fPTxW82ryqr4DWyZXW4mjZ3_6jSYBNW47m4N22R34M6N2cRZWTJ1DkCW5dp6dj6yFbb-N3fbcHf3Kp9SW47VHHK24d-CxW3sQcN_3l6-YPW3Wtrgq59NxxMW89MWlZ6FB1b_W8mkszn8N7WmxN1Mb5MMGz2FdW3HSmP26vh_r0W2m3lh4875QdHW1D5GTP285C6Hf8hdjYH04)
+
+### Chicken Life Cycle Crafts
+
+[The Natural Homeschool](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3lYM-W8wLKSR6lZ3nyVbnPk_2tkLhtW80fznw5sPtMpN6nbNJWP-ZkbW8_F-sR3-knqQN3nDzDdKv3m8W19WRBT4R17LVW7pgk3J83fylcN7rxJR-SsxGhMlkHP5pSKwbW8RdN-h5-kkknW3Kt4MZ7SCgv2W8nLrqQ8D_1_QW1jKhTR3h14bLW7QrC3B7gDFn3W1gKFYm8SHX-VW4q2jch2cb1mNW5l-zJ37x_d8xW7yjPP-1f8p8LW9g1YjK8z6k4xW7gzPFz3cn2YJW1lF2wV4Sqg9TW99YZG02DC2HnW6XV1fF4pG9b5N6M0RqyQRgg5W1lN6YZ5nYrMWW7W9DxS7T8QlMW3cQbQS7WKJy_W8KWFtk2MlbfNdjs3Bb04) offers hands-on chicken life cycle activities for restless learners. Instead of worksheets about animal development, kids create sequence crafts with construction paper, build spinning life cycle wheels, and construct three-dimensional coops using real measurements and geometry.
+
+### Darryll Stinson's #1 Public Speaking Tip
+
+Want to make your kid a more engaging speaker? Stop letting them "warm up" for five minutes before saying something worth listening to. Come in there and set it off. Set the tone. Raise the temperature. Be a thermostat, not a thermometer. [**Watch the full clip.**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr0F3lYM-W7lCdLW6lZ3lNW7RsvHq34hf-GW6knnPD1yW5lJW6Gxrws5pRNDPW4PPqRC6mkXcNW2ymxJj36Lf55W4p-Rm_6BY9SYW8Q6Gg32vkvgJW1jF_hN5fCdWjW86J5Q-8Wy1CHW7Ykxp236vZ8BW4jn4Gz2gLsFdW2KbRmP2LL9r-W1R7mRX73Cz-GW7Qq1R17Cr7LcW3jnd9_8fBcVGW1K7qzw2NK6VfW8-cW0M322vg2W1CsZ1M5s7tFJW2HL_Vf76r-T4W52y-cC83FYR6W6dlgK_90sfjCW60Ydnx1vVTD6W3yplc21gzSJ2V_skgY64HGkNf53FmFM04)
+
+## Trends of the Week
+
+### The Beaudreau Protocol
+
+[Matt Beaudreau](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3qgz0W8wLKSR6lZ3nzW96y3Y58JJQ1cW6njK4G1TTNlXW8q1f9T4H0ZN6W7fsNPK5B9dMkW46K-Dt6bjj9zW2gHRTt174W9rW5BsX0P4WrHthN1-7m1CSFYTMW4XlLxd8PKd8DW1XhQC989JW1_W668tXG2YzBnsW2LV-r661svmqN5mxg1PCldKDW5hPYM210TdjqW66SL2T6lCvphW62d-Nd4Tw1cDW3TsnYP1Q60GwW10pbSl2K81LZVm-23l5DZrZlW7S2y3G82dvCfW1cd5Qj6l2g1gW3jk2lC2qK33cW1YFyZS51jrMXW3qcyFt1grQ44W8VS55c3hM8sxW9d06wt7cJK6VVRjBJC5sD39jW4k5GR51z06Jkd4CCL604) has a modest proposal for dealing with rambunctious young boys (without medication): tons of exercise, hands-on building projects, and meaningful responsibilities. [The Beaudreau household protocol](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3qgz0W8wLKSR6lZ3ldW11_RtP45j6tGW8P9jnP6JvJQXW94mPbt4GQh7GW4n72DD2QjYhxW5Wfqrz78V016W62k7Yh5DtDgwN7qZ5qFySYt7VB-p9W114tQZW96VWHk3NV5kqW7QW3TL71-Fz6W82jHqs7xbZrkW67Fy6t16WRyhW9c3SrT7dBtlDN1n29TZCSgC6W46wZsz2c-BK2W65dcqT2xVVwRW5LQT1s3NGnyzW6Zrbly2TknXLW3pvyKf2WhtFbW8zcXy57gZjvsW7VJQBj64HGNnW36M8zt7t2lS9W62qFQt5CrbHmW1WMJts82QDMnW39cv934WQrKzW2fycrC6F14-1W6yD9MB678KptW951nX82nzmJYf1zJnGq04) for picky eaters and sleep issues? Lots of chores (preferably outside), extra exercise, and 10x as much reading time as screen time. Revolutionary? Not really.
+
+### Sedation Nation
+
+23% of American 17-year-old boys now have an ADHD diagnosis, and prescriptions have exploded from 1 million kids in 1990 to 7 million today. Meanwhile, [the New York Times reports the most comprehensive study to date found children on ADHD medication performed the same as those who received behavioral therapy or were left to find their own solutions](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvq_s5nR3bW50kH_H6lZ3lwVPvzfB4gRc9kVRPMtC8fYvDDVv9D1s32_-69W6lPGPH9hYM5vW7nHtgT7yKzhBVGK6Bk34rkz4W13RjlP92tQ26W5_C2zv5QZkY8W5DFzMP84Z9D-W3ZB2Zl4jw4hBW5Rg5lT8zJGrdW32PMBb8hSs5tW8zMC-s3VHSLyVMhlpw4RWHjSW5kQ85K5WFzYZW4DgcYJ5XYKjkW5Q23YR1XZWP5W3mtt5C44gr-tW5xwTxh4F_NTkW5F-b122B8BXvW8mKKhD4bz1-pVRScWN8H_3mNVnWF1S6KWY2JW3HnYRB7gFrR8N20jPBwVXQ_xW7njk0r3TjfxNW3_4xSL5wz7g5W95vKt58NHyKDW3Vvgl748GYsCW4tNvQx53GW-PW2gcpLw50QQQCVjqwnF77KDC1f3ShR6-04). Many young adults discovered their ADHD symptoms disappeared when they chose environments matching their interests. This suggests that many diagnoses might just stem from a mismatch between natural learning styles and rigid classroom expectations.
+
+### Textbooks vs. Chromebooks
+
+[We asked on Facebook: ](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvq_s9kX3zW50lwYY6lZ3njW8M6Nwm5jfTZTW2HtVYk4_gcxXW6nKk_k36--S6W2X_M265W66GqW4w5VCX8c0CpyW2RBhNs692hq1W1nHnvP8Hn5wJW1whwdt8yRGCBW7CBX_C8p2dRGW3VQxGt7nt_tFW6w4pZ45rPLThW2pFdjJ54lS8wW1lrynV82kvrRW36y93N5DvqPFVm8Pf24w8QxhW42GbPp84vxjTW5yFhyZ1DcwShW4ZVZKV4vn498W6Mvh2Z2trccxW4qtgpP4bWDpbN7j97DjnpB10W5zx-dV86rsvHVd8m5d8FfGRHW5XXTwq9lpXz0W9blKvJ4sHnyhW3VpJNk2b_M5kW34sqkR5T_5VwW5-FX1d4nVBNrW1TrmDT4j5ft2W4_nm7J52wyk5W2YC9xt2bjT4mW44Q4bx1jSmb5W2fllFW434xDqW3flfbr2sg9hfN6RBx3SRfy9XN7tyc6cfnzxyW2yL9Mj8GkF9KW79cFF_9cL_PgW69f_wh2BHZBGW2R5MYx1Nn3M7W5b5zkp1HnmW4W3mkpb36YVFvGV7vNJ_46GxcdW5h9CJT5D250vW8sQdjf4Nr8GXV-RhgX5vBl2_W3QCKSg7PwGG5VpQxhj6xdXRWW3sN3tm3QtkhvW8p3FJ54KwszSW8Tb_8z8HRJwcW4SpFQm36yzRKW29wYk_912Y2KW6wyK0h7CLFsXW4RFLHk91R4lWW2W8dS56NNt-mW1WpNDG77cp5VW3cvfDD49sH6pW8Trj6T10ydRVW3vkTLq8zr0cmW5xx2yr4r8PrvW89ZNg35cr2vJN3NvsfFm8sy4W1Cv8y87TDX1Gf4Hvzmq04)"Replacing textbooks with Chromebooks was a mistake—agree or disagree?" Dozens of comments flooded in. [Weigh in here](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvq_s9kX3zW50lwYY6lZ3lmW6DvVh4683rwZW926-3J7KrYvYW8f0CHM17lW4_N7QC5qHMW6hDW3-WW6F5TcKpxN2m6NfWY-rw-W54kb2C6y3sgqN6TRZS6B1BwxW6sVrqJ66cKpPW8MctXT1zMg-KN90VLRTXc6Q7W4QyLR75P8ykqW9lsvdy1yt4bMW4PqRmh4j2ktVW2gnvHg8k-bDSW5GT_WY4_3CG0W2P5wPW5cyDDCW2DvwtX7vS2WgW2-4mKJ21dtjgW7T8mx27V3T9-W8SQ75V5P6vTkN8TNvkcx1PgQW8Xs7xK738l3RVzl98m1JB6StN12FT9wc8WLHW76dVKp8S7BM_N7X9Vh5fxqXDVCZVzy47f5l2W6jm8gZ1jQLMsW6bdq486kkPWjW4V11fv1XPT2MW792X9j2lDFPBVMCKdX3PBsHwW4jDgk17QD-QGW29YHFB5GbsC1W3fPM4S1RYtKKW858WRC5dvZNqW1cbNKm4pBLx8W2jN1cy7GwlpDW6vz_693SmF2LW24t7gm3zNSvKW2-tfwp8KRRSbW8bz-V64LZgwwN6dcrkrP6Ny6W1xn97D4d9pKCW1pX-8D2Dmy0vW59910754MhjcW6vfs_G60KNSzW48g0fZ4dgDzTW1JkF8f7l2RR-W6Ml7Xh1WBnn-W1LJfSw2vVBYZW5ZpNMK4fN-_wW83Ht8l763fP3V9nvLN5LBJSBW6QnsJ68BXVyqW2hJRGT1vKxbjW3vRNGt2GNxK1W33hLLs59fxdtW5QmcDx1NvZh8W4D2nGB29_MVkW2S-VvW15tCGRN6tWYXyry3bmW50zdVR4Y0lGHf6GWc3F04).
+
+### Stove Lady Strikes Back
+
+Meet [the woman who restores 80-year-old kitchen appliances](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d3qgz0W8wLKSR6lZ3mTW28Zv278xy8y1W1CqgZq1MbT_8W3nVsr563pMPnW13nFg46YDNHyW3WxvJl7Jhm7gW5MDDNf8Ss0N_W4Gt4Yx1QxK_8Vfdd6Q2ByKmRW8n4fQ43R8FxdW8hJsSx8g4HdlW61cP1k5Rzsr3W94j0yy6xkx2TVyv7Z89lpPxjW2L2ghj75wvJFMsl00hTd5D3N462VcnpXs_HDtP5rnRqllN25DrBLxxNK-W3W-SXh6t9bd0W1KlHTz1nCbzvW5Q42YH4fDY5JW1WzB2V7Qlp9zW2W0g1x5QV63WW8kjDJ5823kj-W6v4D-367qtdRW1CPbKF3SqDtLMpVcZxgBtGkN8xM9jPsNRL3f66x5NK04) that put our modern-day "smart ovens" to shame. Her vintage stoves can bake pies and make ice cream in the same machine. And because they're made of metal, not plastic, they're never broken beyond repair. Seriously, why do modern appliances fall apart so much faster? The world needs more people like the Stove Lady.
+
+## Speaking of Things That Actually Work...
+
+We wrote a book, and now you can listen to it while doing literally anything else. The [Open Education audiobook](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d5kvg8W8wM7ks6lZ3mDVvvf1-372k6KW6WTbPh2TlWMwW3sww3X8_KWvDW7f2Jjz2RfCgYN99F2s5nRfZ4W98yXzW3LnQSHVQS8W56MMmWbW6Vt_kg3swMFdW9cpsSR5FkrZGN7bZ4Pll-_xxW3zD5Q71cDNpXW1ZtJ3w5g1Kg3W8SwwtZ7p2J2DW5l8vMf1XVwQfW1QTnVy7r8PwZW4bZlVQ512_9lW7rsGRT5GcfG4W1TC4cj5Vhz-PW32P1T025M6NVW5gTCln43xXFJW4GlhLF2PKV0lW5ZSdnk5z325FW4Z0xRv4smmCKW4V5Hwg4KL_SyW8yGlvW4Pt-ZwN32b-qjXsGKsW91kXkM6Gm_rJW7H65F880mFNKW32594Q5YV_pSW1bQQKB2MbWrnW4zH09z4vHjZMW6V2cZ32NwbmPW86lwPL3pbVCFW3J2CWF4_cNfHW7rrmsN8ZzRSYW2H33lQ6RfpkfW7mHJD_4dy9KdW9g1LrF2LtF9dW1tkgG12_pl18W3Mtc0L72XMwnN1McDvD1btpnW8Tqqyf9gv-92Vkc4CH1FY1_zW1WjQ2V6jrqb0f3r5JjH04) is finally here, narrated by Matt Bowman.
+
+The reviews are in...
+
+
+
+[**Get the audiobook**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWkX3h31nsCyW3gHgQ16QBGfSW99f7mw5zJTzxN7vvr1d5kvg8W8wM7ks6lZ3lHN1YqbWtp6czVN7GV1vwgspLZW5n9wc37ZzZCzW8KhvVs4031YNW3WPH1R8DxVv8W1bpTnt5HkY5DN6mH8cJWtWLjW42K2XL5QnSfNW7XzC0j7KLRzNW3SPG4G6xLtmCW7mCkxK1XFd3yW11vpyz2Vw1KbW45qz291slBGhW5JYYZQ5jxQZ0W7PVsYc7cnfyTW63t4N5618kHvW4cRg3f4lyGkQW235Jvw1MbB_QW4ZydL07b2m5fN4841q1McCCPW7Px1ym8DfxB_W6QLC_F6sB2klVRZJqL24hyZ0W2vRG246hXN_jW5_2M0f5XHKFsW6kYT--6PWVRjW5ZbVvX3KbGkVVxbHSD8_Lj01N5Vk72_gTmlQW2FSmVz7Lz3BnW4kvbKB5Fdf_kW5p2T447qBG9HW6dgdKM38PBwBW8DmHMX4MC1vtN7jZXKYLGX7-W71zthX3YHZC9W8X90DY7vFWvQW6gX9Dv7chQTnN4bjRwzpTj4jW6Zrd282plMsrW7NGJN82FPxwmW8-xwmT3LgRNXN31S1gX6D1QJVnCmZM4d_ppKf8YBgMj04)
