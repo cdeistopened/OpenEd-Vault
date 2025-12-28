@@ -178,44 +178,51 @@ for kw in dfs.get_keyword_ideas('YOUR KEYWORD', limit=10):
 
 These rules apply to ALL content written in this workspace.
 
-### Dash Usage
+### Hard Rules (Never Break)
 
-Use regular hyphens with spaces for parenthetical breaks - like this - not em dashes.
+**Correlative constructions are absolutely banned:**
+- Never write "X isn't just Y - it's Z" or "It's not about X, it's about Y"
+- This is the #1 AI tell. Find another way to make the point.
 
-- "Education is changing - and parents are noticing"
-- NOT: "Education is changing—and parents are noticing"
+**Dash consistency:**
+- Use hyphens with spaces - like this - for parenthetical breaks
+- Never use em dashes (—). They're an AI tell and we want consistency.
 
-### Forbidden AI-isms
+**No emojis** in body content (rare exceptions for social captions only).
 
-**Rhetorical Flourishes:**
-- "It's not just [X], it's [Y]."
+### Soft Rules (Generally Avoid)
+
+**AI-ism words** - generally avoid but OK sometimes:
+- delve, comprehensive, crucial, vital, leverage, landscape, navigate, foster, facilitate, realm, paradigm, embark, journey, tapestry, myriad, multifaceted, seamless, cutting-edge
+
+**AI-ism phrases** - generally avoid:
 - "The best part? ..." / "The secret? ..."
-- "What if I told you..." / "Here's the thing..."
-- "Let's be honest..." / "The truth is..."
-- "At the end of the day..."
+- "What if I told you..." / "Here's the thing..." / "Let's be honest..."
+- "In today's fast-paced..." / "In the ever-evolving world of..."
+- "In conclusion" / "In summary"
+- Staccato phrasing: "No fluff. No filler. Just results."
 
-**Staccato Phrasing:**
-- "No fluff. No filler. Just results."
-- "Simple. Clear. Effective."
+**One exception:** "Let's dive in" is OK for Charlie's daily newsletter sign-off only.
 
-**Openers:**
-- "In the ever-evolving world of..."
-- "In today's fast-paced..."
-- "Gone are the days when..."
+### What's Fine
 
-**Other:**
-- No corporate buzzwords
-- No bullet points unless asked
-- No boldface, emojis, decorative formatting
-- No "In conclusion" or "In summary"
-- No em dashes for dramatic effect
+- Bold for key terms, stats, and quotes
+- Bullet points and lists
+- Hedging when genuinely uncertain
 
-### Good Writing
+### Handling Quotes from Sources
 
-- Concise and straightforward
-- Natural cadence like a skilled human writer
-- Clarity and rhythm over cleverness
-- Clean, confident sentences that sound human
+Edit like a smart journalist:
+- Paraphrase to tighten facts or make them clearer
+- Keep original wording for spicy/memorable quotes
+- Never hallucinate or put words in someone's mouth they didn't say
+
+### For Deeper Guidance
+
+Invoke these skills when you need more:
+- `ghostwriter` - comprehensive anti-AI patterns and voice techniques
+- `hook-and-headline-writing` - sticky sentences, power words, headline formulas
+- `opened-identity` - Sarah persona, brand voice, strategic narrative
 
 ---
 
