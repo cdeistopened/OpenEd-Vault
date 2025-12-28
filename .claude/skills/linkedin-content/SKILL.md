@@ -62,27 +62,33 @@ Each category works for different psychological reasons. Match your concept to t
 - Establish credibility → **Authority**
 - Build relationships → **Community**
 
-### Step 3: Find Specific Framework
+### Step 3: Load the Right Reference File
 
-Once you've chosen a category, look at the specific frameworks within it.
+**IMPORTANT: Only load ONE category file at a time.** Each is 3-6k words. Don't load all of them.
 
-**To find frameworks:**
+Once you've matched a category in Step 2, load ONLY that reference file:
+
+| If the job is... | Load this file |
+|------------------|----------------|
+| Drive comments/participation | `references/engagement-frameworks.md` |
+| Make them feel something | `references/story-frameworks.md` |
+| Give scannable value | `references/list-frameworks.md` |
+| Challenge what they believe | `references/contrarian-frameworks.md` |
+| Establish credibility | `references/authority-frameworks.md` |
+| Build relationships | `references/community-frameworks.md` |
+
+**To search across all categories without loading:**
 ```bash
-# Browse a category
-cat references/[category]-frameworks.md
-
-# Search for specific framework
-grep -i "failure" references/*.md
-grep -i "poll" references/*.md
+grep -i "keyword" references/*.md
 ```
 
-**Framework files (118 total, organized by category):**
-- `references/engagement-frameworks.md` (16) - Polls, agree/disagree, crowdsource, fill-in-blank, trivia
-- `references/story-frameworks.md` (24) - Failure, transformation, day-in-life, values, career evolution
-- `references/list-frameworks.md` (17) - Tips, 10 ideas, DOs/DONTs, skills lists, flow charts
-- `references/contrarian-frameworks.md` (20) - Hot takes, call BS, state opposite, rants, what no one tells you
-- `references/authority-frameworks.md` (26) - How-to, quotes, screenshots, news jacking, secret sauce
-- `references/community-frameworks.md` (15) - Shoutouts, connect, welcome, give away, comedy
+**Framework counts:**
+- Engagement (16) - polls, agree/disagree, crowdsource, fill-in-blank
+- Story (24) - failure, transformation, day-in-life, values
+- List (17) - tips, 10 ideas, DOs/DONTs, skills lists
+- Contrarian (20) - hot takes, call BS, state opposite, rants
+- Authority (26) - how-to, quotes, screenshots, secret sauce
+- Community (15) - shoutouts, connect, welcome, comedy
 
 ### Step 4: Adapt Based on Principles
 

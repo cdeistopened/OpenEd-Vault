@@ -748,8 +748,10 @@ A successful social post:
 ## Related Skills
 
 - `video-caption-creation` - For short-form video captions and on-screen text
-- `daily-newsletter-workflow` - Phase 4 references this skill for social repurposing
-- `weekly-newsletter-workflow` - Phase 4 references this skill for social repurposing
+- `linkedin-content` - For LinkedIn-specific content with organized framework categories (engagement, story, list, contrarian, authority, community). Use when LinkedIn is the primary platform.
+- `opened-daily-newsletter-writer` - Daily newsletters that can be repurposed into social
+- `opened-weekly-newsletter-writer` - Weekly newsletters that can be repurposed into social
+- `ghostwriter` - Voice and anti-AI pattern guidance
 
 ---
 

@@ -111,12 +111,70 @@ OpenEd Vault/
 
 ### Social Media
 - `social-content-creation` - Transform content to platform posts
+- `linkedin-content` - LinkedIn posts with 118 frameworks in 6 categories
 - `hook-and-headline-writing` - Headlines (15 proven formulas)
 - `dude-with-sign-writer` - Punchy one-liners
 
 ### Utilities
 - `image-prompt-generator` - AI images with Gemini
 - `skill-creator` - Create new skills
+
+---
+
+## Hub-and-Spoke Content Workflow
+
+Content production follows a hub-and-spoke model: create one substantial hub piece, then spin off derivative spoke content.
+
+### Hub Types and Their Spokes
+
+| Hub Type | Primary Skill | Natural Spokes | Spoke Skills |
+|----------|--------------|----------------|--------------|
+| **Podcast Episode** | `podcast-production` | Blog post, 3 social clips, LinkedIn posts, newsletter segment | `podcast-blog-post-creator`, `video-caption-creation`, `linkedin-content`, `social-content-creation` |
+| **Deep Dive Article** | `open-education-hub-deep-dives` | LinkedIn posts, Twitter threads, newsletter feature | `linkedin-content`, `social-content-creation` |
+| **Daily Newsletter** | `opened-daily-newsletter-writer` | LinkedIn post, Twitter thread | `linkedin-content`, `social-content-creation` |
+
+### Skill Chaining
+
+Skills call other skills when needed. The dependency flows naturally:
+
+```
+podcast-production
+├── Checkpoint 2: video-caption-creation, cold-open-creator
+├── Checkpoint 3: youtube-title-creator, opened-identity
+└── Checkpoint 4: transcript-polisher, podcast-blog-post-creator
+
+social-content-creation
+├── Phase 1-2: Extract concepts, match frameworks
+├── Phase 3: Apply ghostwriter voice
+└── LinkedIn-specific: linkedin-content (progressive disclosure)
+
+linkedin-content
+├── Match category (engagement, story, list, contrarian, authority, community)
+└── Load ONE reference file, apply ghostwriter voice
+```
+
+### Session Workflow
+
+**After completing a hub piece, proactively offer spoke content:**
+
+1. **Podcast session ends** → "Want me to create LinkedIn posts from the key concepts? I identified 3-5 standalone ideas that would work well."
+
+2. **Deep dive published** → "Ready to spin off social posts? The [specific insight] would make a strong contrarian LinkedIn post."
+
+3. **Daily newsletter done** → "This 'Tool' section would translate well to a quick Twitter thread. Want me to draft it?"
+
+**Flexibility for social-first:**
+Sometimes social content has a higher creativity bar and should be developed first. If a concept is clearly social-first (punchy, visual, engagement-driven), develop the social angle before or alongside the hub piece.
+
+### Progressive Disclosure for Skills
+
+Skills use a three-level loading system to save context:
+
+1. **Always loaded:** Skill name + description (~100 words)
+2. **When triggered:** SKILL.md body (<5k words)
+3. **As needed:** Reference files from `references/` folder
+
+For skills with large reference libraries (linkedin-content, social-content-creation), load only the relevant category file - not all of them.
 
 ---
 

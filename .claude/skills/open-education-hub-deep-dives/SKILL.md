@@ -394,6 +394,7 @@ Before publishing:
 - `opened-identity` - Brand voice and Sarah persona
 - `verified-review` - Individual tool/curriculum reviews
 - `social-content-creation` - Repurposing deep dives for social
+- `linkedin-content` - LinkedIn-specific posts with progressive disclosure frameworks
 
 ---
 
