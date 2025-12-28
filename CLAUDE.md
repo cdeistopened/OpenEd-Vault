@@ -111,12 +111,70 @@ OpenEd Vault/
 
 ### Social Media
 - `social-content-creation` - Transform content to platform posts
+- `linkedin-content` - LinkedIn posts with 118 frameworks in 6 categories
 - `hook-and-headline-writing` - Headlines (15 proven formulas)
 - `dude-with-sign-writer` - Punchy one-liners
 
 ### Utilities
 - `image-prompt-generator` - AI images with Gemini
 - `skill-creator` - Create new skills
+
+---
+
+## Hub-and-Spoke Content Workflow
+
+Content production follows a hub-and-spoke model: create one substantial hub piece, then spin off derivative spoke content.
+
+### Hub Types and Their Spokes
+
+| Hub Type | Primary Skill | Natural Spokes | Spoke Skills |
+|----------|--------------|----------------|--------------|
+| **Podcast Episode** | `podcast-production` | Blog post, 3 social clips, LinkedIn posts, newsletter segment | `podcast-blog-post-creator`, `video-caption-creation`, `linkedin-content`, `social-content-creation` |
+| **Deep Dive Article** | `open-education-hub-deep-dives` | LinkedIn posts, Twitter threads, newsletter feature | `linkedin-content`, `social-content-creation` |
+| **Daily Newsletter** | `opened-daily-newsletter-writer` | LinkedIn post, Twitter thread | `linkedin-content`, `social-content-creation` |
+
+### Skill Chaining
+
+Skills call other skills when needed. The dependency flows naturally:
+
+```
+podcast-production
+├── Checkpoint 2: video-caption-creation, cold-open-creator
+├── Checkpoint 3: youtube-title-creator, opened-identity
+└── Checkpoint 4: transcript-polisher, podcast-blog-post-creator
+
+social-content-creation
+├── Phase 1-2: Extract concepts, match frameworks
+├── Phase 3: Apply ghostwriter voice
+└── LinkedIn-specific: linkedin-content (progressive disclosure)
+
+linkedin-content
+├── Match category (engagement, story, list, contrarian, authority, community)
+└── Load ONE reference file, apply ghostwriter voice
+```
+
+### Session Workflow
+
+**After completing a hub piece, proactively offer spoke content:**
+
+1. **Podcast session ends** → "Want me to create LinkedIn posts from the key concepts? I identified 3-5 standalone ideas that would work well."
+
+2. **Deep dive published** → "Ready to spin off social posts? The [specific insight] would make a strong contrarian LinkedIn post."
+
+3. **Daily newsletter done** → "This 'Tool' section would translate well to a quick Twitter thread. Want me to draft it?"
+
+**Flexibility for social-first:**
+Sometimes social content has a higher creativity bar and should be developed first. If a concept is clearly social-first (punchy, visual, engagement-driven), develop the social angle before or alongside the hub piece.
+
+### Progressive Disclosure for Skills
+
+Skills use a three-level loading system to save context:
+
+1. **Always loaded:** Skill name + description (~100 words)
+2. **When triggered:** SKILL.md body (<5k words)
+3. **As needed:** Reference files from `references/` folder
+
+For skills with large reference libraries (linkedin-content, social-content-creation), load only the relevant category file - not all of them.
 
 ---
 
@@ -178,44 +236,51 @@ for kw in dfs.get_keyword_ideas('YOUR KEYWORD', limit=10):
 
 These rules apply to ALL content written in this workspace.
 
-### Dash Usage
+### Hard Rules (Never Break)
 
-Use regular hyphens with spaces for parenthetical breaks - like this - not em dashes.
+**Correlative constructions are absolutely banned:**
+- Never write "X isn't just Y - it's Z" or "It's not about X, it's about Y"
+- This is the #1 AI tell. Find another way to make the point.
 
-- "Education is changing - and parents are noticing"
-- NOT: "Education is changing—and parents are noticing"
+**Dash consistency:**
+- Use hyphens with spaces - like this - for parenthetical breaks
+- Never use em dashes (—). They're an AI tell and we want consistency.
 
-### Forbidden AI-isms
+**No emojis** in body content (rare exceptions for social captions only).
 
-**Rhetorical Flourishes:**
-- "It's not just [X], it's [Y]."
+### Soft Rules (Generally Avoid)
+
+**AI-ism words** - generally avoid but OK sometimes:
+- delve, comprehensive, crucial, vital, leverage, landscape, navigate, foster, facilitate, realm, paradigm, embark, journey, tapestry, myriad, multifaceted, seamless, cutting-edge
+
+**AI-ism phrases** - generally avoid:
 - "The best part? ..." / "The secret? ..."
-- "What if I told you..." / "Here's the thing..."
-- "Let's be honest..." / "The truth is..."
-- "At the end of the day..."
+- "What if I told you..." / "Here's the thing..." / "Let's be honest..."
+- "In today's fast-paced..." / "In the ever-evolving world of..."
+- "In conclusion" / "In summary"
+- Staccato phrasing: "No fluff. No filler. Just results."
 
-**Staccato Phrasing:**
-- "No fluff. No filler. Just results."
-- "Simple. Clear. Effective."
+**One exception:** "Let's dive in" is OK for Charlie's daily newsletter sign-off only.
 
-**Openers:**
-- "In the ever-evolving world of..."
-- "In today's fast-paced..."
-- "Gone are the days when..."
+### What's Fine
 
-**Other:**
-- No corporate buzzwords
-- No bullet points unless asked
-- No boldface, emojis, decorative formatting
-- No "In conclusion" or "In summary"
-- No em dashes for dramatic effect
+- Bold for key terms, stats, and quotes
+- Bullet points and lists
+- Hedging when genuinely uncertain
 
-### Good Writing
+### Handling Quotes from Sources
 
-- Concise and straightforward
-- Natural cadence like a skilled human writer
-- Clarity and rhythm over cleverness
-- Clean, confident sentences that sound human
+Edit like a smart journalist:
+- Paraphrase to tighten facts or make them clearer
+- Keep original wording for spicy/memorable quotes
+- Never hallucinate or put words in someone's mouth they didn't say
+
+### For Deeper Guidance
+
+Invoke these skills when you need more:
+- `ghostwriter` - comprehensive anti-AI patterns and voice techniques
+- `hook-and-headline-writing` - sticky sentences, power words, headline formulas
+- `opened-identity` - Sarah persona, brand voice, strategic narrative
 
 ---
 

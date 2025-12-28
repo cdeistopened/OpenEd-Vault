@@ -234,6 +234,7 @@ cp [working-folder]/Newsletter_FINAL.md daily-newsletter-workflow/examples/[YYYY
 **Related skills:**
 - `weekly-newsletter-workflow` - Friday digest
 - `social-content-creation` - Social repurposing
+- `linkedin-content` - LinkedIn-specific posts with framework matching
 
 ## File Naming
 
