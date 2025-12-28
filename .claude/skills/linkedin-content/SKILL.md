@@ -20,7 +20,7 @@ Use this skill when:
 ## The Workflow
 
 ```
-SOURCE → CONCEPT → CATEGORY → FRAMEWORK → ADAPT → POST
+SOURCE → CONCEPT → CATEGORY → FRAMEWORK → ADAPT → POST → MULTIPLY (SCAMPER)
 ```
 
 ### Step 1: Discern the Concept
@@ -233,9 +233,43 @@ What's one thing you let your kid fail at this week?
 
 ---
 
+## Step 6: Multiply with SCAMPER (Optional)
+
+One good post can become seven. Use SCAMPER to generate variations:
+
+| Letter | Transformation | Question to Ask |
+|--------|----------------|-----------------|
+| **S - Substitute** | Swap the example, data, or subject | "What if I used a different story to make the same point?" |
+| **C - Combine** | Merge with personal story or another concept | "What if I added my own experience to this?" |
+| **A - Adapt** | Expand to thread, carousel, or different format | "What if this was a thread instead of a single post?" |
+| **M - Modify** | Make punchier, longer, or more extreme | "What if I cut this in half?" or "What if I 10x'd the stakes?" |
+| **P - Purpose** | Angle for different audience segment | "What if this was for teachers instead of parents?" |
+| **E - Eliminate** | Remove context, simplify radically | "What's the one-sentence version?" |
+| **R - Reverse** | Flip the frame or argue the opposite | "What if I made the case for the other side first?" |
+
+**Example - Original post:**
+> "The NYT published two articles 3 weeks apart. One asks if schools cause mental health crises. The other calls for more homeschool oversight. The Times is arguing with itself."
+
+**SCAMPER variations:**
+
+- **S:** Replace NYT with "mainstream media" pattern
+- **C:** Add "When my mother-in-law sent me this article..."
+- **A:** Turn into 4-part thread with screenshots
+- **M:** "NYT: 'Schools might hurt kids.' Also NYT: 'Watch the homeschoolers.' Pick one."
+- **P:** Reframe for teachers who are questioning the system
+- **E:** "The NYT is arguing with itself. Read Nov 24. Then Dec 14."
+- **R:** "What if the homeschool critic accidentally proved the opposite?"
+
+**When to use SCAMPER:**
+- After a post performs well - multiply the winner
+- When you need volume - 7 posts from 1 concept
+- When testing angles - see which frame resonates
+
+---
+
 ## Related Skills
 
 - `ghostwriter` - Voice and anti-AI patterns
 - `hook-and-headline-writing` - Opening lines and headlines
-- `social-content-creation` - Multi-platform content (includes LinkedIn but also X, Instagram)
+- `social-content-creation` - Multi-platform content (includes SCAMPER deep dive, Human Desires, Vision/Anti-Vision)
 - `video-caption-creation` - For video posts with captions
