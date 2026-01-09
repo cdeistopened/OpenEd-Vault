@@ -1,0 +1,82 @@
+---
+title: "Dyslexia guide, two-hour school days, and a $71B dropout"
+url: https://opened.co/newsletter/dyslexia-guide-two-hour-school-days-and-a-71b-dropout
+slug: dyslexia-guide-two-hour-school-days-and-a-71b-dropout
+type: daily
+date: 2025-08-09
+meta_description: ""
+summary: ""
+webflow_id: 68a2e812a7f133db4e8fa68e
+last_synced: 2026-01-02 20:57
+---
+
+# Dyslexia guide, two-hour school days, and a $71B dropout
+
+**URL:** [https://opened.co/newsletter/dyslexia-guide-two-hour-school-days-and-a-71b-dropout](https://opened.co/newsletter/dyslexia-guide-two-hour-school-days-and-a-71b-dropout)
+**Type:** daily
+**Published:** 2025-08-09
+
+## Content
+
+**Welcome back to the OpenEd Weekly! **
+
+If you’re homeschooling a struggling reader, [this week’s deep dive](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvz5nR3bW5BWr2F6lZ3m_W6hvdNB3-l_q5W4Wg3qD1P5Wl-W1_zWTv21xz2PW1Wz52m2kd0F0W6nWNkL6k_hKlW6sftqN8qzRsnW4Mrc_H2R9TLfW4lTHky3JFDypW6RlZxv3_QJVqW2DMNBH9699sCW436VdR2zH93gW7N9s6l8n-SkVW3kq_Zs5VQKYCW5vJqpV3QGvbqW3CV5QP41J5k8W51ywvf369QnjVZ8btv3NDlVSW46BRjr8255KlW14pF2R8HpgKRW1SswSC8BhMXwW101-6x8kZQZnW61cd2-1CJLPYW1sqfH37CSxshW2LN9f38m5PMNW36k4q34WH708W7QzxW81YCvk8W3TdDss2H9RY1VzsZlD5sNz-1W35BDbP5mz11gW93bBwN3T7kVtN2qHnHDzG5tRW5zNRH5890dKvW3BFfwc1mfMcbVMNR4w35xwYRf1921XK04) could save you a lot of trial and error – covering practical dyslexia strategies you can use now, plus the moment when expert help makes all the difference.
+
+And because no OpenEd Weekly is complete without variety, we’ve got: a two-hour school day with jaw-dropping results, a viral multiplication hack, and the rise of yet another college dropout billionaire.
+
+– Charlie (the OpenEd newsletter guy)
+
+## DEEP DIVE
+
+## The Homeschool Parent's Guide to Dyslexia
+
+**Reading is too important to force a false choice.** Traditional schools bring trained specialists, proven programs, and formal support systems; homeschooling offers time, personalization, and daily attention tailored to your child. You can have both—and you should.
+
+[Our new guide ](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvz5nR3bW5BWr2F6lZ3kXW90g3WY7rks3qW8g-QgM94SBT6VZwgRK7BbWXrW1Z31lM4LcDNsW8hb9dY7prPHfN8gtjq44_XYpW8JG92Y7MDWJdW3qphfx5NTQhlW6wfq7y9gXblnN1F88q0mC_FsVL_rsh5KRw1hW30rcZt26RMwwVvXDxj6LQJMHW2K8RdZ5Q87lbW1bhpv19fDPWsW7tJNM61xVtQ-W1qYvqC8t3-8fW2Fb4hZ6Rw3YJW938_-x5LpJZkN2g5M8RC_1svW2kPPZw8Y4d_tW6yDXQS4fVmPnW3_ChXp99vpbcW2LFLvK1QkyRtW25vXfn6J-f6cW4--6qD6mTbFnW113Yd55Vr2T6W14D-sp1rpDVSW6v8HpS1t1twDVTbLpp8sD7dlW8TWR4z2wh_RlW6grfXD1mMDvVW4xFKxH4g1l0YVH4z1m1H67m1f2DCFJv04)shows how to combine the best of home-based, structured literacy with professional screenings, coaching, and specialist support—through programs like OpenEd—so you can spot real red flags early, start the right interventions with confidence, and bring in experts at the exact moment they can make the biggest difference.
+
+[**Read the full guide »**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvz5nR3bW5BWr2F6lZ3kNN5ZCDJnzZKHbW1bY8Vb9j9rLdVl9bqR6M6MzdV3_JpM846m2BW1Hlvqn1JDHcKW2RRh2D1J6L66W8_DxVx8kbwKjW4XB5S27D3b04W37D4v_75psydVX8qrb2yYjLQW6DkJ6579S2vCV3cKg071tY9bW3L_mWZ6JdcBnVTV2TB6_xSxfW8LSX_g8CsZxCW50L1fF8hbKY7W5_f-gH7BV_FKW5QrmLf7-B2tNW2B_Hp952G35MW3h69t82hhSV8W7zwrHs90cr5yW340jch5MjB1sW8s6V3J9fCC61W5XP7dJ3HYhw_W3C4ndn3Ly0PTW5y5Yw21SRrXbW1zH0WP5m02fRW82VmFP6CZKcfW7xpkts5MvzGxW8n1C-k4p5hZdW6cn6rQ4MYsw5W8hxqsF3sJvSMW7QSGzw5b3p02W4hxrVc6bTpW-dt1qY-04)
+
+## This Week's Top Trends
+
+### **Two Hours, 99th Percentile**
+
+[Alpha School](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3lnW373PML6_pYB1W1M3CkP2jLjSrW6NN6jq5QNzQvVTNdjt8TMhtQW4676QW5zNG2DW4K1td83kfc1QW1dQ2WG6ScLLfW1blwyZ4lzwQMV52Q8m1sp45ZN2rTj5G1_YjvV6rcK63HLl3JW1HMNw282kdj9W4q7DTz7RJMJrN4Sm2pf8vlR9W243LFB4-755dW65V4Vt2gWxYDW8gMYqH4tbQY_W4DDC5t5s7GXLMRkFFVfH-mPV4fTPW4FNMXJW4xYtLl8KJ96sN2XwD9dCSV_sW1cM9F-3XvnzpW3jLKgx15M7dbf9grBcP04) students spend just 2 hours daily on academics yet achieve exceptional test scores. Third-graders hit 7th-grade math levels. [Austin Scholar shares the surprising science and methodology behind these amazing results](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVxl3qgz0W95jsWP6lZ3n7VvJPlN7zt0gFW5dmvHy3mlYdqW1b037d7PDVTMW366nd05FghPjM2h2qgHGR_4W30j_y53tNp3YW5jgKm88Pl68DW10nwjB61XYRHW2YVq-46lR7kQW98D38Q82HDgVW6n-BRn9bD-k1W4BLMLW7-BbmJW8lb9-89lbhrZW25NT1X8fpRXCW8tXShf8VmJPTW86Q8DZ5XFYd0W6_1KNR4XpFPNW6_mnsd4T4FM0W2BP1X442b6XQW1vNxXB2dVfh_MRJbVqDftMbN2Lw-L5fZKkcVbLrq54j_3nGN5cCfXjDh5h2W9b4z3m7c6QbfW2N8SRj3jTCsWVShwft5KW9JWMgVQR5w1fhlW2H-3GB9bkvJDW8q5gK85CpDGZdzZc4-04).
+
+### **Community Makes a Comeback**
+
+Matt Bowman points out that families are rediscovering neighborhoods as antidote to virtual overload. Co-ops expanding, learning pods multiplying, Gen Z gravitating toward "IRL" experiences. When the digital world feels artificial, parents bet on what they can touch and verify. (*Source: *[*Elite Expert Industry podcast*](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVxl3qgz0W95jsWP6lZ3nrW8Tzk8M7CY-p4W9b5b0x10d8v7Vn3vvK8pc1kBW2pZxsK2cpY1GVLpWC44TT_B-W4ZkKk88tLz42W5FpC5k8vb8FtW3xKg-031JnhCW8-zC2Y8CvbC2Vzjyz21Dwtv_W5CTCyM5BXLdvW1Kk5Z95Y1PZxW3lffhs4Zhb8fV2mDbR8dCYm0W4LS3VT6b0PBNW5ggLGZ4rskrFW1DpRHD1w7c5qVGY8943mLmSWW2jJSkw6PWV29W4sMV-z49KNc4N10L2Kc3l15dW8C2Nwf325902W7H0bxZ5tTQhcW4y9VRh2Cxm9kW8TqVFN7VXsFCW2WDRZR4Tm5BLW1DcKNJ8N1KWBVMzQl41_mrQ5W87yZ8N53MXrfW65CSkJ7n6_bLf1Px5jd04))
+
+### **Billionaire Dropout Strikes Again**
+
+Dylan Field becomes 4th billionaire to emerge from the Thiel Fellowship with Figma's $71B valuation. Started with $100K to drop out of Brown, now worth billions. Another data point that markets care more about what you build than where you studied. (*Source: *[*CNBC*](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvz5nR3bW5BWr2F6lZ3pbW4r8MwP3LKxzhN6H_LXDz4lggW1XZFy_9960t4W72PlNf2qmfRzW5Y3-CP4jG4_lW3w76Sv3KYv79W8tTKWG69dNjdN4XNHX-Xd9HXW2pf0-V3Dn7JBW6qPXF98DGZV9W5xFMFP7_-vxYW41Z_fl8wqkFFW2PPjgR6pLNz2W6lMv934Z-KkqW7913Qy1LfwRvW4_G3PF2qL4QwW12JYml2j5vq_V5MW_15clwY2MVSWc_t7gvQW66hz1v8dlLkCVhZkgN61GKBYW68gGDL7X5ZMpW1pJRR_2vbc9zW8cX38r2by1mhW7KFMb05cTPWPW2h_G8r98JMgFN17__yK_Nwz8Vn_10J1H57kVW1623Dq3sXr6YMKSSMhXWwGCW7qfZrw8k07X9W2F_tLP6s_bHRW6nzfyZ26yBgsW40Dk776txlRPf424hmF04))
+
+## Tools of the Week
+
+- **Japanese Math Method** – [Viral multiplication technique using intersecting lines](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVwM5nR3bW7Y9pgv6lZ3mNW5Ts7fG4r7hPqW10npXl96fCTvW2x7LJM2zjQGlN7qDq-7BWHSnW7Wbyb996lJSGVRvSx51Qcf6DW8cqM-C7y_F2BW1bT9sd7hR0fWW47TTHx39MK3bW48lP7g7YhgG4W6GGtCl1fJVDBW1pVMMm6G-9XFW2-3m592qDB28W6Z7Lqq74P8cQW2XBznf2KnCKgW7Nw0q71WtCc3W6vXX814KcsJbVdkc5y2TG876W7W0X2N5rqywCW3ffkph26bHvcW6P4VKh17kqyBW6qgX5Q3wj7QyN3G1xfrrsNw4W7-kphS3pTlr1W6TcxVG4HLjL_W1QNzW8279gqCW4wgxJY2bwMntW2nxsMy4YDp_NV37WyQ3wTHbxW8rrHYY2ZhqkMW4Zskc191fDbNW53yfRR1g3TVxW8z1YhY4jlbBkW2pYbyY6LfSD6W5GTXD76MY0j8W4GD4yL3M1GkTW7wWrXq27k1NbW6gMJHS76PhnCW4KXWhp4gpn5lW66TXfc3-CfhZW5fZNGW2mnP6DW5MZcTH8J-n1zd9NkPs04) (not actually Japanese) that’s brilliant for visual learners to understand the distributive property.
+- **The OpenEd Career Prep Guide for Homeschooled Teens**– [Alternative career paths](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVx23qgz0W8wLKSR6lZ3prW4dG5LD698XGTW4BCGQ_3FlJbmW84rv346Fq2wYW8ZJ-jQ3XBsmSW8nngzD8cLg5DW3gHLmB6tJ1qPW7R5frn5ZYf2GVDByFr1br514W9cyLCZ8rLYFkW4Yv59C47kttGW1Vp7gK3cwQwKW7zCcD92MMxz-W8Jt78r6hdX1xW3q08dj4qGkcqW99XGHz5sGhjRW40vzTs4sCCv9W1bhkxW3bgny0W6KltnW1q5TlYW5MP6-C2VtZHNW6d2Vct6M3ZcVW79mqYz9cXlQYW5TbDK53mYBg6W6XszsJ7Q36pNW2fxxnL4hJKqJW85Zs1M7gyMGMW2y7tKb579qS1W4v9_Zw75HYRTW5wc1c41KrrD7dc-wTW04) including the famous $100K dropout program and other non-college routes.
+- **Dyslexia & Reading Resources****Dyslexia Screening Tools** – [IDA resources](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVwM3qgz0W7Y8-PT6lZ3q1W5vqt-G6LLbr2W4K2sss6_g790W6gvVQG70xtBbVN96W17lSfNhN9fhNVx4zYVNN7yYs8jPz190W1SH_vX7Lvlg-W1R71JW3lsCYBW37y1MY9bv0zWN8339B5bPvqFW71Fx9C1V0B0GW7Rd1_w42BH-NN42FNFd_BwpgW3-dHHv5djPY1W97YPWK4_yrwxVCjjrd8F_VHpW2HD6ds5cxnZZW848y8d5SVTz4W7z62TQ52TWwBW5d77hY3DcF54W55yJJP6Rr4HNW1mGhvV6qNBf2W2DGyt27cD-LGW7zl2mh7kFVSYW2Jm4F81hqFBhW8MTtjV9j77gMf6gZmBF04) for identifying early warning signs before seeking professional help.
+- **Barton Reading System** – [Most recommended Orton-Gillingham program](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3nqW77m5jk1mknVsN8LJbGg8-sf0W1jy0VS12nMW8W79tJVY2NYrhcW1-kCBs339WXJW3p79Pb2PZLjrW6sNXGW1J9tdvW7C3f3Q3n90wGW9hsvnD3Y54JbW2Gv-lP5VwR-DW16PHh52m3mYvW6XJp_m9j8KQbW2pSzJs4CpGX3W4LV91x9hbX36VyRw984k3D72W5Y6Gsn22BdXJN1MqfF_xRXb8W1FlZCB7l_Hs9W8N5lyR76_3TYV_W5wc1cl6WWN8HNkCDk806QW5dkczb5qLTH6W307mnN6mB70vW5zYzdQ5dp7ppf7f6wjn04) for parent implementation.
+- **Learning Ally** – [80,000+ audiobooks](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3lPW1HflLB5L63StW7xQ7hB89g3LwW7XyLxb8qm5Q3W4VNDbd8bWwmYW5pKrlX8GmPXNN7zm88YL6Xb4W1HZ3K91pc4TZW5CF1Xw6hq0yKW2dYsR_4rcms6W1yYSVk233sJ8N3N9mg2J9QPKW1Klkm_2MnLQ_W1cwmcy5TDX2LW3s_5Nx9gr7DcM7y94dwDD0HN686cQDpVnmWW42-9y013Fp6TW8H7Qn08T4w83W8Fbmgw1dBfjNW6_njQf4lvvrcW1VJ-z63VtxCxVQlPHK3n-hybW8dyMFh8d9Ts4W15PNhV4T1scRf7ffN1z04) including textbooks for dyslexic students.
+- **Voice Dream Reader** – [Text-to-speech app](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVwM3qgz0W7Y8-PT6lZ3pdVtfLl_6LZ_PzW4dj_WW9lVbgdW2ztHCx23l2CfW1M8L3V425y2-W2bBW6N65zFS8W4_cHlF4lWK_WW6rCf7263vrGLW5RDvJZ2KCZDbVWxLml6LWy5vW8-nDQz4h8-7tVL2Fbs1hchhQN3pZLcfNh61SW4T5q6711RHFtW6y3Kfk1nbDlNW8cW9Wx6h37ZfW78VB9n2yw82jW597YWy99s0s4W7T6Ltb1217j-N5HXGw7Q387dW315K2l94Csp4W80S24j1FK_V6W2_xLKn2sgL2CW5ktQ7_9kfrwjW2vwqrF25xCRbW395T941KcPd2W87tMrY8nlf8Bf6cfvHs04) essential for accessing grade-level content.
+- **Vision Reading Academy** – [Free screenings](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVwM3qgz0W7Y8-PT6lZ3mKW9d7YRH8-6_NrVcPgg56rwGd5W3Bp_d277X2t-W4YZ-XX42t6JSW7d83kr3Nf6jGW7_YYP41c59JZW1XgRVZ2z_SCvW7GYcl09fLrP1W3nGyF76hMJbYW5wTnc41qp30VW2Xj3-53nY3G1W1LdpsW8bfrv5N721LCJBHdbnW7q6ds38_8lvRVGc1BL143tjvN29NzKhyFgFcW885lRm5tDxtCN2Blxvs8vhkMW5VQQZf2mtHlgW7W_TLs8xkHD9W5n0NkW6wFl5LW1hGkQJ5nfmt8W8TCvqx7RlWCPVhLy6B8jZ618W6vLVbd5BLg-SW3kgPkS715q2Gf66YjRM04) for convergence insufficiency that can mimic dyslexia.
+- **Savvy Learning** – [Free reading assessment](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVx23qgz0W8wLKSR6lZ3lSN2CtdlzrQwKlW6XZC3M6lDqSrN4w8pYbn9273W7GZJ9r1Bt40wW47BWY55LMYsjW1bPbyG9016D4W1TQGpQ1YR2hBW3FC-qh7SgHN1W42RW3Z8_hF28W8yBxNk128whBW8WPW227Hh03fW2cfZhd2Ljh4tW6k7Jhs7pX-p8W41QS-k1MkQ4lW60cntY6VL4fJW1KF6g13trrjrW6mrlC969X2v5W5G8L2B4x7860W6zZNKT8N7zzvW8PXDqy1M6j5fW4QkCbM4S5MkfW76Kw9S8RMysSW9cyHJy3TLK1HW1jvcVL6mdkDKW4dtlGh2JdpjZW3wbsHz4KzYctW1hjDd84l8D6tW20vNqr1zl4Sbf2yZLcv04) and high-dose tutoring support.
+- **Reading Rockets** – [Research-based reading strategies](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3pjW6sg30k1q8T4_VCNlLh41TFvXW4q7qwN3nrHVxW2LpfXP5HZGLwW2n92Nq7mhtyMN8dFP28XyJj-V3SZ5M9c_fRHW2-zv9m6Wb4w7W5tVgYM5FdjvsW4sFj1N3y94WCW8G-6WW8cq1nGW388DtT4gq3nfW5hhb5G9dKX9CV6FDST8hHXz3W2D2nwt4R48vbW4SX-7T5CR1d9Vcp1KC5BgfVDW1vnkyf1n6WG5W4JnDjw4pnqwbW4Wl_vL5pTxZ3W7VNlyC23XdWBW9l66Zz66RB5vW17Lx7g1_vCf6W5XX7MJ8Dq7yZf5vpJ5604) and activities for struggling readers.
+- **AR BookFinder** – [Tool for checking reading levels](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3lbW4D-Nmq1SS-x4W6wd04d73_BfMW5shC1Y7_CqpyW397NmC4XH6CdW47w29F5QwBRsN3w-3LLf35D9W7t_2kN1XCmJnW2N3ffW7HlJh_N85cMcVrb07JW1jN5vF5xT2zlW7D_zfs1Y-lsCW69dyh55X7PRyDnhj6r5kTWVrRwn52L3842W7XhH_d33T3Q6W6bYg1D55wPgBW3ymz4-5XLP-0W27x24Z308LdzW47z7C180JVtfW592H_m1mDX5kW8GfCp13QDN8jV_LJgn6BhTklMB3WjmhN0kFW7JSjLt3v0-NYf1l80Td04) — don’t be afraid to start easier than necessary.
+- **Bookshare** – [Accessible eBook library](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVws3qgz0W7lCdLW6lZ3pLW3ZZW1j6rYQhGW8hqYfw7RT1PrW6-W4Hn88vKq7W5Kz5Gl46T_-2W6brhMq6VV1hZW7DhqHk4wx9H0W3LPzLM5ZmMJ-W5Tmcy41nwRwnW1Fb5nh83Bk3JW2spdT031_TqDN61cQB1J5W9TW7h7BRy5sky4WN7BnJlhV0qHCW6kwJbf71sHYWW3q694c4hsZ8yN5RdpvZlvJpPVQPShM44FGPjW48LXrG3YpTSBW5qLGD710dMvHW21f0Z08pTxpLW3N2q113PxcjFW8F9PRt6mxPJMN1stNlyKdhl9W50t9dj7_dLBWf3k_PM004) for students with print disabilities.
+- **All About Reading** – [Parent-friendly structured reading program](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVwM3qgz0W7Y8-PT6lZ3mgW3vlh3-4qrTWDW2d_tsN6JWgMRVH_xpr3yB33HW5kwSt55BPCgcN8LH5679gBq4W3rj43y6Zs_b2N8mpCpvzn0z1W7rS0fW73pTp3W36WTP-6NnHgxW6Ccjzb64xvqGW1LzHzZ5QCCfwW3WxLc31L2zBSW8Sh_ZK73-S17VSXt5K4pht98W8Y0yP-8jSvC0N45THtgfy2W8N32b5WRL0WhMW44-n9473jDjmW3fcffV68gqF8W7CZL_t4XBDLVN2VdlDrGPym6W3llFcj1GWB-lW3hMDb43jq5PMW7SVfJN1dZHHsW27km-d7Xd_PSW7djPMy8B5Wrvf12nbHC04) (may lack sufficient intensity for severe dyslexia).
+
+## Open Education Audiobook is here!
+
+We wrote a book, and now you can listen to it while doing literally anything else. The [Open Education audiobook](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvg7mmznW50l5tj6lZ3mHW4SNWNC86Y8XKW3YPK-G3RyZJTVhGFpq8lw218W7VjWFS5q9Q3dN8VZgqY-PqdbN2tvKKXBjqWQW7PKbdh1DzQllN64fjJR64lg1N38gyJXHyBMlW73QBgQ6bzWQHN4_1QPbnLGsDW35H96K2w1FG7V6jdGD2P-85wW2WcgdC5HvSL1W2jLsq45mS964W8RDjZJ9lb3ZsW9221tg3DWZkRW3pJdPd9hStbpW5kQwTk59t3_8W2_SF_L1gB0gZVMT2cR6xRyswW20nBjf56DVtgW2Nl_vl265H13W7swx2-6V70GcW6Knj3q4wlnqqW1n3Fmz4W2mY3W5qrxpm1yv8ZcVrkTZ289ShzbN2PG4r7CnPyVW5SJjht1mRYmLN5JXt4lm6bdgW5t2QCx3r7ZH3W8-ZdR-3dJdn0N5dwL5vT7Bc1W4zr4YN6zp3_5W40qs6y6lR7PWW8RrQcG8_1ky8W3QmZN44hW6VNW5SQKp28k-V1zW59J0G83wbDyrVfZ7Mz6RJLMlW68svSR7nPSjVMCRY9jgVv31W4Bc6Zv9gKR8nW4p-X1x93PG7kW2vkpKf31XvlYW7TKwT07T2LlWN3bx_bLv5kRbf5gr-wq04) is finally here, narrated by Matt Bowman.
+
+The reviews are in...
+
+[**Get the audiobook**](https://content.opened.co/e3t/Ctc/JA+113/d5pV-k04/VWxwbK2xvc9KW5N9CK48G10VWW5yX2x95z-MXpN7swVvg7mmznW50l5tj6lZ3mxVCdM0L5rJZldN5kJYY0PxlMFW4RgH374-wqgYW5swLj87zTrNDN3_YDxwNHfchW58lgDp1l33fXVNpQbJ24pMHsW2Z4Jgq45gtxbW4GXt357Phn5zW2s7NwV56r5S6VySXyg82dgJTW67zmRs1zT6-0W7x5XkH6j9RVQW34zSbT3g7bXbW6lrDlM14_KYGW7z1jT24zxsk1W8W_Pq857s_FkW5WLZw044JqvSW6PkdvQ8nlY73N73F7-Hn5pwSW4SWBL03ksYyDW7-NcnT43d6HxW7q4gKs8cmSwKW8ghxZr3nyqbsW1pwdDh2lbdmJW1Mc0y_6p8dSXMScrY_9WZPPW4DRm4H6w73mQW2F5pQL4k3Dk6W6Smm-j2bfxFxW2W7V6B1HGwT9N49sF0HRJcwpW67rs103Vmt67W70_WdR6Hpkz1W58m8C67tknHwW2v09XL1BY4l7W6W1h-17dxR3wMr1fynFjgcrW3vtM2w84LjS6W812WSd5tszYCW3q9Gz-89t6_3W22zXq73L2rkZW4m0HLT4JWLLJW5595ps724fSRW8RRKq64HPMrrW6Lb2zx1x65w0W4jktp97S-X8NW8qRtXj7DM-rXf3gjyyg04)
+
+## You're all caught up!
+
+If you found this newsletter valuable, please share it with a friend or colleague.
+
+*– Charlie (the OpenEd newsletter guy)*
+
+‍
