@@ -1,0 +1,122 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Build output
+dist/
+build/
+out/
+.next/
+.vercel
+
+# Testing
+coverage/
+.nyc_output
+
+# Video and audio files (large media)
+*.mp4
+*.m4a
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+
+# Large data files
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!convex.json
+!railway.json
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Credentials and sensitive data
+*credentials*/
+*secret*
+*password*
+*token*
+*.pem
+*.key
+
+# Specific sensitive folders
+Archive/seo-article-factory-credentials/
+Archive/gmail-crm/.env*
+Archive/gmail-crm/credentials/
+
+# Large archived content
+Archived Large Files/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+.cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Git files (for fresh upload)
+.git/
+.gitattributes
+
+# iCloud conflict files
+*(Autosaved)*
+*conflicted*
