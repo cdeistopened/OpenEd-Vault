@@ -1,0 +1,32 @@
+---
+name: "Elevedancecenter"
+email: "elevedancecenter@gmail.com"
+company: ""
+sent_count: 2
+received_count: 0
+total_exchanges: 2
+first_contact: 2024-10-25
+last_contact: 2024-10-25
+tags: [dormant]
+potential_contributor: false
+type: contact
+---
+
+# Elevedancecenter
+
+**Email:** elevedancecenter@gmail.com
+**Company:** Personal
+**Exchanges:** 2 sent, 0 received
+
+## Recent Subjects
+- Re: status update (OpenEd application)
+- status update (OpenEd application)
+
+## Notes
+
+_Add notes about this contact here._
+
+## History
+
+- First contact: 2024-10-25
+- Last contact: 2024-10-25
